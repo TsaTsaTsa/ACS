@@ -1,0 +1,5 @@
+Sorted container = 
+Container contains 3 elements.
+0: It is complex number: real part = 8, imaginary part = 3. Convert to real number 8.544
+1: It is fraction: Numerator = 4, Denominator = -3. Convert to real number -1.33333
+2: It is fraction: Numerator = 0, Denominator = 0. Convert to real number -nan

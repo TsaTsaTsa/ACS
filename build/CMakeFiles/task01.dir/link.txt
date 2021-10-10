@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -g   CMakeFiles/task01.dir/complex.cpp.o CMakeFiles/task01.dir/polar_coordinates.cpp.o CMakeFiles/task01.dir/fractional.cpp.o CMakeFiles/task01.dir/container.cpp.o CMakeFiles/task01.dir/number.cpp.o CMakeFiles/task01.dir/main.cpp.o  -o ../bin/task01 
