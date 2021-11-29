@@ -1,0 +1,16 @@
+===== FILLED CONTAINER =====
+Container is store 6 numbers:
+It is polar coordinates: angel = 4, x coordinate = 8, y coordinate = 9. Convert to real number 12.041594578792296
+It is fraction: Numerator = 7, Denominator = 40. Convert to real number 0.175
+It is complex number: real part = 2, imaginary part = 1. Convert to real number 2.23606797749979
+It is fraction: Numerator = 3, Denominator = 2. Convert to real number 1.5
+It is polar coordinates: angel = 52, x coordinate = 8, y coordinate = 4. Convert to real number 8.94427190999916
+It is polar coordinates: angel = 19, x coordinate = 5, y coordinate = 4. Convert to real number 6.4031242374328485
+===== SORTED CONTAINER =====
+Container is store 6 numbers:
+It is polar coordinates: angel = 4, x coordinate = 8, y coordinate = 9. Convert to real number 12.041594578792296
+It is polar coordinates: angel = 52, x coordinate = 8, y coordinate = 4. Convert to real number 8.94427190999916
+It is polar coordinates: angel = 19, x coordinate = 5, y coordinate = 4. Convert to real number 6.4031242374328485
+It is complex number: real part = 2, imaginary part = 1. Convert to real number 2.23606797749979
+It is fraction: Numerator = 3, Denominator = 2. Convert to real number 1.5
+It is fraction: Numerator = 7, Denominator = 40. Convert to real number 0.175
