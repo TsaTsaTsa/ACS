@@ -1,0 +1,2005 @@
+===== FILLED CONTAINER =====
+Container contains 1000 elements.
+0: It is fraction: Numerator = 32, Denominator = 14. Convert to real number 2.28571
+1: It is fraction: Numerator = 39, Denominator = 1. Convert to real number 39
+2: It is complex number: real part = 30, imaginary part = 13. Convert to real number 32.6956
+3: It is complex number: real part = 45, imaginary part = 32. Convert to real number 55.2178
+4: It is complex number: real part = 26, imaginary part = 1. Convert to real number 26.0192
+5: It is complex number: real part = 2, imaginary part = 9. Convert to real number 9.21954
+6: It is complex number: real part = 21, imaginary part = 39. Convert to real number 44.2945
+7: It is polar coordinates: angel = 29, x coordinate = 14, y coordinate = 1. Convert to real number 14.0357
+8: It is complex number: real part = 26, imaginary part = 12. Convert to real number 28.6356
+9: It is complex number: real part = 37, imaginary part = 47. Convert to real number 59.8164
+10: It is complex number: real part = 20, imaginary part = 10. Convert to real number 22.3607
+11: It is polar coordinates: angel = 8, x coordinate = 12, y coordinate = 50. Convert to real number 51.4198
+12: It is polar coordinates: angel = 27, x coordinate = 47, y coordinate = 34. Convert to real number 58.0086
+13: It is fraction: Numerator = 31, Denominator = 9. Convert to real number 3.44444
+14: It is fraction: Numerator = 10, Denominator = 12. Convert to real number 0.833333
+15: It is fraction: Numerator = 49, Denominator = 32. Convert to real number 1.53125
+16: It is complex number: real part = 22, imaginary part = 12. Convert to real number 25.0599
+17: It is fraction: Numerator = 25, Denominator = 17. Convert to real number 1.47059
+18: It is fraction: Numerator = 36, Denominator = 38. Convert to real number 0.947368
+19: It is fraction: Numerator = 32, Denominator = 26. Convert to real number 1.23077
+20: It is complex number: real part = 43, imaginary part = 13. Convert to real number 44.9222
+21: It is fraction: Numerator = 5, Denominator = 12. Convert to real number 0.416667
+22: It is complex number: real part = 33, imaginary part = 11. Convert to real number 34.7851
+23: It is complex number: real part = 40, imaginary part = 41. Convert to real number 57.28
+24: It is fraction: Numerator = 48, Denominator = 2. Convert to real number 24
+25: It is complex number: real part = 16, imaginary part = 50. Convert to real number 52.4976
+26: It is fraction: Numerator = 22, Denominator = 23. Convert to real number 0.956522
+27: It is fraction: Numerator = 43, Denominator = 47. Convert to real number 0.914894
+28: It is polar coordinates: angel = 39, x coordinate = 35, y coordinate = 11. Convert to real number 36.6879
+29: It is fraction: Numerator = 18, Denominator = 39. Convert to real number 0.461538
+30: It is complex number: real part = 13, imaginary part = 1. Convert to real number 13.0384
+31: It is complex number: real part = 19, imaginary part = 13. Convert to real number 23.0217
+32: It is fraction: Numerator = 1, Denominator = 23. Convert to real number 0.0434783
+33: It is fraction: Numerator = 40, Denominator = 15. Convert to real number 2.66667
+34: It is complex number: real part = 37, imaginary part = 16. Convert to real number 40.3113
+35: It is polar coordinates: angel = 4, x coordinate = 17, y coordinate = 38. Convert to real number 41.6293
+36: It is complex number: real part = 41, imaginary part = 45. Convert to real number 60.8769
+37: It is complex number: real part = 40, imaginary part = 18. Convert to real number 43.8634
+38: It is complex number: real part = 24, imaginary part = 28. Convert to real number 36.8782
+39: It is complex number: real part = 43, imaginary part = 18. Convert to real number 46.6154
+40: It is fraction: Numerator = 5, Denominator = 19. Convert to real number 0.263158
+41: It is polar coordinates: angel = 23, x coordinate = 31, y coordinate = 1. Convert to real number 31.0161
+42: It is complex number: real part = 5, imaginary part = 36. Convert to real number 36.3456
+43: It is polar coordinates: angel = 21, x coordinate = 21, y coordinate = 3. Convert to real number 21.2132
+44: It is fraction: Numerator = 15, Denominator = 7. Convert to real number 2.14286
+45: It is complex number: real part = 3, imaginary part = 33. Convert to real number 33.1361
+46: It is complex number: real part = 47, imaginary part = 2. Convert to real number 47.0425
+47: It is fraction: Numerator = 14, Denominator = 8. Convert to real number 1.75
+48: It is complex number: real part = 43, imaginary part = 41. Convert to real number 59.4138
+49: It is fraction: Numerator = 11, Denominator = 1. Convert to real number 11
+50: It is polar coordinates: angel = 31, x coordinate = 5, y coordinate = 34. Convert to real number 34.3657
+51: It is fraction: Numerator = 8, Denominator = 10. Convert to real number 0.8
+52: It is fraction: Numerator = 45, Denominator = 24. Convert to real number 1.875
+53: It is complex number: real part = 15, imaginary part = 29. Convert to real number 32.6497
+54: It is polar coordinates: angel = 31, x coordinate = 35, y coordinate = 29. Convert to real number 45.4533
+55: It is polar coordinates: angel = 17, x coordinate = 24, y coordinate = 31. Convert to real number 39.2046
+56: It is polar coordinates: angel = 11, x coordinate = 46, y coordinate = 28. Convert to real number 53.8516
+57: It is complex number: real part = 41, imaginary part = 20. Convert to real number 45.618
+58: It is fraction: Numerator = 3, Denominator = 20. Convert to real number 0.15
+59: It is complex number: real part = 33, imaginary part = 26. Convert to real number 42.0119
+60: It is complex number: real part = 45, imaginary part = 33. Convert to real number 55.8032
+61: It is complex number: real part = 11, imaginary part = 29. Convert to real number 31.0161
+62: It is complex number: real part = 49, imaginary part = 43. Convert to real number 65.192
+63: It is fraction: Numerator = 24, Denominator = 24. Convert to real number 1
+64: It is polar coordinates: angel = 4, x coordinate = 8, y coordinate = 37. Convert to real number 37.855
+65: It is fraction: Numerator = 41, Denominator = 7. Convert to real number 5.85714
+66: It is polar coordinates: angel = 36, x coordinate = 36, y coordinate = 13. Convert to real number 38.2753
+67: It is complex number: real part = 5, imaginary part = 40. Convert to real number 40.3113
+68: It is polar coordinates: angel = 26, x coordinate = 26, y coordinate = 12. Convert to real number 28.6356
+69: It is complex number: real part = 49, imaginary part = 8. Convert to real number 49.6488
+70: It is polar coordinates: angel = 32, x coordinate = 20, y coordinate = 14. Convert to real number 24.4131
+71: It is fraction: Numerator = 18, Denominator = 9. Convert to real number 2
+72: It is polar coordinates: angel = 43, x coordinate = 34, y coordinate = 44. Convert to real number 55.6058
+73: It is complex number: real part = 41, imaginary part = 30. Convert to real number 50.8035
+74: It is complex number: real part = 31, imaginary part = 38. Convert to real number 49.0408
+75: It is polar coordinates: angel = 19, x coordinate = 23, y coordinate = 27. Convert to real number 35.4683
+76: It is complex number: real part = 27, imaginary part = 17. Convert to real number 31.9061
+77: It is complex number: real part = 4, imaginary part = 44. Convert to real number 44.1814
+78: It is fraction: Numerator = 5, Denominator = 45. Convert to real number 0.111111
+79: It is complex number: real part = 42, imaginary part = 26. Convert to real number 49.3964
+80: It is polar coordinates: angel = 7, x coordinate = 15, y coordinate = 38. Convert to real number 40.8534
+81: It is polar coordinates: angel = 38, x coordinate = 30, y coordinate = 48. Convert to real number 56.6039
+82: It is complex number: real part = 28, imaginary part = 41. Convert to real number 49.6488
+83: It is polar coordinates: angel = 2, x coordinate = 23, y coordinate = 50. Convert to real number 55.0364
+84: It is complex number: real part = 41, imaginary part = 24. Convert to real number 47.5079
+85: It is polar coordinates: angel = 39, x coordinate = 3, y coordinate = 13. Convert to real number 13.3417
+86: It is complex number: real part = 6, imaginary part = 8. Convert to real number 10
+87: It is polar coordinates: angel = 12, x coordinate = 2, y coordinate = 4. Convert to real number 4.47214
+88: It is fraction: Numerator = 29, Denominator = 24. Convert to real number 1.20833
+89: It is polar coordinates: angel = 43, x coordinate = 11, y coordinate = 28. Convert to real number 30.0832
+90: It is polar coordinates: angel = 42, x coordinate = 28, y coordinate = 10. Convert to real number 29.7321
+91: It is complex number: real part = 20, imaginary part = 24. Convert to real number 31.241
+92: It is fraction: Numerator = 42, Denominator = 25. Convert to real number 1.68
+93: It is fraction: Numerator = 33, Denominator = 48. Convert to real number 0.6875
+94: It is fraction: Numerator = 21, Denominator = 2. Convert to real number 10.5
+95: It is complex number: real part = 38, imaginary part = 8. Convert to real number 38.833
+96: It is polar coordinates: angel = 43, x coordinate = 19, y coordinate = 5. Convert to real number 19.6469
+97: It is fraction: Numerator = 26, Denominator = 35. Convert to real number 0.742857
+98: It is fraction: Numerator = 39, Denominator = 28. Convert to real number 1.39286
+99: It is fraction: Numerator = 16, Denominator = 7. Convert to real number 2.28571
+100: It is fraction: Numerator = 45, Denominator = 19. Convert to real number 2.36842
+101: It is polar coordinates: angel = 14, x coordinate = 44, y coordinate = 13. Convert to real number 45.8803
+102: It is fraction: Numerator = 18, Denominator = 50. Convert to real number 0.36
+103: It is polar coordinates: angel = 17, x coordinate = 33, y coordinate = 14. Convert to real number 35.8469
+104: It is complex number: real part = 28, imaginary part = 1. Convert to real number 28.0179
+105: It is fraction: Numerator = 31, Denominator = 43. Convert to real number 0.72093
+106: It is complex number: real part = 37, imaginary part = 41. Convert to real number 55.2268
+107: It is polar coordinates: angel = 21, x coordinate = 12, y coordinate = 9. Convert to real number 15
+108: It is fraction: Numerator = 43, Denominator = 27. Convert to real number 1.59259
+109: It is polar coordinates: angel = 18, x coordinate = 23, y coordinate = 27. Convert to real number 35.4683
+110: It is fraction: Numerator = 39, Denominator = 22. Convert to real number 1.77273
+111: It is fraction: Numerator = 46, Denominator = 39. Convert to real number 1.17949
+112: It is complex number: real part = 37, imaginary part = 5. Convert to real number 37.3363
+113: It is polar coordinates: angel = 2, x coordinate = 23, y coordinate = 37. Convert to real number 43.566
+114: It is fraction: Numerator = 50, Denominator = 19. Convert to real number 2.63158
+115: It is fraction: Numerator = 48, Denominator = 7. Convert to real number 6.85714
+116: It is fraction: Numerator = 20, Denominator = 27. Convert to real number 0.740741
+117: It is polar coordinates: angel = 29, x coordinate = 27, y coordinate = 41. Convert to real number 49.0918
+118: It is complex number: real part = 37, imaginary part = 10. Convert to real number 38.3275
+119: It is complex number: real part = 13, imaginary part = 20. Convert to real number 23.8537
+120: It is complex number: real part = 36, imaginary part = 44. Convert to real number 56.8507
+121: It is complex number: real part = 24, imaginary part = 20. Convert to real number 31.241
+122: It is complex number: real part = 30, imaginary part = 29. Convert to real number 41.7253
+123: It is fraction: Numerator = 3, Denominator = 15. Convert to real number 0.2
+124: It is polar coordinates: angel = 4, x coordinate = 35, y coordinate = 2. Convert to real number 35.0571
+125: It is complex number: real part = 41, imaginary part = 38. Convert to real number 55.9017
+126: It is polar coordinates: angel = 19, x coordinate = 35, y coordinate = 1. Convert to real number 35.0143
+127: It is fraction: Numerator = 27, Denominator = 9. Convert to real number 3
+128: It is polar coordinates: angel = 36, x coordinate = 39, y coordinate = 47. Convert to real number 61.0737
+129: It is complex number: real part = 10, imaginary part = 32. Convert to real number 33.5261
+130: It is complex number: real part = 25, imaginary part = 5. Convert to real number 25.4951
+131: It is fraction: Numerator = 31, Denominator = 35. Convert to real number 0.885714
+132: It is fraction: Numerator = 35, Denominator = 39. Convert to real number 0.897436
+133: It is fraction: Numerator = 43, Denominator = 44. Convert to real number 0.977273
+134: It is fraction: Numerator = 44, Denominator = 45. Convert to real number 0.977778
+135: It is complex number: real part = 33, imaginary part = 17. Convert to real number 37.1214
+136: It is polar coordinates: angel = 17, x coordinate = 19, y coordinate = 5. Convert to real number 19.6469
+137: It is fraction: Numerator = 27, Denominator = 40. Convert to real number 0.675
+138: It is complex number: real part = 17, imaginary part = 36. Convert to real number 39.8121
+139: It is fraction: Numerator = 26, Denominator = 18. Convert to real number 1.44444
+140: It is complex number: real part = 3, imaginary part = 22. Convert to real number 22.2036
+141: It is fraction: Numerator = 35, Denominator = 8. Convert to real number 4.375
+142: It is fraction: Numerator = 21, Denominator = 48. Convert to real number 0.4375
+143: It is fraction: Numerator = 13, Denominator = 42. Convert to real number 0.309524
+144: It is fraction: Numerator = 8, Denominator = 38. Convert to real number 0.210526
+145: It is polar coordinates: angel = 40, x coordinate = 6, y coordinate = 25. Convert to real number 25.7099
+146: It is polar coordinates: angel = 24, x coordinate = 32, y coordinate = 4. Convert to real number 32.249
+147: It is fraction: Numerator = 21, Denominator = 36. Convert to real number 0.583333
+148: It is polar coordinates: angel = 6, x coordinate = 25, y coordinate = 46. Convert to real number 52.3546
+149: It is complex number: real part = 14, imaginary part = 50. Convert to real number 51.923
+150: It is fraction: Numerator = 27, Denominator = 34. Convert to real number 0.794118
+151: It is polar coordinates: angel = 37, x coordinate = 4, y coordinate = 6. Convert to real number 7.2111
+152: It is fraction: Numerator = 19, Denominator = 49. Convert to real number 0.387755
+153: It is polar coordinates: angel = 28, x coordinate = 38, y coordinate = 6. Convert to real number 38.4708
+154: It is fraction: Numerator = 43, Denominator = 32. Convert to real number 1.34375
+155: It is complex number: real part = 18, imaginary part = 13. Convert to real number 22.2036
+156: It is polar coordinates: angel = 19, x coordinate = 35, y coordinate = 18. Convert to real number 39.3573
+157: It is fraction: Numerator = 43, Denominator = 43. Convert to real number 1
+158: It is fraction: Numerator = 17, Denominator = 8. Convert to real number 2.125
+159: It is complex number: real part = 15, imaginary part = 34. Convert to real number 37.1618
+160: It is complex number: real part = 23, imaginary part = 22. Convert to real number 31.8277
+161: It is complex number: real part = 28, imaginary part = 36. Convert to real number 45.607
+162: It is polar coordinates: angel = 26, x coordinate = 26, y coordinate = 22. Convert to real number 34.0588
+163: It is polar coordinates: angel = 33, x coordinate = 41, y coordinate = 7. Convert to real number 41.5933
+164: It is fraction: Numerator = 20, Denominator = 26. Convert to real number 0.769231
+165: It is complex number: real part = 4, imaginary part = 44. Convert to real number 44.1814
+166: It is complex number: real part = 22, imaginary part = 33. Convert to real number 39.6611
+167: It is fraction: Numerator = 16, Denominator = 18. Convert to real number 0.888889
+168: It is fraction: Numerator = 25, Denominator = 3. Convert to real number 8.33333
+169: It is fraction: Numerator = 11, Denominator = 24. Convert to real number 0.458333
+170: It is complex number: real part = 32, imaginary part = 50. Convert to real number 59.3633
+171: It is complex number: real part = 19, imaginary part = 44. Convert to real number 47.927
+172: It is fraction: Numerator = 47, Denominator = 17. Convert to real number 2.76471
+173: It is complex number: real part = 29, imaginary part = 10. Convert to real number 30.6757
+174: It is polar coordinates: angel = 45, x coordinate = 31, y coordinate = 14. Convert to real number 34.0147
+175: It is fraction: Numerator = 35, Denominator = 9. Convert to real number 3.88889
+176: It is complex number: real part = 8, imaginary part = 41. Convert to real number 41.7732
+177: It is fraction: Numerator = 23, Denominator = 10. Convert to real number 2.3
+178: It is polar coordinates: angel = 49, x coordinate = 15, y coordinate = 17. Convert to real number 22.6716
+179: It is polar coordinates: angel = 40, x coordinate = 29, y coordinate = 41. Convert to real number 50.2195
+180: It is polar coordinates: angel = 20, x coordinate = 11, y coordinate = 34. Convert to real number 35.7351
+181: It is fraction: Numerator = 7, Denominator = 2. Convert to real number 3.5
+182: It is polar coordinates: angel = 38, x coordinate = 11, y coordinate = 8. Convert to real number 13.6015
+183: It is complex number: real part = 42, imaginary part = 21. Convert to real number 46.9574
+184: It is fraction: Numerator = 26, Denominator = 31. Convert to real number 0.83871
+185: It is polar coordinates: angel = 35, x coordinate = 24, y coordinate = 4. Convert to real number 24.3311
+186: It is polar coordinates: angel = 35, x coordinate = 33, y coordinate = 7. Convert to real number 33.7343
+187: It is complex number: real part = 49, imaginary part = 16. Convert to real number 51.5461
+188: It is complex number: real part = 30, imaginary part = 8. Convert to real number 31.0483
+189: It is polar coordinates: angel = 1, x coordinate = 18, y coordinate = 13. Convert to real number 22.2036
+190: It is polar coordinates: angel = 27, x coordinate = 17, y coordinate = 8. Convert to real number 18.7883
+191: It is fraction: Numerator = 27, Denominator = 16. Convert to real number 1.6875
+192: It is fraction: Numerator = 20, Denominator = 38. Convert to real number 0.526316
+193: It is complex number: real part = 47, imaginary part = 19. Convert to real number 50.6952
+194: It is polar coordinates: angel = 31, x coordinate = 44, y coordinate = 18. Convert to real number 47.5395
+195: It is polar coordinates: angel = 28, x coordinate = 50, y coordinate = 46. Convert to real number 67.9412
+196: It is fraction: Numerator = 50, Denominator = 13. Convert to real number 3.84615
+197: It is polar coordinates: angel = 29, x coordinate = 20, y coordinate = 48. Convert to real number 52
+198: It is polar coordinates: angel = 39, x coordinate = 12, y coordinate = 20. Convert to real number 23.3238
+199: It is fraction: Numerator = 28, Denominator = 27. Convert to real number 1.03704
+200: It is polar coordinates: angel = 7, x coordinate = 44, y coordinate = 29. Convert to real number 52.6972
+201: It is fraction: Numerator = 34, Denominator = 38. Convert to real number 0.894737
+202: It is fraction: Numerator = 4, Denominator = 1. Convert to real number 4
+203: It is polar coordinates: angel = 47, x coordinate = 18, y coordinate = 44. Convert to real number 47.5395
+204: It is polar coordinates: angel = 19, x coordinate = 41, y coordinate = 2. Convert to real number 41.0488
+205: It is complex number: real part = 5, imaginary part = 22. Convert to real number 22.561
+206: It is complex number: real part = 26, imaginary part = 19. Convert to real number 32.2025
+207: It is polar coordinates: angel = 14, x coordinate = 32, y coordinate = 49. Convert to real number 58.5235
+208: It is complex number: real part = 12, imaginary part = 28. Convert to real number 30.4631
+209: It is polar coordinates: angel = 18, x coordinate = 23, y coordinate = 42. Convert to real number 47.8853
+210: It is complex number: real part = 6, imaginary part = 29. Convert to real number 29.6142
+211: It is fraction: Numerator = 9, Denominator = 32. Convert to real number 0.28125
+212: It is complex number: real part = 7, imaginary part = 1. Convert to real number 7.07107
+213: It is polar coordinates: angel = 31, x coordinate = 20, y coordinate = 7. Convert to real number 21.1896
+214: It is complex number: real part = 40, imaginary part = 11. Convert to real number 41.4849
+215: It is fraction: Numerator = 38, Denominator = 36. Convert to real number 1.05556
+216: It is complex number: real part = 18, imaginary part = 49. Convert to real number 52.2015
+217: It is complex number: real part = 18, imaginary part = 31. Convert to real number 35.8469
+218: It is fraction: Numerator = 47, Denominator = 45. Convert to real number 1.04444
+219: It is complex number: real part = 20, imaginary part = 36. Convert to real number 41.1825
+220: It is complex number: real part = 27, imaginary part = 17. Convert to real number 31.9061
+221: It is polar coordinates: angel = 38, x coordinate = 48, y coordinate = 19. Convert to real number 51.6236
+222: It is fraction: Numerator = 48, Denominator = 35. Convert to real number 1.37143
+223: It is fraction: Numerator = 17, Denominator = 41. Convert to real number 0.414634
+224: It is polar coordinates: angel = 6, x coordinate = 3, y coordinate = 16. Convert to real number 16.2788
+225: It is complex number: real part = 38, imaginary part = 41. Convert to real number 55.9017
+226: It is polar coordinates: angel = 38, x coordinate = 49, y coordinate = 32. Convert to real number 58.5235
+227: It is complex number: real part = 20, imaginary part = 31. Convert to real number 36.8917
+228: It is polar coordinates: angel = 6, x coordinate = 2, y coordinate = 50. Convert to real number 50.04
+229: It is fraction: Numerator = 28, Denominator = 16. Convert to real number 1.75
+230: It is fraction: Numerator = 17, Denominator = 13. Convert to real number 1.30769
+231: It is fraction: Numerator = 13, Denominator = 11. Convert to real number 1.18182
+232: It is fraction: Numerator = 40, Denominator = 29. Convert to real number 1.37931
+233: It is polar coordinates: angel = 1, x coordinate = 37, y coordinate = 35. Convert to real number 50.9313
+234: It is fraction: Numerator = 34, Denominator = 22. Convert to real number 1.54545
+235: It is polar coordinates: angel = 48, x coordinate = 10, y coordinate = 9. Convert to real number 13.4536
+236: It is complex number: real part = 30, imaginary part = 28. Convert to real number 41.0366
+237: It is fraction: Numerator = 44, Denominator = 35. Convert to real number 1.25714
+238: It is polar coordinates: angel = 45, x coordinate = 22, y coordinate = 42. Convert to real number 47.4131
+239: It is fraction: Numerator = 9, Denominator = 8. Convert to real number 1.125
+240: It is fraction: Numerator = 15, Denominator = 22. Convert to real number 0.681818
+241: It is fraction: Numerator = 6, Denominator = 12. Convert to real number 0.5
+242: It is complex number: real part = 38, imaginary part = 12. Convert to real number 39.8497
+243: It is complex number: real part = 25, imaginary part = 30. Convert to real number 39.0512
+244: It is complex number: real part = 46, imaginary part = 40. Convert to real number 60.959
+245: It is complex number: real part = 7, imaginary part = 48. Convert to real number 48.5077
+246: It is fraction: Numerator = 38, Denominator = 27. Convert to real number 1.40741
+247: It is polar coordinates: angel = 33, x coordinate = 13, y coordinate = 38. Convert to real number 40.1622
+248: It is complex number: real part = 35, imaginary part = 29. Convert to real number 45.4533
+249: It is complex number: real part = 45, imaginary part = 39. Convert to real number 59.5483
+250: It is fraction: Numerator = 9, Denominator = 10. Convert to real number 0.9
+251: It is complex number: real part = 16, imaginary part = 21. Convert to real number 26.4008
+252: It is complex number: real part = 6, imaginary part = 35. Convert to real number 35.5106
+253: It is polar coordinates: angel = 30, x coordinate = 14, y coordinate = 7. Convert to real number 15.6525
+254: It is polar coordinates: angel = 4, x coordinate = 42, y coordinate = 36. Convert to real number 55.3173
+255: It is polar coordinates: angel = 7, x coordinate = 25, y coordinate = 32. Convert to real number 40.6079
+256: It is polar coordinates: angel = 8, x coordinate = 46, y coordinate = 21. Convert to real number 50.5668
+257: It is complex number: real part = 30, imaginary part = 1. Convert to real number 30.0167
+258: It is complex number: real part = 26, imaginary part = 39. Convert to real number 46.8722
+259: It is fraction: Numerator = 37, Denominator = 49. Convert to real number 0.755102
+260: It is fraction: Numerator = 2, Denominator = 21. Convert to real number 0.0952381
+261: It is fraction: Numerator = 9, Denominator = 5. Convert to real number 1.8
+262: It is complex number: real part = 38, imaginary part = 19. Convert to real number 42.4853
+263: It is polar coordinates: angel = 17, x coordinate = 24, y coordinate = 29. Convert to real number 37.6431
+264: It is fraction: Numerator = 28, Denominator = 36. Convert to real number 0.777778
+265: It is fraction: Numerator = 11, Denominator = 18. Convert to real number 0.611111
+266: It is fraction: Numerator = 7, Denominator = 40. Convert to real number 0.175
+267: It is fraction: Numerator = 38, Denominator = 41. Convert to real number 0.926829
+268: It is fraction: Numerator = 14, Denominator = 31. Convert to real number 0.451613
+269: It is complex number: real part = 2, imaginary part = 29. Convert to real number 29.0689
+270: It is fraction: Numerator = 3, Denominator = 50. Convert to real number 0.06
+271: It is polar coordinates: angel = 14, x coordinate = 4, y coordinate = 24. Convert to real number 24.3311
+272: It is complex number: real part = 24, imaginary part = 10. Convert to real number 26
+273: It is fraction: Numerator = 49, Denominator = 38. Convert to real number 1.28947
+274: It is fraction: Numerator = 29, Denominator = 25. Convert to real number 1.16
+275: It is polar coordinates: angel = 39, x coordinate = 45, y coordinate = 34. Convert to real number 56.4004
+276: It is fraction: Numerator = 34, Denominator = 7. Convert to real number 4.85714
+277: It is fraction: Numerator = 26, Denominator = 8. Convert to real number 3.25
+278: It is fraction: Numerator = 7, Denominator = 2. Convert to real number 3.5
+279: It is complex number: real part = 37, imaginary part = 39. Convert to real number 53.7587
+280: It is fraction: Numerator = 38, Denominator = 33. Convert to real number 1.15152
+281: It is polar coordinates: angel = 44, x coordinate = 6, y coordinate = 21. Convert to real number 21.8403
+282: It is fraction: Numerator = 17, Denominator = 39. Convert to real number 0.435897
+283: It is polar coordinates: angel = 7, x coordinate = 11, y coordinate = 48. Convert to real number 49.2443
+284: It is complex number: real part = 8, imaginary part = 38. Convert to real number 38.833
+285: It is polar coordinates: angel = 41, x coordinate = 35, y coordinate = 11. Convert to real number 36.6879
+286: It is complex number: real part = 21, imaginary part = 38. Convert to real number 43.4166
+287: It is complex number: real part = 22, imaginary part = 46. Convert to real number 50.9902
+288: It is complex number: real part = 24, imaginary part = 33. Convert to real number 40.8044
+289: It is polar coordinates: angel = 28, x coordinate = 20, y coordinate = 32. Convert to real number 37.7359
+290: It is polar coordinates: angel = 13, x coordinate = 40, y coordinate = 20. Convert to real number 44.7214
+291: It is fraction: Numerator = 6, Denominator = 8. Convert to real number 0.75
+292: It is complex number: real part = 14, imaginary part = 18. Convert to real number 22.8035
+293: It is polar coordinates: angel = 47, x coordinate = 27, y coordinate = 35. Convert to real number 44.2041
+294: It is fraction: Numerator = 18, Denominator = 21. Convert to real number 0.857143
+295: It is fraction: Numerator = 16, Denominator = 41. Convert to real number 0.390244
+296: It is complex number: real part = 24, imaginary part = 14. Convert to real number 27.7849
+297: It is fraction: Numerator = 34, Denominator = 37. Convert to real number 0.918919
+298: It is complex number: real part = 33, imaginary part = 17. Convert to real number 37.1214
+299: It is fraction: Numerator = 15, Denominator = 16. Convert to real number 0.9375
+300: It is complex number: real part = 4, imaginary part = 35. Convert to real number 35.2278
+301: It is polar coordinates: angel = 11, x coordinate = 44, y coordinate = 23. Convert to real number 49.6488
+302: It is polar coordinates: angel = 14, x coordinate = 22, y coordinate = 25. Convert to real number 33.3017
+303: It is complex number: real part = 9, imaginary part = 47. Convert to real number 47.8539
+304: It is polar coordinates: angel = 29, x coordinate = 34, y coordinate = 25. Convert to real number 42.2019
+305: It is complex number: real part = 8, imaginary part = 50. Convert to real number 50.636
+306: It is fraction: Numerator = 29, Denominator = 33. Convert to real number 0.878788
+307: It is complex number: real part = 33, imaginary part = 18. Convert to real number 37.5899
+308: It is complex number: real part = 8, imaginary part = 34. Convert to real number 34.9285
+309: It is fraction: Numerator = 47, Denominator = 37. Convert to real number 1.27027
+310: It is polar coordinates: angel = 20, x coordinate = 49, y coordinate = 32. Convert to real number 58.5235
+311: It is polar coordinates: angel = 27, x coordinate = 47, y coordinate = 14. Convert to real number 49.0408
+312: It is complex number: real part = 37, imaginary part = 24. Convert to real number 44.1022
+313: It is fraction: Numerator = 45, Denominator = 2. Convert to real number 22.5
+314: It is polar coordinates: angel = 21, x coordinate = 25, y coordinate = 40. Convert to real number 47.1699
+315: It is polar coordinates: angel = 10, x coordinate = 18, y coordinate = 5. Convert to real number 18.6815
+316: It is polar coordinates: angel = 2, x coordinate = 22, y coordinate = 22. Convert to real number 31.1127
+317: It is polar coordinates: angel = 5, x coordinate = 28, y coordinate = 8. Convert to real number 29.1204
+318: It is complex number: real part = 16, imaginary part = 27. Convert to real number 31.3847
+319: It is fraction: Numerator = 49, Denominator = 20. Convert to real number 2.45
+320: It is fraction: Numerator = 46, Denominator = 35. Convert to real number 1.31429
+321: It is fraction: Numerator = 34, Denominator = 8. Convert to real number 4.25
+322: It is complex number: real part = 30, imaginary part = 12. Convert to real number 32.311
+323: It is complex number: real part = 1, imaginary part = 36. Convert to real number 36.0139
+324: It is polar coordinates: angel = 21, x coordinate = 47, y coordinate = 14. Convert to real number 49.0408
+325: It is polar coordinates: angel = 29, x coordinate = 16, y coordinate = 49. Convert to real number 51.5461
+326: It is fraction: Numerator = 26, Denominator = 5. Convert to real number 5.2
+327: It is fraction: Numerator = 35, Denominator = 50. Convert to real number 0.7
+328: It is complex number: real part = 11, imaginary part = 45. Convert to real number 46.3249
+329: It is fraction: Numerator = 33, Denominator = 16. Convert to real number 2.0625
+330: It is fraction: Numerator = 19, Denominator = 38. Convert to real number 0.5
+331: It is polar coordinates: angel = 27, x coordinate = 9, y coordinate = 6. Convert to real number 10.8167
+332: It is fraction: Numerator = 14, Denominator = 6. Convert to real number 2.33333
+333: It is complex number: real part = 8, imaginary part = 28. Convert to real number 29.1204
+334: It is complex number: real part = 24, imaginary part = 5. Convert to real number 24.5153
+335: It is fraction: Numerator = 41, Denominator = 5. Convert to real number 8.2
+336: It is complex number: real part = 18, imaginary part = 11. Convert to real number 21.095
+337: It is complex number: real part = 3, imaginary part = 10. Convert to real number 10.4403
+338: It is polar coordinates: angel = 15, x coordinate = 6, y coordinate = 28. Convert to real number 28.6356
+339: It is fraction: Numerator = 22, Denominator = 21. Convert to real number 1.04762
+340: It is complex number: real part = 9, imaginary part = 49. Convert to real number 49.8197
+341: It is fraction: Numerator = 20, Denominator = 6. Convert to real number 3.33333
+342: It is polar coordinates: angel = 35, x coordinate = 14, y coordinate = 7. Convert to real number 15.6525
+343: It is polar coordinates: angel = 41, x coordinate = 30, y coordinate = 18. Convert to real number 34.9857
+344: It is fraction: Numerator = 32, Denominator = 8. Convert to real number 4
+345: It is complex number: real part = 35, imaginary part = 27. Convert to real number 44.2041
+346: It is fraction: Numerator = 20, Denominator = 29. Convert to real number 0.689655
+347: It is fraction: Numerator = 1, Denominator = 44. Convert to real number 0.0227273
+348: It is complex number: real part = 28, imaginary part = 42. Convert to real number 50.4777
+349: It is fraction: Numerator = 50, Denominator = 7. Convert to real number 7.14286
+350: It is polar coordinates: angel = 48, x coordinate = 2, y coordinate = 33. Convert to real number 33.0606
+351: It is complex number: real part = 36, imaginary part = 18. Convert to real number 40.2492
+352: It is fraction: Numerator = 43, Denominator = 12. Convert to real number 3.58333
+353: It is polar coordinates: angel = 22, x coordinate = 31, y coordinate = 6. Convert to real number 31.5753
+354: It is fraction: Numerator = 40, Denominator = 8. Convert to real number 5
+355: It is polar coordinates: angel = 16, x coordinate = 21, y coordinate = 11. Convert to real number 23.7065
+356: It is polar coordinates: angel = 46, x coordinate = 11, y coordinate = 38. Convert to real number 39.5601
+357: It is fraction: Numerator = 39, Denominator = 29. Convert to real number 1.34483
+358: It is fraction: Numerator = 40, Denominator = 38. Convert to real number 1.05263
+359: It is complex number: real part = 38, imaginary part = 41. Convert to real number 55.9017
+360: It is complex number: real part = 43, imaginary part = 27. Convert to real number 50.774
+361: It is polar coordinates: angel = 9, x coordinate = 21, y coordinate = 5. Convert to real number 21.587
+362: It is complex number: real part = 44, imaginary part = 35. Convert to real number 56.2228
+363: It is polar coordinates: angel = 49, x coordinate = 24, y coordinate = 32. Convert to real number 40
+364: It is polar coordinates: angel = 41, x coordinate = 4, y coordinate = 49. Convert to real number 49.163
+365: It is fraction: Numerator = 49, Denominator = 10. Convert to real number 4.9
+366: It is polar coordinates: angel = 26, x coordinate = 50, y coordinate = 5. Convert to real number 50.2494
+367: It is complex number: real part = 39, imaginary part = 44. Convert to real number 58.7963
+368: It is complex number: real part = 28, imaginary part = 34. Convert to real number 44.0454
+369: It is fraction: Numerator = 20, Denominator = 12. Convert to real number 1.66667
+370: It is complex number: real part = 30, imaginary part = 32. Convert to real number 43.8634
+371: It is complex number: real part = 49, imaginary part = 26. Convert to real number 55.4707
+372: It is polar coordinates: angel = 22, x coordinate = 24, y coordinate = 28. Convert to real number 36.8782
+373: It is fraction: Numerator = 12, Denominator = 18. Convert to real number 0.666667
+374: It is polar coordinates: angel = 13, x coordinate = 5, y coordinate = 9. Convert to real number 10.2956
+375: It is polar coordinates: angel = 30, x coordinate = 35, y coordinate = 23. Convert to real number 41.8808
+376: It is complex number: real part = 40, imaginary part = 13. Convert to real number 42.0595
+377: It is fraction: Numerator = 35, Denominator = 41. Convert to real number 0.853659
+378: It is complex number: real part = 6, imaginary part = 10. Convert to real number 11.6619
+379: It is polar coordinates: angel = 20, x coordinate = 40, y coordinate = 8. Convert to real number 40.7922
+380: It is fraction: Numerator = 38, Denominator = 33. Convert to real number 1.15152
+381: It is complex number: real part = 11, imaginary part = 8. Convert to real number 13.6015
+382: It is complex number: real part = 18, imaginary part = 21. Convert to real number 27.6586
+383: It is polar coordinates: angel = 26, x coordinate = 33, y coordinate = 43. Convert to real number 54.2033
+384: It is polar coordinates: angel = 6, x coordinate = 24, y coordinate = 22. Convert to real number 32.5576
+385: It is polar coordinates: angel = 8, x coordinate = 12, y coordinate = 45. Convert to real number 46.5725
+386: It is polar coordinates: angel = 48, x coordinate = 35, y coordinate = 50. Convert to real number 61.0328
+387: It is polar coordinates: angel = 46, x coordinate = 26, y coordinate = 25. Convert to real number 36.0694
+388: It is complex number: real part = 33, imaginary part = 13. Convert to real number 35.4683
+389: It is fraction: Numerator = 17, Denominator = 4. Convert to real number 4.25
+390: It is complex number: real part = 24, imaginary part = 25. Convert to real number 34.6554
+391: It is polar coordinates: angel = 44, x coordinate = 13, y coordinate = 33. Convert to real number 35.4683
+392: It is fraction: Numerator = 7, Denominator = 18. Convert to real number 0.388889
+393: It is polar coordinates: angel = 30, x coordinate = 42, y coordinate = 16. Convert to real number 44.9444
+394: It is polar coordinates: angel = 5, x coordinate = 10, y coordinate = 27. Convert to real number 28.7924
+395: It is complex number: real part = 46, imaginary part = 28. Convert to real number 53.8516
+396: It is polar coordinates: angel = 43, x coordinate = 3, y coordinate = 36. Convert to real number 36.1248
+397: It is polar coordinates: angel = 37, x coordinate = 50, y coordinate = 5. Convert to real number 50.2494
+398: It is polar coordinates: angel = 3, x coordinate = 43, y coordinate = 28. Convert to real number 51.3128
+399: It is fraction: Numerator = 48, Denominator = 22. Convert to real number 2.18182
+400: It is complex number: real part = 30, imaginary part = 50. Convert to real number 58.3095
+401: It is complex number: real part = 50, imaginary part = 35. Convert to real number 61.0328
+402: It is polar coordinates: angel = 41, x coordinate = 2, y coordinate = 21. Convert to real number 21.095
+403: It is polar coordinates: angel = 13, x coordinate = 49, y coordinate = 48. Convert to real number 68.593
+404: It is fraction: Numerator = 27, Denominator = 9. Convert to real number 3
+405: It is complex number: real part = 31, imaginary part = 44. Convert to real number 53.8238
+406: It is fraction: Numerator = 18, Denominator = 43. Convert to real number 0.418605
+407: It is fraction: Numerator = 22, Denominator = 47. Convert to real number 0.468085
+408: It is polar coordinates: angel = 50, x coordinate = 28, y coordinate = 30. Convert to real number 41.0366
+409: It is fraction: Numerator = 20, Denominator = 12. Convert to real number 1.66667
+410: It is polar coordinates: angel = 21, x coordinate = 13, y coordinate = 10. Convert to real number 16.4012
+411: It is fraction: Numerator = 5, Denominator = 14. Convert to real number 0.357143
+412: It is complex number: real part = 49, imaginary part = 26. Convert to real number 55.4707
+413: It is fraction: Numerator = 48, Denominator = 36. Convert to real number 1.33333
+414: It is fraction: Numerator = 6, Denominator = 38. Convert to real number 0.157895
+415: It is complex number: real part = 1, imaginary part = 19. Convert to real number 19.0263
+416: It is polar coordinates: angel = 45, x coordinate = 6, y coordinate = 25. Convert to real number 25.7099
+417: It is polar coordinates: angel = 38, x coordinate = 26, y coordinate = 19. Convert to real number 32.2025
+418: It is fraction: Numerator = 50, Denominator = 40. Convert to real number 1.25
+419: It is polar coordinates: angel = 23, x coordinate = 12, y coordinate = 45. Convert to real number 46.5725
+420: It is complex number: real part = 16, imaginary part = 49. Convert to real number 51.5461
+421: It is fraction: Numerator = 43, Denominator = 49. Convert to real number 0.877551
+422: It is complex number: real part = 18, imaginary part = 48. Convert to real number 51.264
+423: It is complex number: real part = 21, imaginary part = 6. Convert to real number 21.8403
+424: It is fraction: Numerator = 4, Denominator = 6. Convert to real number 0.666667
+425: It is fraction: Numerator = 7, Denominator = 1. Convert to real number 7
+426: It is complex number: real part = 33, imaginary part = 44. Convert to real number 55
+427: It is polar coordinates: angel = 8, x coordinate = 14, y coordinate = 31. Convert to real number 34.0147
+428: It is polar coordinates: angel = 5, x coordinate = 15, y coordinate = 33. Convert to real number 36.2491
+429: It is fraction: Numerator = 11, Denominator = 16. Convert to real number 0.6875
+430: It is fraction: Numerator = 11, Denominator = 15. Convert to real number 0.733333
+431: It is fraction: Numerator = 9, Denominator = 39. Convert to real number 0.230769
+432: It is complex number: real part = 8, imaginary part = 48. Convert to real number 48.6621
+433: It is complex number: real part = 13, imaginary part = 46. Convert to real number 47.8017
+434: It is complex number: real part = 21, imaginary part = 12. Convert to real number 24.1868
+435: It is complex number: real part = 23, imaginary part = 33. Convert to real number 40.2244
+436: It is complex number: real part = 16, imaginary part = 46. Convert to real number 48.7032
+437: It is complex number: real part = 31, imaginary part = 28. Convert to real number 41.7732
+438: It is polar coordinates: angel = 35, x coordinate = 42, y coordinate = 8. Convert to real number 42.7551
+439: It is polar coordinates: angel = 4, x coordinate = 23, y coordinate = 37. Convert to real number 43.566
+440: It is fraction: Numerator = 37, Denominator = 12. Convert to real number 3.08333
+441: It is polar coordinates: angel = 27, x coordinate = 7, y coordinate = 32. Convert to real number 32.7567
+442: It is fraction: Numerator = 21, Denominator = 44. Convert to real number 0.477273
+443: It is polar coordinates: angel = 39, x coordinate = 14, y coordinate = 32. Convert to real number 34.9285
+444: It is complex number: real part = 38, imaginary part = 17. Convert to real number 41.6293
+445: It is polar coordinates: angel = 3, x coordinate = 12, y coordinate = 38. Convert to real number 39.8497
+446: It is fraction: Numerator = 42, Denominator = 13. Convert to real number 3.23077
+447: It is complex number: real part = 35, imaginary part = 20. Convert to real number 40.3113
+448: It is polar coordinates: angel = 39, x coordinate = 45, y coordinate = 12. Convert to real number 46.5725
+449: It is fraction: Numerator = 33, Denominator = 24. Convert to real number 1.375
+450: It is fraction: Numerator = 10, Denominator = 32. Convert to real number 0.3125
+451: It is polar coordinates: angel = 35, x coordinate = 2, y coordinate = 2. Convert to real number 2.82843
+452: It is polar coordinates: angel = 41, x coordinate = 18, y coordinate = 39. Convert to real number 42.9535
+453: It is fraction: Numerator = 7, Denominator = 7. Convert to real number 1
+454: It is fraction: Numerator = 10, Denominator = 21. Convert to real number 0.47619
+455: It is polar coordinates: angel = 46, x coordinate = 12, y coordinate = 28. Convert to real number 30.4631
+456: It is fraction: Numerator = 46, Denominator = 47. Convert to real number 0.978723
+457: It is complex number: real part = 34, imaginary part = 43. Convert to real number 54.8179
+458: It is complex number: real part = 38, imaginary part = 26. Convert to real number 46.0435
+459: It is fraction: Numerator = 13, Denominator = 35. Convert to real number 0.371429
+460: It is complex number: real part = 21, imaginary part = 21. Convert to real number 29.6985
+461: It is polar coordinates: angel = 24, x coordinate = 28, y coordinate = 4. Convert to real number 28.2843
+462: It is complex number: real part = 17, imaginary part = 8. Convert to real number 18.7883
+463: It is fraction: Numerator = 23, Denominator = 35. Convert to real number 0.657143
+464: It is fraction: Numerator = 43, Denominator = 50. Convert to real number 0.86
+465: It is fraction: Numerator = 6, Denominator = 29. Convert to real number 0.206897
+466: It is complex number: real part = 2, imaginary part = 27. Convert to real number 27.074
+467: It is fraction: Numerator = 37, Denominator = 20. Convert to real number 1.85
+468: It is complex number: real part = 24, imaginary part = 45. Convert to real number 51
+469: It is complex number: real part = 38, imaginary part = 31. Convert to real number 49.0408
+470: It is complex number: real part = 10, imaginary part = 1. Convert to real number 10.0499
+471: It is fraction: Numerator = 36, Denominator = 29. Convert to real number 1.24138
+472: It is fraction: Numerator = 30, Denominator = 47. Convert to real number 0.638298
+473: It is complex number: real part = 31, imaginary part = 21. Convert to real number 37.4433
+474: It is fraction: Numerator = 41, Denominator = 16. Convert to real number 2.5625
+475: It is complex number: real part = 49, imaginary part = 21. Convert to real number 53.3104
+476: It is fraction: Numerator = 25, Denominator = 24. Convert to real number 1.04167
+477: It is polar coordinates: angel = 43, x coordinate = 13, y coordinate = 45. Convert to real number 46.8402
+478: It is fraction: Numerator = 36, Denominator = 39. Convert to real number 0.923077
+479: It is fraction: Numerator = 24, Denominator = 21. Convert to real number 1.14286
+480: It is fraction: Numerator = 35, Denominator = 21. Convert to real number 1.66667
+481: It is polar coordinates: angel = 20, x coordinate = 1, y coordinate = 26. Convert to real number 26.0192
+482: It is fraction: Numerator = 49, Denominator = 11. Convert to real number 4.45455
+483: It is polar coordinates: angel = 20, x coordinate = 30, y coordinate = 23. Convert to real number 37.8021
+484: It is fraction: Numerator = 49, Denominator = 23. Convert to real number 2.13043
+485: It is complex number: real part = 47, imaginary part = 47. Convert to real number 66.468
+486: It is complex number: real part = 22, imaginary part = 41. Convert to real number 46.5296
+487: It is complex number: real part = 16, imaginary part = 4. Convert to real number 16.4924
+488: It is polar coordinates: angel = 6, x coordinate = 20, y coordinate = 5. Convert to real number 20.6155
+489: It is complex number: real part = 47, imaginary part = 40. Convert to real number 61.7171
+490: It is complex number: real part = 44, imaginary part = 9. Convert to real number 44.911
+491: It is complex number: real part = 21, imaginary part = 10. Convert to real number 23.2594
+492: It is fraction: Numerator = 31, Denominator = 42. Convert to real number 0.738095
+493: It is polar coordinates: angel = 11, x coordinate = 14, y coordinate = 5. Convert to real number 14.8661
+494: It is fraction: Numerator = 38, Denominator = 11. Convert to real number 3.45455
+495: It is complex number: real part = 36, imaginary part = 43. Convert to real number 56.0803
+496: It is complex number: real part = 26, imaginary part = 37. Convert to real number 45.2217
+497: It is polar coordinates: angel = 31, x coordinate = 17, y coordinate = 6. Convert to real number 18.0278
+498: It is fraction: Numerator = 21, Denominator = 33. Convert to real number 0.636364
+499: It is complex number: real part = 10, imaginary part = 33. Convert to real number 34.4819
+500: It is polar coordinates: angel = 21, x coordinate = 34, y coordinate = 12. Convert to real number 36.0555
+501: It is fraction: Numerator = 35, Denominator = 43. Convert to real number 0.813953
+502: It is fraction: Numerator = 5, Denominator = 5. Convert to real number 1
+503: It is fraction: Numerator = 11, Denominator = 15. Convert to real number 0.733333
+504: It is complex number: real part = 21, imaginary part = 23. Convert to real number 31.1448
+505: It is complex number: real part = 16, imaginary part = 3. Convert to real number 16.2788
+506: It is complex number: real part = 2, imaginary part = 3. Convert to real number 3.60555
+507: It is polar coordinates: angel = 18, x coordinate = 8, y coordinate = 19. Convert to real number 20.6155
+508: It is polar coordinates: angel = 40, x coordinate = 15, y coordinate = 50. Convert to real number 52.2015
+509: It is complex number: real part = 8, imaginary part = 22. Convert to real number 23.4094
+510: It is fraction: Numerator = 19, Denominator = 4. Convert to real number 4.75
+511: It is fraction: Numerator = 13, Denominator = 28. Convert to real number 0.464286
+512: It is fraction: Numerator = 17, Denominator = 16. Convert to real number 1.0625
+513: It is complex number: real part = 31, imaginary part = 42. Convert to real number 52.2015
+514: It is fraction: Numerator = 6, Denominator = 2. Convert to real number 3
+515: It is fraction: Numerator = 10, Denominator = 40. Convert to real number 0.25
+516: It is complex number: real part = 12, imaginary part = 7. Convert to real number 13.8924
+517: It is polar coordinates: angel = 19, x coordinate = 26, y coordinate = 8. Convert to real number 27.2029
+518: It is fraction: Numerator = 42, Denominator = 8. Convert to real number 5.25
+519: It is fraction: Numerator = 49, Denominator = 31. Convert to real number 1.58065
+520: It is fraction: Numerator = 19, Denominator = 36. Convert to real number 0.527778
+521: It is polar coordinates: angel = 34, x coordinate = 14, y coordinate = 38. Convert to real number 40.4969
+522: It is fraction: Numerator = 29, Denominator = 47. Convert to real number 0.617021
+523: It is polar coordinates: angel = 20, x coordinate = 28, y coordinate = 40. Convert to real number 48.8262
+524: It is fraction: Numerator = 25, Denominator = 49. Convert to real number 0.510204
+525: It is complex number: real part = 25, imaginary part = 11. Convert to real number 27.313
+526: It is polar coordinates: angel = 42, x coordinate = 31, y coordinate = 48. Convert to real number 57.1402
+527: It is fraction: Numerator = 43, Denominator = 39. Convert to real number 1.10256
+528: It is polar coordinates: angel = 27, x coordinate = 39, y coordinate = 39. Convert to real number 55.1543
+529: It is complex number: real part = 8, imaginary part = 25. Convert to real number 26.2488
+530: It is complex number: real part = 43, imaginary part = 40. Convert to real number 58.7282
+531: It is fraction: Numerator = 42, Denominator = 20. Convert to real number 2.1
+532: It is complex number: real part = 26, imaginary part = 41. Convert to real number 48.5489
+533: It is fraction: Numerator = 15, Denominator = 14. Convert to real number 1.07143
+534: It is fraction: Numerator = 14, Denominator = 28. Convert to real number 0.5
+535: It is polar coordinates: angel = 26, x coordinate = 50, y coordinate = 12. Convert to real number 51.4198
+536: It is polar coordinates: angel = 48, x coordinate = 13, y coordinate = 49. Convert to real number 50.6952
+537: It is polar coordinates: angel = 21, x coordinate = 27, y coordinate = 27. Convert to real number 38.1838
+538: It is complex number: real part = 1, imaginary part = 34. Convert to real number 34.0147
+539: It is polar coordinates: angel = 12, x coordinate = 28, y coordinate = 25. Convert to real number 37.5366
+540: It is fraction: Numerator = 19, Denominator = 44. Convert to real number 0.431818
+541: It is fraction: Numerator = 47, Denominator = 34. Convert to real number 1.38235
+542: It is polar coordinates: angel = 13, x coordinate = 49, y coordinate = 25. Convert to real number 55.0091
+543: It is complex number: real part = 28, imaginary part = 45. Convert to real number 53
+544: It is fraction: Numerator = 28, Denominator = 9. Convert to real number 3.11111
+545: It is fraction: Numerator = 25, Denominator = 21. Convert to real number 1.19048
+546: It is fraction: Numerator = 12, Denominator = 44. Convert to real number 0.272727
+547: It is polar coordinates: angel = 38, x coordinate = 3, y coordinate = 41. Convert to real number 41.1096
+548: It is fraction: Numerator = 40, Denominator = 3. Convert to real number 13.3333
+549: It is fraction: Numerator = 16, Denominator = 13. Convert to real number 1.23077
+550: It is polar coordinates: angel = 11, x coordinate = 17, y coordinate = 19. Convert to real number 25.4951
+551: It is complex number: real part = 46, imaginary part = 31. Convert to real number 55.4707
+552: It is polar coordinates: angel = 20, x coordinate = 11, y coordinate = 24. Convert to real number 26.4008
+553: It is fraction: Numerator = 15, Denominator = 1. Convert to real number 15
+554: It is polar coordinates: angel = 27, x coordinate = 27, y coordinate = 49. Convert to real number 55.9464
+555: It is polar coordinates: angel = 39, x coordinate = 42, y coordinate = 30. Convert to real number 51.614
+556: It is fraction: Numerator = 46, Denominator = 20. Convert to real number 2.3
+557: It is complex number: real part = 35, imaginary part = 24. Convert to real number 42.4382
+558: It is fraction: Numerator = 50, Denominator = 38. Convert to real number 1.31579
+559: It is complex number: real part = 12, imaginary part = 7. Convert to real number 13.8924
+560: It is complex number: real part = 8, imaginary part = 2. Convert to real number 8.24621
+561: It is fraction: Numerator = 2, Denominator = 23. Convert to real number 0.0869565
+562: It is polar coordinates: angel = 25, x coordinate = 39, y coordinate = 49. Convert to real number 62.6259
+563: It is complex number: real part = 15, imaginary part = 28. Convert to real number 31.7648
+564: It is complex number: real part = 14, imaginary part = 16. Convert to real number 21.2603
+565: It is polar coordinates: angel = 5, x coordinate = 47, y coordinate = 20. Convert to real number 51.0784
+566: It is complex number: real part = 19, imaginary part = 20. Convert to real number 27.5862
+567: It is complex number: real part = 42, imaginary part = 21. Convert to real number 46.9574
+568: It is polar coordinates: angel = 32, x coordinate = 43, y coordinate = 50. Convert to real number 65.9469
+569: It is complex number: real part = 34, imaginary part = 7. Convert to real number 34.7131
+570: It is fraction: Numerator = 6, Denominator = 10. Convert to real number 0.6
+571: It is polar coordinates: angel = 40, x coordinate = 37, y coordinate = 4. Convert to real number 37.2156
+572: It is polar coordinates: angel = 14, x coordinate = 18, y coordinate = 16. Convert to real number 24.0832
+573: It is fraction: Numerator = 33, Denominator = 33. Convert to real number 1
+574: It is fraction: Numerator = 40, Denominator = 30. Convert to real number 1.33333
+575: It is fraction: Numerator = 42, Denominator = 48. Convert to real number 0.875
+576: It is complex number: real part = 28, imaginary part = 41. Convert to real number 49.6488
+577: It is fraction: Numerator = 18, Denominator = 24. Convert to real number 0.75
+578: It is fraction: Numerator = 18, Denominator = 13. Convert to real number 1.38462
+579: It is complex number: real part = 26, imaginary part = 5. Convert to real number 26.4764
+580: It is polar coordinates: angel = 38, x coordinate = 20, y coordinate = 46. Convert to real number 50.1597
+581: It is polar coordinates: angel = 23, x coordinate = 36, y coordinate = 37. Convert to real number 51.6236
+582: It is polar coordinates: angel = 3, x coordinate = 5, y coordinate = 27. Convert to real number 27.4591
+583: It is fraction: Numerator = 17, Denominator = 16. Convert to real number 1.0625
+584: It is complex number: real part = 48, imaginary part = 7. Convert to real number 48.5077
+585: It is polar coordinates: angel = 50, x coordinate = 36, y coordinate = 8. Convert to real number 36.8782
+586: It is fraction: Numerator = 4, Denominator = 31. Convert to real number 0.129032
+587: It is fraction: Numerator = 23, Denominator = 44. Convert to real number 0.522727
+588: It is fraction: Numerator = 50, Denominator = 50. Convert to real number 1
+589: It is complex number: real part = 37, imaginary part = 19. Convert to real number 41.5933
+590: It is fraction: Numerator = 10, Denominator = 43. Convert to real number 0.232558
+591: It is complex number: real part = 48, imaginary part = 37. Convert to real number 60.6053
+592: It is polar coordinates: angel = 5, x coordinate = 13, y coordinate = 19. Convert to real number 23.0217
+593: It is polar coordinates: angel = 28, x coordinate = 35, y coordinate = 19. Convert to real number 39.8246
+594: It is polar coordinates: angel = 49, x coordinate = 18, y coordinate = 21. Convert to real number 27.6586
+595: It is polar coordinates: angel = 42, x coordinate = 26, y coordinate = 39. Convert to real number 46.8722
+596: It is polar coordinates: angel = 48, x coordinate = 32, y coordinate = 25. Convert to real number 40.6079
+597: It is polar coordinates: angel = 31, x coordinate = 23, y coordinate = 36. Convert to real number 42.72
+598: It is fraction: Numerator = 18, Denominator = 46. Convert to real number 0.391304
+599: It is fraction: Numerator = 48, Denominator = 45. Convert to real number 1.06667
+600: It is polar coordinates: angel = 32, x coordinate = 49, y coordinate = 42. Convert to real number 64.5368
+601: It is complex number: real part = 20, imaginary part = 21. Convert to real number 29
+602: It is complex number: real part = 40, imaginary part = 6. Convert to real number 40.4475
+603: It is complex number: real part = 9, imaginary part = 29. Convert to real number 30.3645
+604: It is complex number: real part = 3, imaginary part = 4. Convert to real number 5
+605: It is polar coordinates: angel = 35, x coordinate = 4, y coordinate = 16. Convert to real number 16.4924
+606: It is fraction: Numerator = 3, Denominator = 48. Convert to real number 0.0625
+607: It is complex number: real part = 38, imaginary part = 49. Convert to real number 62.0081
+608: It is polar coordinates: angel = 33, x coordinate = 45, y coordinate = 3. Convert to real number 45.0999
+609: It is polar coordinates: angel = 24, x coordinate = 34, y coordinate = 28. Convert to real number 44.0454
+610: It is polar coordinates: angel = 36, x coordinate = 49, y coordinate = 40. Convert to real number 63.2535
+611: It is complex number: real part = 38, imaginary part = 48. Convert to real number 61.2209
+612: It is polar coordinates: angel = 47, x coordinate = 26, y coordinate = 3. Convert to real number 26.1725
+613: It is complex number: real part = 31, imaginary part = 35. Convert to real number 46.7547
+614: It is complex number: real part = 34, imaginary part = 50. Convert to real number 60.4649
+615: It is fraction: Numerator = 36, Denominator = 47. Convert to real number 0.765957
+616: It is fraction: Numerator = 24, Denominator = 48. Convert to real number 0.5
+617: It is fraction: Numerator = 8, Denominator = 42. Convert to real number 0.190476
+618: It is polar coordinates: angel = 37, x coordinate = 17, y coordinate = 24. Convert to real number 29.4109
+619: It is fraction: Numerator = 36, Denominator = 10. Convert to real number 3.6
+620: It is polar coordinates: angel = 26, x coordinate = 33, y coordinate = 3. Convert to real number 33.1361
+621: It is fraction: Numerator = 43, Denominator = 1. Convert to real number 43
+622: It is fraction: Numerator = 47, Denominator = 1. Convert to real number 47
+623: It is polar coordinates: angel = 33, x coordinate = 39, y coordinate = 14. Convert to real number 41.4367
+624: It is complex number: real part = 35, imaginary part = 1. Convert to real number 35.0143
+625: It is polar coordinates: angel = 17, x coordinate = 24, y coordinate = 30. Convert to real number 38.4187
+626: It is polar coordinates: angel = 34, x coordinate = 23, y coordinate = 43. Convert to real number 48.7647
+627: It is complex number: real part = 39, imaginary part = 16. Convert to real number 42.1545
+628: It is fraction: Numerator = 25, Denominator = 27. Convert to real number 0.925926
+629: It is polar coordinates: angel = 2, x coordinate = 12, y coordinate = 7. Convert to real number 13.8924
+630: It is fraction: Numerator = 6, Denominator = 9. Convert to real number 0.666667
+631: It is complex number: real part = 3, imaginary part = 11. Convert to real number 11.4018
+632: It is complex number: real part = 35, imaginary part = 49. Convert to real number 60.2163
+633: It is complex number: real part = 19, imaginary part = 35. Convert to real number 39.8246
+634: It is fraction: Numerator = 1, Denominator = 3. Convert to real number 0.333333
+635: It is polar coordinates: angel = 32, x coordinate = 7, y coordinate = 28. Convert to real number 28.8617
+636: It is complex number: real part = 49, imaginary part = 50. Convert to real number 70.0071
+637: It is polar coordinates: angel = 17, x coordinate = 39, y coordinate = 18. Convert to real number 42.9535
+638: It is polar coordinates: angel = 43, x coordinate = 21, y coordinate = 6. Convert to real number 21.8403
+639: It is complex number: real part = 46, imaginary part = 12. Convert to real number 47.5395
+640: It is polar coordinates: angel = 20, x coordinate = 14, y coordinate = 21. Convert to real number 25.2389
+641: It is fraction: Numerator = 50, Denominator = 19. Convert to real number 2.63158
+642: It is fraction: Numerator = 20, Denominator = 4. Convert to real number 5
+643: It is complex number: real part = 20, imaginary part = 6. Convert to real number 20.8806
+644: It is fraction: Numerator = 3, Denominator = 13. Convert to real number 0.230769
+645: It is complex number: real part = 6, imaginary part = 13. Convert to real number 14.3178
+646: It is fraction: Numerator = 50, Denominator = 29. Convert to real number 1.72414
+647: It is polar coordinates: angel = 19, x coordinate = 24, y coordinate = 21. Convert to real number 31.8904
+648: It is complex number: real part = 31, imaginary part = 22. Convert to real number 38.0132
+649: It is fraction: Numerator = 42, Denominator = 30. Convert to real number 1.4
+650: It is complex number: real part = 7, imaginary part = 1. Convert to real number 7.07107
+651: It is complex number: real part = 9, imaginary part = 21. Convert to real number 22.8473
+652: It is polar coordinates: angel = 28, x coordinate = 26, y coordinate = 42. Convert to real number 49.3964
+653: It is fraction: Numerator = 34, Denominator = 1. Convert to real number 34
+654: It is fraction: Numerator = 48, Denominator = 37. Convert to real number 1.2973
+655: It is complex number: real part = 10, imaginary part = 27. Convert to real number 28.7924
+656: It is polar coordinates: angel = 41, x coordinate = 5, y coordinate = 27. Convert to real number 27.4591
+657: It is complex number: real part = 25, imaginary part = 18. Convert to real number 30.8058
+658: It is complex number: real part = 46, imaginary part = 5. Convert to real number 46.2709
+659: It is complex number: real part = 28, imaginary part = 11. Convert to real number 30.0832
+660: It is polar coordinates: angel = 30, x coordinate = 44, y coordinate = 6. Convert to real number 44.4072
+661: It is fraction: Numerator = 22, Denominator = 36. Convert to real number 0.611111
+662: It is complex number: real part = 13, imaginary part = 37. Convert to real number 39.2173
+663: It is fraction: Numerator = 15, Denominator = 38. Convert to real number 0.394737
+664: It is fraction: Numerator = 2, Denominator = 49. Convert to real number 0.0408163
+665: It is complex number: real part = 30, imaginary part = 7. Convert to real number 30.8058
+666: It is polar coordinates: angel = 34, x coordinate = 36, y coordinate = 24. Convert to real number 43.2666
+667: It is fraction: Numerator = 5, Denominator = 22. Convert to real number 0.227273
+668: It is polar coordinates: angel = 9, x coordinate = 11, y coordinate = 35. Convert to real number 36.6879
+669: It is polar coordinates: angel = 8, x coordinate = 14, y coordinate = 16. Convert to real number 21.2603
+670: It is complex number: real part = 15, imaginary part = 38. Convert to real number 40.8534
+671: It is polar coordinates: angel = 44, x coordinate = 2, y coordinate = 39. Convert to real number 39.0512
+672: It is complex number: real part = 17, imaginary part = 28. Convert to real number 32.7567
+673: It is complex number: real part = 20, imaginary part = 27. Convert to real number 33.6006
+674: It is fraction: Numerator = 49, Denominator = 35. Convert to real number 1.4
+675: It is complex number: real part = 32, imaginary part = 22. Convert to real number 38.833
+676: It is complex number: real part = 41, imaginary part = 27. Convert to real number 49.0918
+677: It is complex number: real part = 48, imaginary part = 37. Convert to real number 60.6053
+678: It is complex number: real part = 32, imaginary part = 8. Convert to real number 32.9848
+679: It is fraction: Numerator = 47, Denominator = 23. Convert to real number 2.04348
+680: It is fraction: Numerator = 14, Denominator = 12. Convert to real number 1.16667
+681: It is polar coordinates: angel = 7, x coordinate = 14, y coordinate = 15. Convert to real number 20.5183
+682: It is complex number: real part = 30, imaginary part = 45. Convert to real number 54.0833
+683: It is complex number: real part = 1, imaginary part = 21. Convert to real number 21.0238
+684: It is fraction: Numerator = 49, Denominator = 7. Convert to real number 7
+685: It is fraction: Numerator = 30, Denominator = 29. Convert to real number 1.03448
+686: It is polar coordinates: angel = 22, x coordinate = 7, y coordinate = 3. Convert to real number 7.61577
+687: It is fraction: Numerator = 45, Denominator = 1. Convert to real number 45
+688: It is complex number: real part = 2, imaginary part = 8. Convert to real number 8.24621
+689: It is fraction: Numerator = 27, Denominator = 33. Convert to real number 0.818182
+690: It is complex number: real part = 38, imaginary part = 9. Convert to real number 39.0512
+691: It is polar coordinates: angel = 1, x coordinate = 26, y coordinate = 33. Convert to real number 42.0119
+692: It is fraction: Numerator = 20, Denominator = 10. Convert to real number 2
+693: It is fraction: Numerator = 42, Denominator = 17. Convert to real number 2.47059
+694: It is fraction: Numerator = 48, Denominator = 16. Convert to real number 3
+695: It is fraction: Numerator = 28, Denominator = 32. Convert to real number 0.875
+696: It is fraction: Numerator = 36, Denominator = 36. Convert to real number 1
+697: It is complex number: real part = 31, imaginary part = 36. Convert to real number 47.5079
+698: It is polar coordinates: angel = 34, x coordinate = 46, y coordinate = 5. Convert to real number 46.2709
+699: It is complex number: real part = 30, imaginary part = 17. Convert to real number 34.4819
+700: It is polar coordinates: angel = 40, x coordinate = 38, y coordinate = 50. Convert to real number 62.8013
+701: It is fraction: Numerator = 22, Denominator = 34. Convert to real number 0.647059
+702: It is polar coordinates: angel = 31, x coordinate = 17, y coordinate = 29. Convert to real number 33.6155
+703: It is polar coordinates: angel = 49, x coordinate = 29, y coordinate = 15. Convert to real number 32.6497
+704: It is fraction: Numerator = 8, Denominator = 47. Convert to real number 0.170213
+705: It is polar coordinates: angel = 44, x coordinate = 32, y coordinate = 48. Convert to real number 57.6888
+706: It is fraction: Numerator = 20, Denominator = 4. Convert to real number 5
+707: It is polar coordinates: angel = 17, x coordinate = 10, y coordinate = 21. Convert to real number 23.2594
+708: It is polar coordinates: angel = 27, x coordinate = 20, y coordinate = 37. Convert to real number 42.0595
+709: It is complex number: real part = 19, imaginary part = 4. Convert to real number 19.4165
+710: It is complex number: real part = 4, imaginary part = 41. Convert to real number 41.1947
+711: It is fraction: Numerator = 21, Denominator = 22. Convert to real number 0.954545
+712: It is fraction: Numerator = 19, Denominator = 50. Convert to real number 0.38
+713: It is polar coordinates: angel = 29, x coordinate = 7, y coordinate = 31. Convert to real number 31.7805
+714: It is polar coordinates: angel = 2, x coordinate = 13, y coordinate = 23. Convert to real number 26.4197
+715: It is fraction: Numerator = 34, Denominator = 28. Convert to real number 1.21429
+716: It is complex number: real part = 2, imaginary part = 38. Convert to real number 38.0526
+717: It is complex number: real part = 49, imaginary part = 16. Convert to real number 51.5461
+718: It is fraction: Numerator = 35, Denominator = 33. Convert to real number 1.06061
+719: It is complex number: real part = 40, imaginary part = 21. Convert to real number 45.1774
+720: It is polar coordinates: angel = 33, x coordinate = 40, y coordinate = 25. Convert to real number 47.1699
+721: It is complex number: real part = 8, imaginary part = 43. Convert to real number 43.7379
+722: It is polar coordinates: angel = 41, x coordinate = 21, y coordinate = 11. Convert to real number 23.7065
+723: It is polar coordinates: angel = 46, x coordinate = 13, y coordinate = 35. Convert to real number 37.3363
+724: It is complex number: real part = 41, imaginary part = 20. Convert to real number 45.618
+725: It is complex number: real part = 30, imaginary part = 21. Convert to real number 36.6197
+726: It is fraction: Numerator = 41, Denominator = 19. Convert to real number 2.15789
+727: It is fraction: Numerator = 19, Denominator = 6. Convert to real number 3.16667
+728: It is complex number: real part = 20, imaginary part = 45. Convert to real number 49.2443
+729: It is fraction: Numerator = 24, Denominator = 29. Convert to real number 0.827586
+730: It is fraction: Numerator = 48, Denominator = 32. Convert to real number 1.5
+731: It is complex number: real part = 40, imaginary part = 34. Convert to real number 52.4976
+732: It is fraction: Numerator = 12, Denominator = 47. Convert to real number 0.255319
+733: It is complex number: real part = 8, imaginary part = 9. Convert to real number 12.0416
+734: It is polar coordinates: angel = 28, x coordinate = 1, y coordinate = 22. Convert to real number 22.0227
+735: It is complex number: real part = 33, imaginary part = 45. Convert to real number 55.8032
+736: It is complex number: real part = 23, imaginary part = 13. Convert to real number 26.4197
+737: It is fraction: Numerator = 44, Denominator = 20. Convert to real number 2.2
+738: It is polar coordinates: angel = 15, x coordinate = 15, y coordinate = 1. Convert to real number 15.0333
+739: It is fraction: Numerator = 43, Denominator = 46. Convert to real number 0.934783
+740: It is complex number: real part = 27, imaginary part = 49. Convert to real number 55.9464
+741: It is complex number: real part = 12, imaginary part = 42. Convert to real number 43.6807
+742: It is polar coordinates: angel = 8, x coordinate = 10, y coordinate = 48. Convert to real number 49.0306
+743: It is polar coordinates: angel = 12, x coordinate = 25, y coordinate = 19. Convert to real number 31.4006
+744: It is fraction: Numerator = 2, Denominator = 3. Convert to real number 0.666667
+745: It is fraction: Numerator = 11, Denominator = 25. Convert to real number 0.44
+746: It is fraction: Numerator = 23, Denominator = 20. Convert to real number 1.15
+747: It is complex number: real part = 19, imaginary part = 34. Convert to real number 38.9487
+748: It is fraction: Numerator = 19, Denominator = 23. Convert to real number 0.826087
+749: It is polar coordinates: angel = 15, x coordinate = 9, y coordinate = 50. Convert to real number 50.8035
+750: It is polar coordinates: angel = 36, x coordinate = 11, y coordinate = 9. Convert to real number 14.2127
+751: It is polar coordinates: angel = 19, x coordinate = 18, y coordinate = 26. Convert to real number 31.6228
+752: It is polar coordinates: angel = 31, x coordinate = 3, y coordinate = 6. Convert to real number 6.7082
+753: It is polar coordinates: angel = 4, x coordinate = 8, y coordinate = 46. Convert to real number 46.6905
+754: It is fraction: Numerator = 35, Denominator = 39. Convert to real number 0.897436
+755: It is fraction: Numerator = 4, Denominator = 3. Convert to real number 1.33333
+756: It is complex number: real part = 40, imaginary part = 32. Convert to real number 51.225
+757: It is polar coordinates: angel = 14, x coordinate = 5, y coordinate = 43. Convert to real number 43.2897
+758: It is fraction: Numerator = 4, Denominator = 8. Convert to real number 0.5
+759: It is complex number: real part = 16, imaginary part = 16. Convert to real number 22.6274
+760: It is fraction: Numerator = 34, Denominator = 35. Convert to real number 0.971429
+761: It is fraction: Numerator = 22, Denominator = 17. Convert to real number 1.29412
+762: It is complex number: real part = 29, imaginary part = 31. Convert to real number 42.45
+763: It is complex number: real part = 39, imaginary part = 28. Convert to real number 48.0104
+764: It is complex number: real part = 23, imaginary part = 18. Convert to real number 29.2062
+765: It is fraction: Numerator = 28, Denominator = 21. Convert to real number 1.33333
+766: It is fraction: Numerator = 19, Denominator = 2. Convert to real number 9.5
+767: It is fraction: Numerator = 33, Denominator = 8. Convert to real number 4.125
+768: It is fraction: Numerator = 7, Denominator = 13. Convert to real number 0.538462
+769: It is polar coordinates: angel = 16, x coordinate = 28, y coordinate = 26. Convert to real number 38.2099
+770: It is complex number: real part = 14, imaginary part = 12. Convert to real number 18.4391
+771: It is complex number: real part = 37, imaginary part = 28. Convert to real number 46.4004
+772: It is complex number: real part = 15, imaginary part = 11. Convert to real number 18.6011
+773: It is complex number: real part = 5, imaginary part = 38. Convert to real number 38.3275
+774: It is polar coordinates: angel = 27, x coordinate = 8, y coordinate = 11. Convert to real number 13.6015
+775: It is complex number: real part = 28, imaginary part = 42. Convert to real number 50.4777
+776: It is complex number: real part = 31, imaginary part = 49. Convert to real number 57.9828
+777: It is complex number: real part = 40, imaginary part = 50. Convert to real number 64.0312
+778: It is polar coordinates: angel = 2, x coordinate = 11, y coordinate = 31. Convert to real number 32.8938
+779: It is complex number: real part = 38, imaginary part = 36. Convert to real number 52.345
+780: It is complex number: real part = 50, imaginary part = 6. Convert to real number 50.3587
+781: It is complex number: real part = 29, imaginary part = 39. Convert to real number 48.6004
+782: It is complex number: real part = 39, imaginary part = 44. Convert to real number 58.7963
+783: It is fraction: Numerator = 29, Denominator = 32. Convert to real number 0.90625
+784: It is fraction: Numerator = 36, Denominator = 42. Convert to real number 0.857143
+785: It is complex number: real part = 15, imaginary part = 33. Convert to real number 36.2491
+786: It is fraction: Numerator = 47, Denominator = 31. Convert to real number 1.51613
+787: It is fraction: Numerator = 36, Denominator = 33. Convert to real number 1.09091
+788: It is complex number: real part = 39, imaginary part = 43. Convert to real number 58.0517
+789: It is complex number: real part = 21, imaginary part = 30. Convert to real number 36.6197
+790: It is polar coordinates: angel = 17, x coordinate = 31, y coordinate = 11. Convert to real number 32.8938
+791: It is fraction: Numerator = 10, Denominator = 49. Convert to real number 0.204082
+792: It is fraction: Numerator = 50, Denominator = 42. Convert to real number 1.19048
+793: It is complex number: real part = 28, imaginary part = 25. Convert to real number 37.5366
+794: It is fraction: Numerator = 15, Denominator = 17. Convert to real number 0.882353
+795: It is fraction: Numerator = 31, Denominator = 49. Convert to real number 0.632653
+796: It is polar coordinates: angel = 27, x coordinate = 32, y coordinate = 16. Convert to real number 35.7771
+797: It is polar coordinates: angel = 16, x coordinate = 3, y coordinate = 2. Convert to real number 3.60555
+798: It is fraction: Numerator = 23, Denominator = 23. Convert to real number 1
+799: It is polar coordinates: angel = 29, x coordinate = 41, y coordinate = 20. Convert to real number 45.618
+800: It is polar coordinates: angel = 42, x coordinate = 31, y coordinate = 38. Convert to real number 49.0408
+801: It is fraction: Numerator = 30, Denominator = 31. Convert to real number 0.967742
+802: It is fraction: Numerator = 10, Denominator = 8. Convert to real number 1.25
+803: It is polar coordinates: angel = 24, x coordinate = 24, y coordinate = 17. Convert to real number 29.4109
+804: It is fraction: Numerator = 24, Denominator = 8. Convert to real number 3
+805: It is complex number: real part = 5, imaginary part = 26. Convert to real number 26.4764
+806: It is polar coordinates: angel = 20, x coordinate = 28, y coordinate = 48. Convert to real number 55.5698
+807: It is fraction: Numerator = 50, Denominator = 22. Convert to real number 2.27273
+808: It is fraction: Numerator = 28, Denominator = 12. Convert to real number 2.33333
+809: It is fraction: Numerator = 19, Denominator = 4. Convert to real number 4.75
+810: It is polar coordinates: angel = 8, x coordinate = 47, y coordinate = 2. Convert to real number 47.0425
+811: It is complex number: real part = 48, imaginary part = 11. Convert to real number 49.2443
+812: It is fraction: Numerator = 36, Denominator = 35. Convert to real number 1.02857
+813: It is fraction: Numerator = 2, Denominator = 41. Convert to real number 0.0487805
+814: It is fraction: Numerator = 11, Denominator = 23. Convert to real number 0.478261
+815: It is fraction: Numerator = 36, Denominator = 19. Convert to real number 1.89474
+816: It is complex number: real part = 15, imaginary part = 17. Convert to real number 22.6716
+817: It is fraction: Numerator = 17, Denominator = 38. Convert to real number 0.447368
+818: It is polar coordinates: angel = 46, x coordinate = 2, y coordinate = 13. Convert to real number 13.1529
+819: It is fraction: Numerator = 5, Denominator = 33. Convert to real number 0.151515
+820: It is polar coordinates: angel = 3, x coordinate = 35, y coordinate = 11. Convert to real number 36.6879
+821: It is fraction: Numerator = 47, Denominator = 7. Convert to real number 6.71429
+822: It is complex number: real part = 31, imaginary part = 29. Convert to real number 42.45
+823: It is fraction: Numerator = 21, Denominator = 24. Convert to real number 0.875
+824: It is fraction: Numerator = 46, Denominator = 23. Convert to real number 2
+825: It is fraction: Numerator = 14, Denominator = 46. Convert to real number 0.304348
+826: It is fraction: Numerator = 30, Denominator = 50. Convert to real number 0.6
+827: It is fraction: Numerator = 20, Denominator = 22. Convert to real number 0.909091
+828: It is complex number: real part = 21, imaginary part = 35. Convert to real number 40.8167
+829: It is complex number: real part = 27, imaginary part = 19. Convert to real number 33.0151
+830: It is fraction: Numerator = 31, Denominator = 5. Convert to real number 6.2
+831: It is fraction: Numerator = 30, Denominator = 2. Convert to real number 15
+832: It is fraction: Numerator = 18, Denominator = 32. Convert to real number 0.5625
+833: It is fraction: Numerator = 5, Denominator = 5. Convert to real number 1
+834: It is fraction: Numerator = 6, Denominator = 50. Convert to real number 0.12
+835: It is polar coordinates: angel = 43, x coordinate = 15, y coordinate = 45. Convert to real number 47.4342
+836: It is fraction: Numerator = 47, Denominator = 44. Convert to real number 1.06818
+837: It is complex number: real part = 16, imaginary part = 16. Convert to real number 22.6274
+838: It is complex number: real part = 38, imaginary part = 50. Convert to real number 62.8013
+839: It is polar coordinates: angel = 16, x coordinate = 18, y coordinate = 15. Convert to real number 23.4307
+840: It is complex number: real part = 23, imaginary part = 28. Convert to real number 36.2353
+841: It is polar coordinates: angel = 24, x coordinate = 49, y coordinate = 44. Convert to real number 65.8559
+842: It is complex number: real part = 49, imaginary part = 50. Convert to real number 70.0071
+843: It is complex number: real part = 23, imaginary part = 5. Convert to real number 23.5372
+844: It is polar coordinates: angel = 20, x coordinate = 50, y coordinate = 27. Convert to real number 56.8243
+845: It is polar coordinates: angel = 46, x coordinate = 25, y coordinate = 10. Convert to real number 26.9258
+846: It is complex number: real part = 40, imaginary part = 25. Convert to real number 47.1699
+847: It is complex number: real part = 29, imaginary part = 26. Convert to real number 38.9487
+848: It is polar coordinates: angel = 44, x coordinate = 46, y coordinate = 23. Convert to real number 51.4296
+849: It is polar coordinates: angel = 18, x coordinate = 2, y coordinate = 17. Convert to real number 17.1172
+850: It is complex number: real part = 2, imaginary part = 10. Convert to real number 10.198
+851: It is complex number: real part = 2, imaginary part = 9. Convert to real number 9.21954
+852: It is fraction: Numerator = 25, Denominator = 15. Convert to real number 1.66667
+853: It is polar coordinates: angel = 46, x coordinate = 16, y coordinate = 5. Convert to real number 16.7631
+854: It is polar coordinates: angel = 11, x coordinate = 29, y coordinate = 22. Convert to real number 36.4005
+855: It is fraction: Numerator = 20, Denominator = 46. Convert to real number 0.434783
+856: It is polar coordinates: angel = 48, x coordinate = 24, y coordinate = 29. Convert to real number 37.6431
+857: It is fraction: Numerator = 19, Denominator = 1. Convert to real number 19
+858: It is complex number: real part = 38, imaginary part = 4. Convert to real number 38.2099
+859: It is fraction: Numerator = 32, Denominator = 5. Convert to real number 6.4
+860: It is fraction: Numerator = 32, Denominator = 7. Convert to real number 4.57143
+861: It is polar coordinates: angel = 45, x coordinate = 31, y coordinate = 33. Convert to real number 45.2769
+862: It is polar coordinates: angel = 26, x coordinate = 50, y coordinate = 28. Convert to real number 57.3062
+863: It is fraction: Numerator = 13, Denominator = 7. Convert to real number 1.85714
+864: It is fraction: Numerator = 38, Denominator = 26. Convert to real number 1.46154
+865: It is fraction: Numerator = 8, Denominator = 26. Convert to real number 0.307692
+866: It is complex number: real part = 38, imaginary part = 18. Convert to real number 42.0476
+867: It is complex number: real part = 38, imaginary part = 49. Convert to real number 62.0081
+868: It is fraction: Numerator = 43, Denominator = 47. Convert to real number 0.914894
+869: It is complex number: real part = 47, imaginary part = 5. Convert to real number 47.2652
+870: It is complex number: real part = 3, imaginary part = 24. Convert to real number 24.1868
+871: It is fraction: Numerator = 35, Denominator = 8. Convert to real number 4.375
+872: It is fraction: Numerator = 13, Denominator = 8. Convert to real number 1.625
+873: It is fraction: Numerator = 2, Denominator = 20. Convert to real number 0.1
+874: It is fraction: Numerator = 12, Denominator = 7. Convert to real number 1.71429
+875: It is fraction: Numerator = 19, Denominator = 16. Convert to real number 1.1875
+876: It is complex number: real part = 2, imaginary part = 3. Convert to real number 3.60555
+877: It is complex number: real part = 50, imaginary part = 42. Convert to real number 65.2993
+878: It is complex number: real part = 40, imaginary part = 34. Convert to real number 52.4976
+879: It is polar coordinates: angel = 8, x coordinate = 32, y coordinate = 30. Convert to real number 43.8634
+880: It is complex number: real part = 35, imaginary part = 4. Convert to real number 35.2278
+881: It is complex number: real part = 21, imaginary part = 11. Convert to real number 23.7065
+882: It is complex number: real part = 35, imaginary part = 18. Convert to real number 39.3573
+883: It is fraction: Numerator = 36, Denominator = 39. Convert to real number 0.923077
+884: It is polar coordinates: angel = 49, x coordinate = 45, y coordinate = 21. Convert to real number 49.6588
+885: It is fraction: Numerator = 12, Denominator = 30. Convert to real number 0.4
+886: It is polar coordinates: angel = 14, x coordinate = 9, y coordinate = 22. Convert to real number 23.7697
+887: It is fraction: Numerator = 36, Denominator = 11. Convert to real number 3.27273
+888: It is complex number: real part = 12, imaginary part = 19. Convert to real number 22.4722
+889: It is complex number: real part = 43, imaginary part = 30. Convert to real number 52.4309
+890: It is fraction: Numerator = 46, Denominator = 36. Convert to real number 1.27778
+891: It is polar coordinates: angel = 9, x coordinate = 16, y coordinate = 15. Convert to real number 21.9317
+892: It is complex number: real part = 44, imaginary part = 50. Convert to real number 66.6033
+893: It is complex number: real part = 30, imaginary part = 1. Convert to real number 30.0167
+894: It is complex number: real part = 2, imaginary part = 20. Convert to real number 20.0998
+895: It is polar coordinates: angel = 31, x coordinate = 40, y coordinate = 40. Convert to real number 56.5685
+896: It is polar coordinates: angel = 11, x coordinate = 47, y coordinate = 27. Convert to real number 54.2033
+897: It is complex number: real part = 38, imaginary part = 38. Convert to real number 53.7401
+898: It is polar coordinates: angel = 9, x coordinate = 33, y coordinate = 21. Convert to real number 39.1152
+899: It is polar coordinates: angel = 28, x coordinate = 9, y coordinate = 48. Convert to real number 48.8365
+900: It is fraction: Numerator = 26, Denominator = 12. Convert to real number 2.16667
+901: It is polar coordinates: angel = 19, x coordinate = 13, y coordinate = 36. Convert to real number 38.2753
+902: It is fraction: Numerator = 13, Denominator = 50. Convert to real number 0.26
+903: It is polar coordinates: angel = 34, x coordinate = 26, y coordinate = 36. Convert to real number 44.4072
+904: It is fraction: Numerator = 18, Denominator = 27. Convert to real number 0.666667
+905: It is complex number: real part = 16, imaginary part = 3. Convert to real number 16.2788
+906: It is complex number: real part = 3, imaginary part = 43. Convert to real number 43.1045
+907: It is fraction: Numerator = 14, Denominator = 25. Convert to real number 0.56
+908: It is fraction: Numerator = 31, Denominator = 4. Convert to real number 7.75
+909: It is polar coordinates: angel = 30, x coordinate = 44, y coordinate = 5. Convert to real number 44.2832
+910: It is complex number: real part = 11, imaginary part = 26. Convert to real number 28.2312
+911: It is fraction: Numerator = 48, Denominator = 27. Convert to real number 1.77778
+912: It is complex number: real part = 47, imaginary part = 30. Convert to real number 55.7584
+913: It is polar coordinates: angel = 25, x coordinate = 15, y coordinate = 28. Convert to real number 31.7648
+914: It is polar coordinates: angel = 41, x coordinate = 13, y coordinate = 9. Convert to real number 15.8114
+915: It is polar coordinates: angel = 21, x coordinate = 11, y coordinate = 37. Convert to real number 38.6005
+916: It is fraction: Numerator = 26, Denominator = 13. Convert to real number 2
+917: It is polar coordinates: angel = 9, x coordinate = 19, y coordinate = 21. Convert to real number 28.3196
+918: It is complex number: real part = 12, imaginary part = 28. Convert to real number 30.4631
+919: It is polar coordinates: angel = 24, x coordinate = 3, y coordinate = 40. Convert to real number 40.1123
+920: It is polar coordinates: angel = 31, x coordinate = 11, y coordinate = 19. Convert to real number 21.9545
+921: It is complex number: real part = 18, imaginary part = 43. Convert to real number 46.6154
+922: It is fraction: Numerator = 48, Denominator = 36. Convert to real number 1.33333
+923: It is complex number: real part = 10, imaginary part = 46. Convert to real number 47.0744
+924: It is fraction: Numerator = 33, Denominator = 9. Convert to real number 3.66667
+925: It is complex number: real part = 4, imaginary part = 34. Convert to real number 34.2345
+926: It is fraction: Numerator = 45, Denominator = 44. Convert to real number 1.02273
+927: It is fraction: Numerator = 18, Denominator = 34. Convert to real number 0.529412
+928: It is complex number: real part = 45, imaginary part = 16. Convert to real number 47.7598
+929: It is polar coordinates: angel = 49, x coordinate = 7, y coordinate = 38. Convert to real number 38.6394
+930: It is fraction: Numerator = 19, Denominator = 8. Convert to real number 2.375
+931: It is fraction: Numerator = 37, Denominator = 3. Convert to real number 12.3333
+932: It is complex number: real part = 34, imaginary part = 40. Convert to real number 52.4976
+933: It is fraction: Numerator = 45, Denominator = 36. Convert to real number 1.25
+934: It is fraction: Numerator = 29, Denominator = 44. Convert to real number 0.659091
+935: It is fraction: Numerator = 33, Denominator = 29. Convert to real number 1.13793
+936: It is complex number: real part = 27, imaginary part = 23. Convert to real number 35.4683
+937: It is fraction: Numerator = 46, Denominator = 8. Convert to real number 5.75
+938: It is fraction: Numerator = 42, Denominator = 25. Convert to real number 1.68
+939: It is complex number: real part = 40, imaginary part = 31. Convert to real number 50.6063
+940: It is fraction: Numerator = 21, Denominator = 49. Convert to real number 0.428571
+941: It is polar coordinates: angel = 11, x coordinate = 37, y coordinate = 50. Convert to real number 62.2013
+942: It is fraction: Numerator = 20, Denominator = 39. Convert to real number 0.512821
+943: It is polar coordinates: angel = 17, x coordinate = 26, y coordinate = 4. Convert to real number 26.3059
+944: It is polar coordinates: angel = 21, x coordinate = 48, y coordinate = 27. Convert to real number 55.0727
+945: It is fraction: Numerator = 6, Denominator = 6. Convert to real number 1
+946: It is fraction: Numerator = 46, Denominator = 3. Convert to real number 15.3333
+947: It is polar coordinates: angel = 27, x coordinate = 45, y coordinate = 7. Convert to real number 45.5412
+948: It is complex number: real part = 34, imaginary part = 39. Convert to real number 51.7397
+949: It is fraction: Numerator = 4, Denominator = 39. Convert to real number 0.102564
+950: It is fraction: Numerator = 16, Denominator = 26. Convert to real number 0.615385
+951: It is polar coordinates: angel = 42, x coordinate = 47, y coordinate = 6. Convert to real number 47.3814
+952: It is fraction: Numerator = 13, Denominator = 33. Convert to real number 0.393939
+953: It is polar coordinates: angel = 10, x coordinate = 4, y coordinate = 3. Convert to real number 5
+954: It is polar coordinates: angel = 5, x coordinate = 8, y coordinate = 43. Convert to real number 43.7379
+955: It is polar coordinates: angel = 5, x coordinate = 46, y coordinate = 14. Convert to real number 48.0833
+956: It is complex number: real part = 40, imaginary part = 20. Convert to real number 44.7214
+957: It is fraction: Numerator = 25, Denominator = 10. Convert to real number 2.5
+958: It is fraction: Numerator = 31, Denominator = 48. Convert to real number 0.645833
+959: It is polar coordinates: angel = 46, x coordinate = 25, y coordinate = 11. Convert to real number 27.313
+960: It is polar coordinates: angel = 22, x coordinate = 16, y coordinate = 41. Convert to real number 44.0114
+961: It is polar coordinates: angel = 1, x coordinate = 46, y coordinate = 45. Convert to real number 64.3506
+962: It is complex number: real part = 48, imaginary part = 31. Convert to real number 57.1402
+963: It is complex number: real part = 7, imaginary part = 25. Convert to real number 25.9615
+964: It is fraction: Numerator = 12, Denominator = 20. Convert to real number 0.6
+965: It is complex number: real part = 45, imaginary part = 11. Convert to real number 46.3249
+966: It is complex number: real part = 7, imaginary part = 36. Convert to real number 36.6742
+967: It is polar coordinates: angel = 37, x coordinate = 16, y coordinate = 33. Convert to real number 36.6742
+968: It is polar coordinates: angel = 11, x coordinate = 8, y coordinate = 44. Convert to real number 44.7214
+969: It is fraction: Numerator = 31, Denominator = 11. Convert to real number 2.81818
+970: It is polar coordinates: angel = 16, x coordinate = 11, y coordinate = 37. Convert to real number 38.6005
+971: It is fraction: Numerator = 16, Denominator = 36. Convert to real number 0.444444
+972: It is complex number: real part = 25, imaginary part = 42. Convert to real number 48.8774
+973: It is fraction: Numerator = 17, Denominator = 5. Convert to real number 3.4
+974: It is polar coordinates: angel = 22, x coordinate = 1, y coordinate = 49. Convert to real number 49.0102
+975: It is complex number: real part = 9, imaginary part = 34. Convert to real number 35.171
+976: It is complex number: real part = 48, imaginary part = 1. Convert to real number 48.0104
+977: It is complex number: real part = 30, imaginary part = 14. Convert to real number 33.1059
+978: It is complex number: real part = 25, imaginary part = 15. Convert to real number 29.1548
+979: It is fraction: Numerator = 36, Denominator = 6. Convert to real number 6
+980: It is fraction: Numerator = 46, Denominator = 42. Convert to real number 1.09524
+981: It is polar coordinates: angel = 14, x coordinate = 27, y coordinate = 24. Convert to real number 36.1248
+982: It is fraction: Numerator = 20, Denominator = 41. Convert to real number 0.487805
+983: It is complex number: real part = 27, imaginary part = 31. Convert to real number 41.1096
+984: It is complex number: real part = 29, imaginary part = 29. Convert to real number 41.0122
+985: It is fraction: Numerator = 40, Denominator = 15. Convert to real number 2.66667
+986: It is polar coordinates: angel = 39, x coordinate = 17, y coordinate = 23. Convert to real number 28.6007
+987: It is polar coordinates: angel = 30, x coordinate = 47, y coordinate = 45. Convert to real number 65.0692
+988: It is complex number: real part = 1, imaginary part = 30. Convert to real number 30.0167
+989: It is complex number: real part = 23, imaginary part = 27. Convert to real number 35.4683
+990: It is fraction: Numerator = 4, Denominator = 40. Convert to real number 0.1
+991: It is complex number: real part = 28, imaginary part = 30. Convert to real number 41.0366
+992: It is fraction: Numerator = 20, Denominator = 36. Convert to real number 0.555556
+993: It is complex number: real part = 50, imaginary part = 13. Convert to real number 51.6624
+994: It is fraction: Numerator = 30, Denominator = 38. Convert to real number 0.789474
+995: It is fraction: Numerator = 44, Denominator = 46. Convert to real number 0.956522
+996: It is fraction: Numerator = 11, Denominator = 20. Convert to real number 0.55
+997: It is complex number: real part = 42, imaginary part = 17. Convert to real number 45.31
+998: It is complex number: real part = 38, imaginary part = 19. Convert to real number 42.4853
+999: It is polar coordinates: angel = 40, x coordinate = 41, y coordinate = 50. Convert to real number 64.6607
+
+===== SORTED CONTAINER =====
+Container contains 1000 elements.
+0: It is complex number: real part = 49, imaginary part = 50. Convert to real number 70.0071
+1: It is complex number: real part = 49, imaginary part = 50. Convert to real number 70.0071
+2: It is polar coordinates: angel = 13, x coordinate = 49, y coordinate = 48. Convert to real number 68.593
+3: It is polar coordinates: angel = 28, x coordinate = 50, y coordinate = 46. Convert to real number 67.9412
+4: It is complex number: real part = 44, imaginary part = 50. Convert to real number 66.6033
+5: It is complex number: real part = 47, imaginary part = 47. Convert to real number 66.468
+6: It is polar coordinates: angel = 32, x coordinate = 43, y coordinate = 50. Convert to real number 65.9469
+7: It is polar coordinates: angel = 24, x coordinate = 49, y coordinate = 44. Convert to real number 65.8559
+8: It is complex number: real part = 50, imaginary part = 42. Convert to real number 65.2993
+9: It is complex number: real part = 49, imaginary part = 43. Convert to real number 65.192
+10: It is polar coordinates: angel = 30, x coordinate = 47, y coordinate = 45. Convert to real number 65.0692
+11: It is polar coordinates: angel = 40, x coordinate = 41, y coordinate = 50. Convert to real number 64.6607
+12: It is polar coordinates: angel = 32, x coordinate = 49, y coordinate = 42. Convert to real number 64.5368
+13: It is polar coordinates: angel = 1, x coordinate = 46, y coordinate = 45. Convert to real number 64.3506
+14: It is complex number: real part = 40, imaginary part = 50. Convert to real number 64.0312
+15: It is polar coordinates: angel = 36, x coordinate = 49, y coordinate = 40. Convert to real number 63.2535
+16: It is complex number: real part = 38, imaginary part = 50. Convert to real number 62.8013
+17: It is polar coordinates: angel = 40, x coordinate = 38, y coordinate = 50. Convert to real number 62.8013
+18: It is polar coordinates: angel = 25, x coordinate = 39, y coordinate = 49. Convert to real number 62.6259
+19: It is polar coordinates: angel = 11, x coordinate = 37, y coordinate = 50. Convert to real number 62.2013
+20: It is complex number: real part = 38, imaginary part = 49. Convert to real number 62.0081
+21: It is complex number: real part = 38, imaginary part = 49. Convert to real number 62.0081
+22: It is complex number: real part = 47, imaginary part = 40. Convert to real number 61.7171
+23: It is complex number: real part = 38, imaginary part = 48. Convert to real number 61.2209
+24: It is polar coordinates: angel = 36, x coordinate = 39, y coordinate = 47. Convert to real number 61.0737
+25: It is polar coordinates: angel = 48, x coordinate = 35, y coordinate = 50. Convert to real number 61.0328
+26: It is complex number: real part = 50, imaginary part = 35. Convert to real number 61.0328
+27: It is complex number: real part = 46, imaginary part = 40. Convert to real number 60.959
+28: It is complex number: real part = 41, imaginary part = 45. Convert to real number 60.8769
+29: It is complex number: real part = 48, imaginary part = 37. Convert to real number 60.6053
+30: It is complex number: real part = 48, imaginary part = 37. Convert to real number 60.6053
+31: It is complex number: real part = 34, imaginary part = 50. Convert to real number 60.4649
+32: It is complex number: real part = 35, imaginary part = 49. Convert to real number 60.2163
+33: It is complex number: real part = 37, imaginary part = 47. Convert to real number 59.8164
+34: It is complex number: real part = 45, imaginary part = 39. Convert to real number 59.5483
+35: It is complex number: real part = 43, imaginary part = 41. Convert to real number 59.4138
+36: It is complex number: real part = 32, imaginary part = 50. Convert to real number 59.3633
+37: It is complex number: real part = 39, imaginary part = 44. Convert to real number 58.7963
+38: It is complex number: real part = 39, imaginary part = 44. Convert to real number 58.7963
+39: It is complex number: real part = 43, imaginary part = 40. Convert to real number 58.7282
+40: It is polar coordinates: angel = 20, x coordinate = 49, y coordinate = 32. Convert to real number 58.5235
+41: It is polar coordinates: angel = 14, x coordinate = 32, y coordinate = 49. Convert to real number 58.5235
+42: It is polar coordinates: angel = 38, x coordinate = 49, y coordinate = 32. Convert to real number 58.5235
+43: It is complex number: real part = 30, imaginary part = 50. Convert to real number 58.3095
+44: It is complex number: real part = 39, imaginary part = 43. Convert to real number 58.0517
+45: It is polar coordinates: angel = 27, x coordinate = 47, y coordinate = 34. Convert to real number 58.0086
+46: It is complex number: real part = 31, imaginary part = 49. Convert to real number 57.9828
+47: It is polar coordinates: angel = 44, x coordinate = 32, y coordinate = 48. Convert to real number 57.6888
+48: It is polar coordinates: angel = 26, x coordinate = 50, y coordinate = 28. Convert to real number 57.3062
+49: It is complex number: real part = 40, imaginary part = 41. Convert to real number 57.28
+50: It is complex number: real part = 48, imaginary part = 31. Convert to real number 57.1402
+51: It is polar coordinates: angel = 42, x coordinate = 31, y coordinate = 48. Convert to real number 57.1402
+52: It is complex number: real part = 36, imaginary part = 44. Convert to real number 56.8507
+53: It is polar coordinates: angel = 20, x coordinate = 50, y coordinate = 27. Convert to real number 56.8243
+54: It is polar coordinates: angel = 38, x coordinate = 30, y coordinate = 48. Convert to real number 56.6039
+55: It is polar coordinates: angel = 31, x coordinate = 40, y coordinate = 40. Convert to real number 56.5685
+56: It is polar coordinates: angel = 39, x coordinate = 45, y coordinate = 34. Convert to real number 56.4004
+57: It is complex number: real part = 44, imaginary part = 35. Convert to real number 56.2228
+58: It is complex number: real part = 36, imaginary part = 43. Convert to real number 56.0803
+59: It is polar coordinates: angel = 27, x coordinate = 27, y coordinate = 49. Convert to real number 55.9464
+60: It is complex number: real part = 27, imaginary part = 49. Convert to real number 55.9464
+61: It is complex number: real part = 41, imaginary part = 38. Convert to real number 55.9017
+62: It is complex number: real part = 38, imaginary part = 41. Convert to real number 55.9017
+63: It is complex number: real part = 38, imaginary part = 41. Convert to real number 55.9017
+64: It is complex number: real part = 45, imaginary part = 33. Convert to real number 55.8032
+65: It is complex number: real part = 33, imaginary part = 45. Convert to real number 55.8032
+66: It is complex number: real part = 47, imaginary part = 30. Convert to real number 55.7584
+67: It is polar coordinates: angel = 43, x coordinate = 34, y coordinate = 44. Convert to real number 55.6058
+68: It is polar coordinates: angel = 20, x coordinate = 28, y coordinate = 48. Convert to real number 55.5698
+69: It is complex number: real part = 49, imaginary part = 26. Convert to real number 55.4707
+70: It is complex number: real part = 46, imaginary part = 31. Convert to real number 55.4707
+71: It is complex number: real part = 49, imaginary part = 26. Convert to real number 55.4707
+72: It is polar coordinates: angel = 4, x coordinate = 42, y coordinate = 36. Convert to real number 55.3173
+73: It is complex number: real part = 37, imaginary part = 41. Convert to real number 55.2268
+74: It is complex number: real part = 45, imaginary part = 32. Convert to real number 55.2178
+75: It is polar coordinates: angel = 27, x coordinate = 39, y coordinate = 39. Convert to real number 55.1543
+76: It is polar coordinates: angel = 21, x coordinate = 48, y coordinate = 27. Convert to real number 55.0727
+77: It is polar coordinates: angel = 2, x coordinate = 23, y coordinate = 50. Convert to real number 55.0364
+78: It is polar coordinates: angel = 13, x coordinate = 49, y coordinate = 25. Convert to real number 55.0091
+79: It is complex number: real part = 33, imaginary part = 44. Convert to real number 55
+80: It is complex number: real part = 34, imaginary part = 43. Convert to real number 54.8179
+81: It is polar coordinates: angel = 26, x coordinate = 33, y coordinate = 43. Convert to real number 54.2033
+82: It is polar coordinates: angel = 11, x coordinate = 47, y coordinate = 27. Convert to real number 54.2033
+83: It is complex number: real part = 30, imaginary part = 45. Convert to real number 54.0833
+84: It is polar coordinates: angel = 11, x coordinate = 46, y coordinate = 28. Convert to real number 53.8516
+85: It is complex number: real part = 46, imaginary part = 28. Convert to real number 53.8516
+86: It is complex number: real part = 31, imaginary part = 44. Convert to real number 53.8238
+87: It is complex number: real part = 37, imaginary part = 39. Convert to real number 53.7587
+88: It is complex number: real part = 38, imaginary part = 38. Convert to real number 53.7401
+89: It is complex number: real part = 49, imaginary part = 21. Convert to real number 53.3104
+90: It is complex number: real part = 28, imaginary part = 45. Convert to real number 53
+91: It is polar coordinates: angel = 7, x coordinate = 44, y coordinate = 29. Convert to real number 52.6972
+92: It is complex number: real part = 40, imaginary part = 34. Convert to real number 52.4976
+93: It is complex number: real part = 16, imaginary part = 50. Convert to real number 52.4976
+94: It is complex number: real part = 34, imaginary part = 40. Convert to real number 52.4976
+95: It is complex number: real part = 40, imaginary part = 34. Convert to real number 52.4976
+96: It is complex number: real part = 43, imaginary part = 30. Convert to real number 52.4309
+97: It is polar coordinates: angel = 6, x coordinate = 25, y coordinate = 46. Convert to real number 52.3546
+98: It is complex number: real part = 38, imaginary part = 36. Convert to real number 52.345
+99: It is polar coordinates: angel = 40, x coordinate = 15, y coordinate = 50. Convert to real number 52.2015
+100: It is complex number: real part = 31, imaginary part = 42. Convert to real number 52.2015
+101: It is complex number: real part = 18, imaginary part = 49. Convert to real number 52.2015
+102: It is polar coordinates: angel = 29, x coordinate = 20, y coordinate = 48. Convert to real number 52
+103: It is complex number: real part = 14, imaginary part = 50. Convert to real number 51.923
+104: It is complex number: real part = 34, imaginary part = 39. Convert to real number 51.7397
+105: It is complex number: real part = 50, imaginary part = 13. Convert to real number 51.6624
+106: It is polar coordinates: angel = 23, x coordinate = 36, y coordinate = 37. Convert to real number 51.6236
+107: It is polar coordinates: angel = 38, x coordinate = 48, y coordinate = 19. Convert to real number 51.6236
+108: It is polar coordinates: angel = 39, x coordinate = 42, y coordinate = 30. Convert to real number 51.614
+109: It is complex number: real part = 49, imaginary part = 16. Convert to real number 51.5461
+110: It is complex number: real part = 49, imaginary part = 16. Convert to real number 51.5461
+111: It is polar coordinates: angel = 29, x coordinate = 16, y coordinate = 49. Convert to real number 51.5461
+112: It is complex number: real part = 16, imaginary part = 49. Convert to real number 51.5461
+113: It is polar coordinates: angel = 44, x coordinate = 46, y coordinate = 23. Convert to real number 51.4296
+114: It is polar coordinates: angel = 8, x coordinate = 12, y coordinate = 50. Convert to real number 51.4198
+115: It is polar coordinates: angel = 26, x coordinate = 50, y coordinate = 12. Convert to real number 51.4198
+116: It is polar coordinates: angel = 3, x coordinate = 43, y coordinate = 28. Convert to real number 51.3128
+117: It is complex number: real part = 18, imaginary part = 48. Convert to real number 51.264
+118: It is complex number: real part = 40, imaginary part = 32. Convert to real number 51.225
+119: It is polar coordinates: angel = 5, x coordinate = 47, y coordinate = 20. Convert to real number 51.0784
+120: It is complex number: real part = 24, imaginary part = 45. Convert to real number 51
+121: It is complex number: real part = 22, imaginary part = 46. Convert to real number 50.9902
+122: It is polar coordinates: angel = 1, x coordinate = 37, y coordinate = 35. Convert to real number 50.9313
+123: It is polar coordinates: angel = 15, x coordinate = 9, y coordinate = 50. Convert to real number 50.8035
+124: It is complex number: real part = 41, imaginary part = 30. Convert to real number 50.8035
+125: It is complex number: real part = 43, imaginary part = 27. Convert to real number 50.774
+126: It is complex number: real part = 47, imaginary part = 19. Convert to real number 50.6952
+127: It is polar coordinates: angel = 48, x coordinate = 13, y coordinate = 49. Convert to real number 50.6952
+128: It is complex number: real part = 8, imaginary part = 50. Convert to real number 50.636
+129: It is complex number: real part = 40, imaginary part = 31. Convert to real number 50.6063
+130: It is polar coordinates: angel = 8, x coordinate = 46, y coordinate = 21. Convert to real number 50.5668
+131: It is complex number: real part = 28, imaginary part = 42. Convert to real number 50.4777
+132: It is complex number: real part = 28, imaginary part = 42. Convert to real number 50.4777
+133: It is complex number: real part = 50, imaginary part = 6. Convert to real number 50.3587
+134: It is polar coordinates: angel = 26, x coordinate = 50, y coordinate = 5. Convert to real number 50.2494
+135: It is polar coordinates: angel = 37, x coordinate = 50, y coordinate = 5. Convert to real number 50.2494
+136: It is polar coordinates: angel = 40, x coordinate = 29, y coordinate = 41. Convert to real number 50.2195
+137: It is polar coordinates: angel = 38, x coordinate = 20, y coordinate = 46. Convert to real number 50.1597
+138: It is polar coordinates: angel = 6, x coordinate = 2, y coordinate = 50. Convert to real number 50.04
+139: It is complex number: real part = 9, imaginary part = 49. Convert to real number 49.8197
+140: It is polar coordinates: angel = 49, x coordinate = 45, y coordinate = 21. Convert to real number 49.6588
+141: It is polar coordinates: angel = 11, x coordinate = 44, y coordinate = 23. Convert to real number 49.6488
+142: It is complex number: real part = 28, imaginary part = 41. Convert to real number 49.6488
+143: It is complex number: real part = 28, imaginary part = 41. Convert to real number 49.6488
+144: It is complex number: real part = 49, imaginary part = 8. Convert to real number 49.6488
+145: It is complex number: real part = 42, imaginary part = 26. Convert to real number 49.3964
+146: It is polar coordinates: angel = 28, x coordinate = 26, y coordinate = 42. Convert to real number 49.3964
+147: It is complex number: real part = 48, imaginary part = 11. Convert to real number 49.2443
+148: It is polar coordinates: angel = 7, x coordinate = 11, y coordinate = 48. Convert to real number 49.2443
+149: It is complex number: real part = 20, imaginary part = 45. Convert to real number 49.2443
+150: It is polar coordinates: angel = 41, x coordinate = 4, y coordinate = 49. Convert to real number 49.163
+151: It is polar coordinates: angel = 29, x coordinate = 27, y coordinate = 41. Convert to real number 49.0918
+152: It is complex number: real part = 41, imaginary part = 27. Convert to real number 49.0918
+153: It is polar coordinates: angel = 27, x coordinate = 47, y coordinate = 14. Convert to real number 49.0408
+154: It is polar coordinates: angel = 42, x coordinate = 31, y coordinate = 38. Convert to real number 49.0408
+155: It is complex number: real part = 38, imaginary part = 31. Convert to real number 49.0408
+156: It is polar coordinates: angel = 21, x coordinate = 47, y coordinate = 14. Convert to real number 49.0408
+157: It is complex number: real part = 31, imaginary part = 38. Convert to real number 49.0408
+158: It is polar coordinates: angel = 8, x coordinate = 10, y coordinate = 48. Convert to real number 49.0306
+159: It is polar coordinates: angel = 22, x coordinate = 1, y coordinate = 49. Convert to real number 49.0102
+160: It is complex number: real part = 25, imaginary part = 42. Convert to real number 48.8774
+161: It is polar coordinates: angel = 28, x coordinate = 9, y coordinate = 48. Convert to real number 48.8365
+162: It is polar coordinates: angel = 20, x coordinate = 28, y coordinate = 40. Convert to real number 48.8262
+163: It is polar coordinates: angel = 34, x coordinate = 23, y coordinate = 43. Convert to real number 48.7647
+164: It is complex number: real part = 16, imaginary part = 46. Convert to real number 48.7032
+165: It is complex number: real part = 8, imaginary part = 48. Convert to real number 48.6621
+166: It is complex number: real part = 29, imaginary part = 39. Convert to real number 48.6004
+167: It is complex number: real part = 26, imaginary part = 41. Convert to real number 48.5489
+168: It is complex number: real part = 7, imaginary part = 48. Convert to real number 48.5077
+169: It is complex number: real part = 48, imaginary part = 7. Convert to real number 48.5077
+170: It is polar coordinates: angel = 5, x coordinate = 46, y coordinate = 14. Convert to real number 48.0833
+171: It is complex number: real part = 48, imaginary part = 1. Convert to real number 48.0104
+172: It is complex number: real part = 39, imaginary part = 28. Convert to real number 48.0104
+173: It is complex number: real part = 19, imaginary part = 44. Convert to real number 47.927
+174: It is polar coordinates: angel = 18, x coordinate = 23, y coordinate = 42. Convert to real number 47.8853
+175: It is complex number: real part = 9, imaginary part = 47. Convert to real number 47.8539
+176: It is complex number: real part = 13, imaginary part = 46. Convert to real number 47.8017
+177: It is complex number: real part = 45, imaginary part = 16. Convert to real number 47.7598
+178: It is polar coordinates: angel = 47, x coordinate = 18, y coordinate = 44. Convert to real number 47.5395
+179: It is polar coordinates: angel = 31, x coordinate = 44, y coordinate = 18. Convert to real number 47.5395
+180: It is complex number: real part = 46, imaginary part = 12. Convert to real number 47.5395
+181: It is complex number: real part = 41, imaginary part = 24. Convert to real number 47.5079
+182: It is complex number: real part = 31, imaginary part = 36. Convert to real number 47.5079
+183: It is polar coordinates: angel = 43, x coordinate = 15, y coordinate = 45. Convert to real number 47.4342
+184: It is polar coordinates: angel = 45, x coordinate = 22, y coordinate = 42. Convert to real number 47.4131
+185: It is polar coordinates: angel = 42, x coordinate = 47, y coordinate = 6. Convert to real number 47.3814
+186: It is complex number: real part = 47, imaginary part = 5. Convert to real number 47.2652
+187: It is polar coordinates: angel = 33, x coordinate = 40, y coordinate = 25. Convert to real number 47.1699
+188: It is polar coordinates: angel = 21, x coordinate = 25, y coordinate = 40. Convert to real number 47.1699
+189: It is complex number: real part = 40, imaginary part = 25. Convert to real number 47.1699
+190: It is complex number: real part = 10, imaginary part = 46. Convert to real number 47.0744
+191: It is polar coordinates: angel = 8, x coordinate = 47, y coordinate = 2. Convert to real number 47.0425
+192: It is complex number: real part = 47, imaginary part = 2. Convert to real number 47.0425
+193: It is fraction: Numerator = 47, Denominator = 1. Convert to real number 47
+194: It is complex number: real part = 42, imaginary part = 21. Convert to real number 46.9574
+195: It is complex number: real part = 42, imaginary part = 21. Convert to real number 46.9574
+196: It is polar coordinates: angel = 42, x coordinate = 26, y coordinate = 39. Convert to real number 46.8722
+197: It is complex number: real part = 26, imaginary part = 39. Convert to real number 46.8722
+198: It is polar coordinates: angel = 43, x coordinate = 13, y coordinate = 45. Convert to real number 46.8402
+199: It is complex number: real part = 31, imaginary part = 35. Convert to real number 46.7547
+200: It is polar coordinates: angel = 4, x coordinate = 8, y coordinate = 46. Convert to real number 46.6905
+201: It is complex number: real part = 43, imaginary part = 18. Convert to real number 46.6154
+202: It is complex number: real part = 18, imaginary part = 43. Convert to real number 46.6154
+203: It is polar coordinates: angel = 23, x coordinate = 12, y coordinate = 45. Convert to real number 46.5725
+204: It is polar coordinates: angel = 8, x coordinate = 12, y coordinate = 45. Convert to real number 46.5725
+205: It is polar coordinates: angel = 39, x coordinate = 45, y coordinate = 12. Convert to real number 46.5725
+206: It is complex number: real part = 22, imaginary part = 41. Convert to real number 46.5296
+207: It is complex number: real part = 37, imaginary part = 28. Convert to real number 46.4004
+208: It is complex number: real part = 11, imaginary part = 45. Convert to real number 46.3249
+209: It is complex number: real part = 45, imaginary part = 11. Convert to real number 46.3249
+210: It is complex number: real part = 46, imaginary part = 5. Convert to real number 46.2709
+211: It is polar coordinates: angel = 34, x coordinate = 46, y coordinate = 5. Convert to real number 46.2709
+212: It is complex number: real part = 38, imaginary part = 26. Convert to real number 46.0435
+213: It is polar coordinates: angel = 14, x coordinate = 44, y coordinate = 13. Convert to real number 45.8803
+214: It is polar coordinates: angel = 29, x coordinate = 41, y coordinate = 20. Convert to real number 45.618
+215: It is complex number: real part = 41, imaginary part = 20. Convert to real number 45.618
+216: It is complex number: real part = 41, imaginary part = 20. Convert to real number 45.618
+217: It is complex number: real part = 28, imaginary part = 36. Convert to real number 45.607
+218: It is polar coordinates: angel = 27, x coordinate = 45, y coordinate = 7. Convert to real number 45.5412
+219: It is complex number: real part = 35, imaginary part = 29. Convert to real number 45.4533
+220: It is polar coordinates: angel = 31, x coordinate = 35, y coordinate = 29. Convert to real number 45.4533
+221: It is complex number: real part = 42, imaginary part = 17. Convert to real number 45.31
+222: It is polar coordinates: angel = 45, x coordinate = 31, y coordinate = 33. Convert to real number 45.2769
+223: It is complex number: real part = 26, imaginary part = 37. Convert to real number 45.2217
+224: It is complex number: real part = 40, imaginary part = 21. Convert to real number 45.1774
+225: It is polar coordinates: angel = 33, x coordinate = 45, y coordinate = 3. Convert to real number 45.0999
+226: It is fraction: Numerator = 45, Denominator = 1. Convert to real number 45
+227: It is polar coordinates: angel = 30, x coordinate = 42, y coordinate = 16. Convert to real number 44.9444
+228: It is complex number: real part = 43, imaginary part = 13. Convert to real number 44.9222
+229: It is complex number: real part = 44, imaginary part = 9. Convert to real number 44.911
+230: It is polar coordinates: angel = 13, x coordinate = 40, y coordinate = 20. Convert to real number 44.7214
+231: It is complex number: real part = 40, imaginary part = 20. Convert to real number 44.7214
+232: It is polar coordinates: angel = 11, x coordinate = 8, y coordinate = 44. Convert to real number 44.7214
+233: It is polar coordinates: angel = 34, x coordinate = 26, y coordinate = 36. Convert to real number 44.4072
+234: It is polar coordinates: angel = 30, x coordinate = 44, y coordinate = 6. Convert to real number 44.4072
+235: It is complex number: real part = 21, imaginary part = 39. Convert to real number 44.2945
+236: It is polar coordinates: angel = 30, x coordinate = 44, y coordinate = 5. Convert to real number 44.2832
+237: It is polar coordinates: angel = 47, x coordinate = 27, y coordinate = 35. Convert to real number 44.2041
+238: It is complex number: real part = 35, imaginary part = 27. Convert to real number 44.2041
+239: It is complex number: real part = 4, imaginary part = 44. Convert to real number 44.1814
+240: It is complex number: real part = 4, imaginary part = 44. Convert to real number 44.1814
+241: It is complex number: real part = 37, imaginary part = 24. Convert to real number 44.1022
+242: It is polar coordinates: angel = 24, x coordinate = 34, y coordinate = 28. Convert to real number 44.0454
+243: It is complex number: real part = 28, imaginary part = 34. Convert to real number 44.0454
+244: It is polar coordinates: angel = 22, x coordinate = 16, y coordinate = 41. Convert to real number 44.0114
+245: It is complex number: real part = 40, imaginary part = 18. Convert to real number 43.8634
+246: It is complex number: real part = 30, imaginary part = 32. Convert to real number 43.8634
+247: It is polar coordinates: angel = 8, x coordinate = 32, y coordinate = 30. Convert to real number 43.8634
+248: It is complex number: real part = 8, imaginary part = 43. Convert to real number 43.7379
+249: It is polar coordinates: angel = 5, x coordinate = 8, y coordinate = 43. Convert to real number 43.7379
+250: It is complex number: real part = 12, imaginary part = 42. Convert to real number 43.6807
+251: It is polar coordinates: angel = 4, x coordinate = 23, y coordinate = 37. Convert to real number 43.566
+252: It is polar coordinates: angel = 2, x coordinate = 23, y coordinate = 37. Convert to real number 43.566
+253: It is complex number: real part = 21, imaginary part = 38. Convert to real number 43.4166
+254: It is polar coordinates: angel = 14, x coordinate = 5, y coordinate = 43. Convert to real number 43.2897
+255: It is polar coordinates: angel = 34, x coordinate = 36, y coordinate = 24. Convert to real number 43.2666
+256: It is complex number: real part = 3, imaginary part = 43. Convert to real number 43.1045
+257: It is fraction: Numerator = 43, Denominator = 1. Convert to real number 43
+258: It is polar coordinates: angel = 41, x coordinate = 18, y coordinate = 39. Convert to real number 42.9535
+259: It is polar coordinates: angel = 17, x coordinate = 39, y coordinate = 18. Convert to real number 42.9535
+260: It is polar coordinates: angel = 35, x coordinate = 42, y coordinate = 8. Convert to real number 42.7551
+261: It is polar coordinates: angel = 31, x coordinate = 23, y coordinate = 36. Convert to real number 42.72
+262: It is complex number: real part = 38, imaginary part = 19. Convert to real number 42.4853
+263: It is complex number: real part = 38, imaginary part = 19. Convert to real number 42.4853
+264: It is complex number: real part = 31, imaginary part = 29. Convert to real number 42.45
+265: It is complex number: real part = 29, imaginary part = 31. Convert to real number 42.45
+266: It is complex number: real part = 35, imaginary part = 24. Convert to real number 42.4382
+267: It is polar coordinates: angel = 29, x coordinate = 34, y coordinate = 25. Convert to real number 42.2019
+268: It is complex number: real part = 39, imaginary part = 16. Convert to real number 42.1545
+269: It is polar coordinates: angel = 27, x coordinate = 20, y coordinate = 37. Convert to real number 42.0595
+270: It is complex number: real part = 40, imaginary part = 13. Convert to real number 42.0595
+271: It is complex number: real part = 38, imaginary part = 18. Convert to real number 42.0476
+272: It is polar coordinates: angel = 1, x coordinate = 26, y coordinate = 33. Convert to real number 42.0119
+273: It is complex number: real part = 33, imaginary part = 26. Convert to real number 42.0119
+274: It is polar coordinates: angel = 30, x coordinate = 35, y coordinate = 23. Convert to real number 41.8808
+275: It is complex number: real part = 8, imaginary part = 41. Convert to real number 41.7732
+276: It is complex number: real part = 31, imaginary part = 28. Convert to real number 41.7732
+277: It is complex number: real part = 30, imaginary part = 29. Convert to real number 41.7253
+278: It is polar coordinates: angel = 4, x coordinate = 17, y coordinate = 38. Convert to real number 41.6293
+279: It is complex number: real part = 38, imaginary part = 17. Convert to real number 41.6293
+280: It is complex number: real part = 37, imaginary part = 19. Convert to real number 41.5933
+281: It is polar coordinates: angel = 33, x coordinate = 41, y coordinate = 7. Convert to real number 41.5933
+282: It is complex number: real part = 40, imaginary part = 11. Convert to real number 41.4849
+283: It is polar coordinates: angel = 33, x coordinate = 39, y coordinate = 14. Convert to real number 41.4367
+284: It is complex number: real part = 4, imaginary part = 41. Convert to real number 41.1947
+285: It is complex number: real part = 20, imaginary part = 36. Convert to real number 41.1825
+286: It is polar coordinates: angel = 38, x coordinate = 3, y coordinate = 41. Convert to real number 41.1096
+287: It is complex number: real part = 27, imaginary part = 31. Convert to real number 41.1096
+288: It is polar coordinates: angel = 19, x coordinate = 41, y coordinate = 2. Convert to real number 41.0488
+289: It is complex number: real part = 30, imaginary part = 28. Convert to real number 41.0366
+290: It is polar coordinates: angel = 50, x coordinate = 28, y coordinate = 30. Convert to real number 41.0366
+291: It is complex number: real part = 28, imaginary part = 30. Convert to real number 41.0366
+292: It is complex number: real part = 29, imaginary part = 29. Convert to real number 41.0122
+293: It is complex number: real part = 15, imaginary part = 38. Convert to real number 40.8534
+294: It is polar coordinates: angel = 7, x coordinate = 15, y coordinate = 38. Convert to real number 40.8534
+295: It is complex number: real part = 21, imaginary part = 35. Convert to real number 40.8167
+296: It is complex number: real part = 24, imaginary part = 33. Convert to real number 40.8044
+297: It is polar coordinates: angel = 20, x coordinate = 40, y coordinate = 8. Convert to real number 40.7922
+298: It is polar coordinates: angel = 7, x coordinate = 25, y coordinate = 32. Convert to real number 40.6079
+299: It is polar coordinates: angel = 48, x coordinate = 32, y coordinate = 25. Convert to real number 40.6079
+300: It is polar coordinates: angel = 34, x coordinate = 14, y coordinate = 38. Convert to real number 40.4969
+301: It is complex number: real part = 40, imaginary part = 6. Convert to real number 40.4475
+302: It is complex number: real part = 5, imaginary part = 40. Convert to real number 40.3113
+303: It is complex number: real part = 37, imaginary part = 16. Convert to real number 40.3113
+304: It is complex number: real part = 35, imaginary part = 20. Convert to real number 40.3113
+305: It is complex number: real part = 36, imaginary part = 18. Convert to real number 40.2492
+306: It is complex number: real part = 23, imaginary part = 33. Convert to real number 40.2244
+307: It is polar coordinates: angel = 33, x coordinate = 13, y coordinate = 38. Convert to real number 40.1622
+308: It is polar coordinates: angel = 24, x coordinate = 3, y coordinate = 40. Convert to real number 40.1123
+309: It is polar coordinates: angel = 49, x coordinate = 24, y coordinate = 32. Convert to real number 40
+310: It is polar coordinates: angel = 3, x coordinate = 12, y coordinate = 38. Convert to real number 39.8497
+311: It is complex number: real part = 38, imaginary part = 12. Convert to real number 39.8497
+312: It is polar coordinates: angel = 28, x coordinate = 35, y coordinate = 19. Convert to real number 39.8246
+313: It is complex number: real part = 19, imaginary part = 35. Convert to real number 39.8246
+314: It is complex number: real part = 17, imaginary part = 36. Convert to real number 39.8121
+315: It is complex number: real part = 22, imaginary part = 33. Convert to real number 39.6611
+316: It is polar coordinates: angel = 46, x coordinate = 11, y coordinate = 38. Convert to real number 39.5601
+317: It is polar coordinates: angel = 19, x coordinate = 35, y coordinate = 18. Convert to real number 39.3573
+318: It is complex number: real part = 35, imaginary part = 18. Convert to real number 39.3573
+319: It is complex number: real part = 13, imaginary part = 37. Convert to real number 39.2173
+320: It is polar coordinates: angel = 17, x coordinate = 24, y coordinate = 31. Convert to real number 39.2046
+321: It is polar coordinates: angel = 9, x coordinate = 33, y coordinate = 21. Convert to real number 39.1152
+322: It is polar coordinates: angel = 44, x coordinate = 2, y coordinate = 39. Convert to real number 39.0512
+323: It is complex number: real part = 38, imaginary part = 9. Convert to real number 39.0512
+324: It is complex number: real part = 25, imaginary part = 30. Convert to real number 39.0512
+325: It is fraction: Numerator = 39, Denominator = 1. Convert to real number 39
+326: It is complex number: real part = 29, imaginary part = 26. Convert to real number 38.9487
+327: It is complex number: real part = 19, imaginary part = 34. Convert to real number 38.9487
+328: It is complex number: real part = 32, imaginary part = 22. Convert to real number 38.833
+329: It is complex number: real part = 38, imaginary part = 8. Convert to real number 38.833
+330: It is complex number: real part = 8, imaginary part = 38. Convert to real number 38.833
+331: It is polar coordinates: angel = 49, x coordinate = 7, y coordinate = 38. Convert to real number 38.6394
+332: It is polar coordinates: angel = 21, x coordinate = 11, y coordinate = 37. Convert to real number 38.6005
+333: It is polar coordinates: angel = 16, x coordinate = 11, y coordinate = 37. Convert to real number 38.6005
+334: It is polar coordinates: angel = 28, x coordinate = 38, y coordinate = 6. Convert to real number 38.4708
+335: It is polar coordinates: angel = 17, x coordinate = 24, y coordinate = 30. Convert to real number 38.4187
+336: It is complex number: real part = 5, imaginary part = 38. Convert to real number 38.3275
+337: It is complex number: real part = 37, imaginary part = 10. Convert to real number 38.3275
+338: It is polar coordinates: angel = 36, x coordinate = 36, y coordinate = 13. Convert to real number 38.2753
+339: It is polar coordinates: angel = 19, x coordinate = 13, y coordinate = 36. Convert to real number 38.2753
+340: It is complex number: real part = 38, imaginary part = 4. Convert to real number 38.2099
+341: It is polar coordinates: angel = 16, x coordinate = 28, y coordinate = 26. Convert to real number 38.2099
+342: It is polar coordinates: angel = 21, x coordinate = 27, y coordinate = 27. Convert to real number 38.1838
+343: It is complex number: real part = 2, imaginary part = 38. Convert to real number 38.0526
+344: It is complex number: real part = 31, imaginary part = 22. Convert to real number 38.0132
+345: It is polar coordinates: angel = 4, x coordinate = 8, y coordinate = 37. Convert to real number 37.855
+346: It is polar coordinates: angel = 20, x coordinate = 30, y coordinate = 23. Convert to real number 37.8021
+347: It is polar coordinates: angel = 28, x coordinate = 20, y coordinate = 32. Convert to real number 37.7359
+348: It is polar coordinates: angel = 17, x coordinate = 24, y coordinate = 29. Convert to real number 37.6431
+349: It is polar coordinates: angel = 48, x coordinate = 24, y coordinate = 29. Convert to real number 37.6431
+350: It is complex number: real part = 33, imaginary part = 18. Convert to real number 37.5899
+351: It is complex number: real part = 28, imaginary part = 25. Convert to real number 37.5366
+352: It is polar coordinates: angel = 12, x coordinate = 28, y coordinate = 25. Convert to real number 37.5366
+353: It is complex number: real part = 31, imaginary part = 21. Convert to real number 37.4433
+354: It is complex number: real part = 37, imaginary part = 5. Convert to real number 37.3363
+355: It is polar coordinates: angel = 46, x coordinate = 13, y coordinate = 35. Convert to real number 37.3363
+356: It is polar coordinates: angel = 40, x coordinate = 37, y coordinate = 4. Convert to real number 37.2156
+357: It is complex number: real part = 15, imaginary part = 34. Convert to real number 37.1618
+358: It is complex number: real part = 33, imaginary part = 17. Convert to real number 37.1214
+359: It is complex number: real part = 33, imaginary part = 17. Convert to real number 37.1214
+360: It is complex number: real part = 20, imaginary part = 31. Convert to real number 36.8917
+361: It is complex number: real part = 24, imaginary part = 28. Convert to real number 36.8782
+362: It is polar coordinates: angel = 22, x coordinate = 24, y coordinate = 28. Convert to real number 36.8782
+363: It is polar coordinates: angel = 50, x coordinate = 36, y coordinate = 8. Convert to real number 36.8782
+364: It is polar coordinates: angel = 9, x coordinate = 11, y coordinate = 35. Convert to real number 36.6879
+365: It is polar coordinates: angel = 41, x coordinate = 35, y coordinate = 11. Convert to real number 36.6879
+366: It is polar coordinates: angel = 39, x coordinate = 35, y coordinate = 11. Convert to real number 36.6879
+367: It is polar coordinates: angel = 3, x coordinate = 35, y coordinate = 11. Convert to real number 36.6879
+368: It is complex number: real part = 7, imaginary part = 36. Convert to real number 36.6742
+369: It is polar coordinates: angel = 37, x coordinate = 16, y coordinate = 33. Convert to real number 36.6742
+370: It is complex number: real part = 30, imaginary part = 21. Convert to real number 36.6197
+371: It is complex number: real part = 21, imaginary part = 30. Convert to real number 36.6197
+372: It is polar coordinates: angel = 11, x coordinate = 29, y coordinate = 22. Convert to real number 36.4005
+373: It is complex number: real part = 5, imaginary part = 36. Convert to real number 36.3456
+374: It is complex number: real part = 15, imaginary part = 33. Convert to real number 36.2491
+375: It is polar coordinates: angel = 5, x coordinate = 15, y coordinate = 33. Convert to real number 36.2491
+376: It is complex number: real part = 23, imaginary part = 28. Convert to real number 36.2353
+377: It is polar coordinates: angel = 14, x coordinate = 27, y coordinate = 24. Convert to real number 36.1248
+378: It is polar coordinates: angel = 43, x coordinate = 3, y coordinate = 36. Convert to real number 36.1248
+379: It is polar coordinates: angel = 46, x coordinate = 26, y coordinate = 25. Convert to real number 36.0694
+380: It is polar coordinates: angel = 21, x coordinate = 34, y coordinate = 12. Convert to real number 36.0555
+381: It is complex number: real part = 1, imaginary part = 36. Convert to real number 36.0139
+382: It is polar coordinates: angel = 17, x coordinate = 33, y coordinate = 14. Convert to real number 35.8469
+383: It is complex number: real part = 18, imaginary part = 31. Convert to real number 35.8469
+384: It is polar coordinates: angel = 27, x coordinate = 32, y coordinate = 16. Convert to real number 35.7771
+385: It is polar coordinates: angel = 20, x coordinate = 11, y coordinate = 34. Convert to real number 35.7351
+386: It is complex number: real part = 6, imaginary part = 35. Convert to real number 35.5106
+387: It is complex number: real part = 33, imaginary part = 13. Convert to real number 35.4683
+388: It is polar coordinates: angel = 19, x coordinate = 23, y coordinate = 27. Convert to real number 35.4683
+389: It is complex number: real part = 23, imaginary part = 27. Convert to real number 35.4683
+390: It is polar coordinates: angel = 18, x coordinate = 23, y coordinate = 27. Convert to real number 35.4683
+391: It is complex number: real part = 27, imaginary part = 23. Convert to real number 35.4683
+392: It is polar coordinates: angel = 44, x coordinate = 13, y coordinate = 33. Convert to real number 35.4683
+393: It is complex number: real part = 35, imaginary part = 4. Convert to real number 35.2278
+394: It is complex number: real part = 4, imaginary part = 35. Convert to real number 35.2278
+395: It is complex number: real part = 9, imaginary part = 34. Convert to real number 35.171
+396: It is polar coordinates: angel = 4, x coordinate = 35, y coordinate = 2. Convert to real number 35.0571
+397: It is complex number: real part = 35, imaginary part = 1. Convert to real number 35.0143
+398: It is polar coordinates: angel = 19, x coordinate = 35, y coordinate = 1. Convert to real number 35.0143
+399: It is polar coordinates: angel = 41, x coordinate = 30, y coordinate = 18. Convert to real number 34.9857
+400: It is complex number: real part = 8, imaginary part = 34. Convert to real number 34.9285
+401: It is polar coordinates: angel = 39, x coordinate = 14, y coordinate = 32. Convert to real number 34.9285
+402: It is complex number: real part = 33, imaginary part = 11. Convert to real number 34.7851
+403: It is complex number: real part = 34, imaginary part = 7. Convert to real number 34.7131
+404: It is complex number: real part = 24, imaginary part = 25. Convert to real number 34.6554
+405: It is complex number: real part = 10, imaginary part = 33. Convert to real number 34.4819
+406: It is complex number: real part = 30, imaginary part = 17. Convert to real number 34.4819
+407: It is polar coordinates: angel = 31, x coordinate = 5, y coordinate = 34. Convert to real number 34.3657
+408: It is complex number: real part = 4, imaginary part = 34. Convert to real number 34.2345
+409: It is polar coordinates: angel = 26, x coordinate = 26, y coordinate = 22. Convert to real number 34.0588
+410: It is polar coordinates: angel = 8, x coordinate = 14, y coordinate = 31. Convert to real number 34.0147
+411: It is complex number: real part = 1, imaginary part = 34. Convert to real number 34.0147
+412: It is polar coordinates: angel = 45, x coordinate = 31, y coordinate = 14. Convert to real number 34.0147
+413: It is fraction: Numerator = 34, Denominator = 1. Convert to real number 34
+414: It is polar coordinates: angel = 35, x coordinate = 33, y coordinate = 7. Convert to real number 33.7343
+415: It is polar coordinates: angel = 31, x coordinate = 17, y coordinate = 29. Convert to real number 33.6155
+416: It is complex number: real part = 20, imaginary part = 27. Convert to real number 33.6006
+417: It is complex number: real part = 10, imaginary part = 32. Convert to real number 33.5261
+418: It is polar coordinates: angel = 14, x coordinate = 22, y coordinate = 25. Convert to real number 33.3017
+419: It is polar coordinates: angel = 26, x coordinate = 33, y coordinate = 3. Convert to real number 33.1361
+420: It is complex number: real part = 3, imaginary part = 33. Convert to real number 33.1361
+421: It is complex number: real part = 30, imaginary part = 14. Convert to real number 33.1059
+422: It is polar coordinates: angel = 48, x coordinate = 2, y coordinate = 33. Convert to real number 33.0606
+423: It is complex number: real part = 27, imaginary part = 19. Convert to real number 33.0151
+424: It is complex number: real part = 32, imaginary part = 8. Convert to real number 32.9848
+425: It is polar coordinates: angel = 2, x coordinate = 11, y coordinate = 31. Convert to real number 32.8938
+426: It is polar coordinates: angel = 17, x coordinate = 31, y coordinate = 11. Convert to real number 32.8938
+427: It is complex number: real part = 17, imaginary part = 28. Convert to real number 32.7567
+428: It is polar coordinates: angel = 27, x coordinate = 7, y coordinate = 32. Convert to real number 32.7567
+429: It is complex number: real part = 30, imaginary part = 13. Convert to real number 32.6956
+430: It is polar coordinates: angel = 49, x coordinate = 29, y coordinate = 15. Convert to real number 32.6497
+431: It is complex number: real part = 15, imaginary part = 29. Convert to real number 32.6497
+432: It is polar coordinates: angel = 6, x coordinate = 24, y coordinate = 22. Convert to real number 32.5576
+433: It is complex number: real part = 30, imaginary part = 12. Convert to real number 32.311
+434: It is polar coordinates: angel = 24, x coordinate = 32, y coordinate = 4. Convert to real number 32.249
+435: It is complex number: real part = 26, imaginary part = 19. Convert to real number 32.2025
+436: It is polar coordinates: angel = 38, x coordinate = 26, y coordinate = 19. Convert to real number 32.2025
+437: It is complex number: real part = 27, imaginary part = 17. Convert to real number 31.9061
+438: It is complex number: real part = 27, imaginary part = 17. Convert to real number 31.9061
+439: It is polar coordinates: angel = 19, x coordinate = 24, y coordinate = 21. Convert to real number 31.8904
+440: It is complex number: real part = 23, imaginary part = 22. Convert to real number 31.8277
+441: It is polar coordinates: angel = 29, x coordinate = 7, y coordinate = 31. Convert to real number 31.7805
+442: It is polar coordinates: angel = 25, x coordinate = 15, y coordinate = 28. Convert to real number 31.7648
+443: It is complex number: real part = 15, imaginary part = 28. Convert to real number 31.7648
+444: It is polar coordinates: angel = 19, x coordinate = 18, y coordinate = 26. Convert to real number 31.6228
+445: It is polar coordinates: angel = 22, x coordinate = 31, y coordinate = 6. Convert to real number 31.5753
+446: It is polar coordinates: angel = 12, x coordinate = 25, y coordinate = 19. Convert to real number 31.4006
+447: It is complex number: real part = 16, imaginary part = 27. Convert to real number 31.3847
+448: It is complex number: real part = 20, imaginary part = 24. Convert to real number 31.241
+449: It is complex number: real part = 24, imaginary part = 20. Convert to real number 31.241
+450: It is complex number: real part = 21, imaginary part = 23. Convert to real number 31.1448
+451: It is polar coordinates: angel = 2, x coordinate = 22, y coordinate = 22. Convert to real number 31.1127
+452: It is complex number: real part = 30, imaginary part = 8. Convert to real number 31.0483
+453: It is polar coordinates: angel = 23, x coordinate = 31, y coordinate = 1. Convert to real number 31.0161
+454: It is complex number: real part = 11, imaginary part = 29. Convert to real number 31.0161
+455: It is complex number: real part = 25, imaginary part = 18. Convert to real number 30.8058
+456: It is complex number: real part = 30, imaginary part = 7. Convert to real number 30.8058
+457: It is complex number: real part = 29, imaginary part = 10. Convert to real number 30.6757
+458: It is complex number: real part = 12, imaginary part = 28. Convert to real number 30.4631
+459: It is complex number: real part = 12, imaginary part = 28. Convert to real number 30.4631
+460: It is polar coordinates: angel = 46, x coordinate = 12, y coordinate = 28. Convert to real number 30.4631
+461: It is complex number: real part = 9, imaginary part = 29. Convert to real number 30.3645
+462: It is polar coordinates: angel = 43, x coordinate = 11, y coordinate = 28. Convert to real number 30.0832
+463: It is complex number: real part = 28, imaginary part = 11. Convert to real number 30.0832
+464: It is complex number: real part = 30, imaginary part = 1. Convert to real number 30.0167
+465: It is complex number: real part = 1, imaginary part = 30. Convert to real number 30.0167
+466: It is complex number: real part = 30, imaginary part = 1. Convert to real number 30.0167
+467: It is polar coordinates: angel = 42, x coordinate = 28, y coordinate = 10. Convert to real number 29.7321
+468: It is complex number: real part = 21, imaginary part = 21. Convert to real number 29.6985
+469: It is complex number: real part = 6, imaginary part = 29. Convert to real number 29.6142
+470: It is polar coordinates: angel = 24, x coordinate = 24, y coordinate = 17. Convert to real number 29.4109
+471: It is polar coordinates: angel = 37, x coordinate = 17, y coordinate = 24. Convert to real number 29.4109
+472: It is complex number: real part = 23, imaginary part = 18. Convert to real number 29.2062
+473: It is complex number: real part = 25, imaginary part = 15. Convert to real number 29.1548
+474: It is complex number: real part = 8, imaginary part = 28. Convert to real number 29.1204
+475: It is polar coordinates: angel = 5, x coordinate = 28, y coordinate = 8. Convert to real number 29.1204
+476: It is complex number: real part = 2, imaginary part = 29. Convert to real number 29.0689
+477: It is complex number: real part = 20, imaginary part = 21. Convert to real number 29
+478: It is polar coordinates: angel = 32, x coordinate = 7, y coordinate = 28. Convert to real number 28.8617
+479: It is polar coordinates: angel = 5, x coordinate = 10, y coordinate = 27. Convert to real number 28.7924
+480: It is complex number: real part = 10, imaginary part = 27. Convert to real number 28.7924
+481: It is complex number: real part = 26, imaginary part = 12. Convert to real number 28.6356
+482: It is polar coordinates: angel = 26, x coordinate = 26, y coordinate = 12. Convert to real number 28.6356
+483: It is polar coordinates: angel = 15, x coordinate = 6, y coordinate = 28. Convert to real number 28.6356
+484: It is polar coordinates: angel = 39, x coordinate = 17, y coordinate = 23. Convert to real number 28.6007
+485: It is polar coordinates: angel = 9, x coordinate = 19, y coordinate = 21. Convert to real number 28.3196
+486: It is polar coordinates: angel = 24, x coordinate = 28, y coordinate = 4. Convert to real number 28.2843
+487: It is complex number: real part = 11, imaginary part = 26. Convert to real number 28.2312
+488: It is complex number: real part = 28, imaginary part = 1. Convert to real number 28.0179
+489: It is complex number: real part = 24, imaginary part = 14. Convert to real number 27.7849
+490: It is polar coordinates: angel = 49, x coordinate = 18, y coordinate = 21. Convert to real number 27.6586
+491: It is complex number: real part = 18, imaginary part = 21. Convert to real number 27.6586
+492: It is complex number: real part = 19, imaginary part = 20. Convert to real number 27.5862
+493: It is polar coordinates: angel = 41, x coordinate = 5, y coordinate = 27. Convert to real number 27.4591
+494: It is polar coordinates: angel = 3, x coordinate = 5, y coordinate = 27. Convert to real number 27.4591
+495: It is complex number: real part = 25, imaginary part = 11. Convert to real number 27.313
+496: It is polar coordinates: angel = 46, x coordinate = 25, y coordinate = 11. Convert to real number 27.313
+497: It is polar coordinates: angel = 19, x coordinate = 26, y coordinate = 8. Convert to real number 27.2029
+498: It is complex number: real part = 2, imaginary part = 27. Convert to real number 27.074
+499: It is polar coordinates: angel = 46, x coordinate = 25, y coordinate = 10. Convert to real number 26.9258
+500: It is complex number: real part = 5, imaginary part = 26. Convert to real number 26.4764
+501: It is complex number: real part = 26, imaginary part = 5. Convert to real number 26.4764
+502: It is complex number: real part = 23, imaginary part = 13. Convert to real number 26.4197
+503: It is polar coordinates: angel = 2, x coordinate = 13, y coordinate = 23. Convert to real number 26.4197
+504: It is polar coordinates: angel = 20, x coordinate = 11, y coordinate = 24. Convert to real number 26.4008
+505: It is complex number: real part = 16, imaginary part = 21. Convert to real number 26.4008
+506: It is polar coordinates: angel = 17, x coordinate = 26, y coordinate = 4. Convert to real number 26.3059
+507: It is complex number: real part = 8, imaginary part = 25. Convert to real number 26.2488
+508: It is polar coordinates: angel = 47, x coordinate = 26, y coordinate = 3. Convert to real number 26.1725
+509: It is polar coordinates: angel = 20, x coordinate = 1, y coordinate = 26. Convert to real number 26.0192
+510: It is complex number: real part = 26, imaginary part = 1. Convert to real number 26.0192
+511: It is complex number: real part = 24, imaginary part = 10. Convert to real number 26
+512: It is complex number: real part = 7, imaginary part = 25. Convert to real number 25.9615
+513: It is polar coordinates: angel = 45, x coordinate = 6, y coordinate = 25. Convert to real number 25.7099
+514: It is polar coordinates: angel = 40, x coordinate = 6, y coordinate = 25. Convert to real number 25.7099
+515: It is complex number: real part = 25, imaginary part = 5. Convert to real number 25.4951
+516: It is polar coordinates: angel = 11, x coordinate = 17, y coordinate = 19. Convert to real number 25.4951
+517: It is polar coordinates: angel = 20, x coordinate = 14, y coordinate = 21. Convert to real number 25.2389
+518: It is complex number: real part = 22, imaginary part = 12. Convert to real number 25.0599
+519: It is complex number: real part = 24, imaginary part = 5. Convert to real number 24.5153
+520: It is polar coordinates: angel = 32, x coordinate = 20, y coordinate = 14. Convert to real number 24.4131
+521: It is polar coordinates: angel = 35, x coordinate = 24, y coordinate = 4. Convert to real number 24.3311
+522: It is polar coordinates: angel = 14, x coordinate = 4, y coordinate = 24. Convert to real number 24.3311
+523: It is complex number: real part = 3, imaginary part = 24. Convert to real number 24.1868
+524: It is complex number: real part = 21, imaginary part = 12. Convert to real number 24.1868
+525: It is polar coordinates: angel = 14, x coordinate = 18, y coordinate = 16. Convert to real number 24.0832
+526: It is fraction: Numerator = 48, Denominator = 2. Convert to real number 24
+527: It is complex number: real part = 13, imaginary part = 20. Convert to real number 23.8537
+528: It is polar coordinates: angel = 14, x coordinate = 9, y coordinate = 22. Convert to real number 23.7697
+529: It is polar coordinates: angel = 41, x coordinate = 21, y coordinate = 11. Convert to real number 23.7065
+530: It is complex number: real part = 21, imaginary part = 11. Convert to real number 23.7065
+531: It is polar coordinates: angel = 16, x coordinate = 21, y coordinate = 11. Convert to real number 23.7065
+532: It is complex number: real part = 23, imaginary part = 5. Convert to real number 23.5372
+533: It is polar coordinates: angel = 16, x coordinate = 18, y coordinate = 15. Convert to real number 23.4307
+534: It is complex number: real part = 8, imaginary part = 22. Convert to real number 23.4094
+535: It is polar coordinates: angel = 39, x coordinate = 12, y coordinate = 20. Convert to real number 23.3238
+536: It is complex number: real part = 21, imaginary part = 10. Convert to real number 23.2594
+537: It is polar coordinates: angel = 17, x coordinate = 10, y coordinate = 21. Convert to real number 23.2594
+538: It is polar coordinates: angel = 5, x coordinate = 13, y coordinate = 19. Convert to real number 23.0217
+539: It is complex number: real part = 19, imaginary part = 13. Convert to real number 23.0217
+540: It is complex number: real part = 9, imaginary part = 21. Convert to real number 22.8473
+541: It is complex number: real part = 14, imaginary part = 18. Convert to real number 22.8035
+542: It is polar coordinates: angel = 49, x coordinate = 15, y coordinate = 17. Convert to real number 22.6716
+543: It is complex number: real part = 15, imaginary part = 17. Convert to real number 22.6716
+544: It is complex number: real part = 16, imaginary part = 16. Convert to real number 22.6274
+545: It is complex number: real part = 16, imaginary part = 16. Convert to real number 22.6274
+546: It is complex number: real part = 5, imaginary part = 22. Convert to real number 22.561
+547: It is fraction: Numerator = 45, Denominator = 2. Convert to real number 22.5
+548: It is complex number: real part = 12, imaginary part = 19. Convert to real number 22.4722
+549: It is complex number: real part = 20, imaginary part = 10. Convert to real number 22.3607
+550: It is polar coordinates: angel = 1, x coordinate = 18, y coordinate = 13. Convert to real number 22.2036
+551: It is complex number: real part = 18, imaginary part = 13. Convert to real number 22.2036
+552: It is complex number: real part = 3, imaginary part = 22. Convert to real number 22.2036
+553: It is polar coordinates: angel = 28, x coordinate = 1, y coordinate = 22. Convert to real number 22.0227
+554: It is polar coordinates: angel = 31, x coordinate = 11, y coordinate = 19. Convert to real number 21.9545
+555: It is polar coordinates: angel = 9, x coordinate = 16, y coordinate = 15. Convert to real number 21.9317
+556: It is complex number: real part = 21, imaginary part = 6. Convert to real number 21.8403
+557: It is polar coordinates: angel = 43, x coordinate = 21, y coordinate = 6. Convert to real number 21.8403
+558: It is polar coordinates: angel = 44, x coordinate = 6, y coordinate = 21. Convert to real number 21.8403
+559: It is polar coordinates: angel = 9, x coordinate = 21, y coordinate = 5. Convert to real number 21.587
+560: It is polar coordinates: angel = 8, x coordinate = 14, y coordinate = 16. Convert to real number 21.2603
+561: It is complex number: real part = 14, imaginary part = 16. Convert to real number 21.2603
+562: It is polar coordinates: angel = 21, x coordinate = 21, y coordinate = 3. Convert to real number 21.2132
+563: It is polar coordinates: angel = 31, x coordinate = 20, y coordinate = 7. Convert to real number 21.1896
+564: It is complex number: real part = 18, imaginary part = 11. Convert to real number 21.095
+565: It is polar coordinates: angel = 41, x coordinate = 2, y coordinate = 21. Convert to real number 21.095
+566: It is complex number: real part = 1, imaginary part = 21. Convert to real number 21.0238
+567: It is complex number: real part = 20, imaginary part = 6. Convert to real number 20.8806
+568: It is polar coordinates: angel = 6, x coordinate = 20, y coordinate = 5. Convert to real number 20.6155
+569: It is polar coordinates: angel = 18, x coordinate = 8, y coordinate = 19. Convert to real number 20.6155
+570: It is polar coordinates: angel = 7, x coordinate = 14, y coordinate = 15. Convert to real number 20.5183
+571: It is complex number: real part = 2, imaginary part = 20. Convert to real number 20.0998
+572: It is polar coordinates: angel = 43, x coordinate = 19, y coordinate = 5. Convert to real number 19.6469
+573: It is polar coordinates: angel = 17, x coordinate = 19, y coordinate = 5. Convert to real number 19.6469
+574: It is complex number: real part = 19, imaginary part = 4. Convert to real number 19.4165
+575: It is complex number: real part = 1, imaginary part = 19. Convert to real number 19.0263
+576: It is fraction: Numerator = 19, Denominator = 1. Convert to real number 19
+577: It is complex number: real part = 17, imaginary part = 8. Convert to real number 18.7883
+578: It is polar coordinates: angel = 27, x coordinate = 17, y coordinate = 8. Convert to real number 18.7883
+579: It is polar coordinates: angel = 10, x coordinate = 18, y coordinate = 5. Convert to real number 18.6815
+580: It is complex number: real part = 15, imaginary part = 11. Convert to real number 18.6011
+581: It is complex number: real part = 14, imaginary part = 12. Convert to real number 18.4391
+582: It is polar coordinates: angel = 31, x coordinate = 17, y coordinate = 6. Convert to real number 18.0278
+583: It is polar coordinates: angel = 18, x coordinate = 2, y coordinate = 17. Convert to real number 17.1172
+584: It is polar coordinates: angel = 46, x coordinate = 16, y coordinate = 5. Convert to real number 16.7631
+585: It is complex number: real part = 16, imaginary part = 4. Convert to real number 16.4924
+586: It is polar coordinates: angel = 35, x coordinate = 4, y coordinate = 16. Convert to real number 16.4924
+587: It is polar coordinates: angel = 21, x coordinate = 13, y coordinate = 10. Convert to real number 16.4012
+588: It is polar coordinates: angel = 6, x coordinate = 3, y coordinate = 16. Convert to real number 16.2788
+589: It is complex number: real part = 16, imaginary part = 3. Convert to real number 16.2788
+590: It is complex number: real part = 16, imaginary part = 3. Convert to real number 16.2788
+591: It is polar coordinates: angel = 41, x coordinate = 13, y coordinate = 9. Convert to real number 15.8114
+592: It is polar coordinates: angel = 30, x coordinate = 14, y coordinate = 7. Convert to real number 15.6525
+593: It is polar coordinates: angel = 35, x coordinate = 14, y coordinate = 7. Convert to real number 15.6525
+594: It is fraction: Numerator = 46, Denominator = 3. Convert to real number 15.3333
+595: It is polar coordinates: angel = 15, x coordinate = 15, y coordinate = 1. Convert to real number 15.0333
+596: It is fraction: Numerator = 15, Denominator = 1. Convert to real number 15
+597: It is fraction: Numerator = 30, Denominator = 2. Convert to real number 15
+598: It is polar coordinates: angel = 21, x coordinate = 12, y coordinate = 9. Convert to real number 15
+599: It is polar coordinates: angel = 11, x coordinate = 14, y coordinate = 5. Convert to real number 14.8661
+600: It is complex number: real part = 6, imaginary part = 13. Convert to real number 14.3178
+601: It is polar coordinates: angel = 36, x coordinate = 11, y coordinate = 9. Convert to real number 14.2127
+602: It is polar coordinates: angel = 29, x coordinate = 14, y coordinate = 1. Convert to real number 14.0357
+603: It is complex number: real part = 12, imaginary part = 7. Convert to real number 13.8924
+604: It is complex number: real part = 12, imaginary part = 7. Convert to real number 13.8924
+605: It is polar coordinates: angel = 2, x coordinate = 12, y coordinate = 7. Convert to real number 13.8924
+606: It is polar coordinates: angel = 27, x coordinate = 8, y coordinate = 11. Convert to real number 13.6015
+607: It is complex number: real part = 11, imaginary part = 8. Convert to real number 13.6015
+608: It is polar coordinates: angel = 38, x coordinate = 11, y coordinate = 8. Convert to real number 13.6015
+609: It is polar coordinates: angel = 48, x coordinate = 10, y coordinate = 9. Convert to real number 13.4536
+610: It is polar coordinates: angel = 39, x coordinate = 3, y coordinate = 13. Convert to real number 13.3417
+611: It is fraction: Numerator = 40, Denominator = 3. Convert to real number 13.3333
+612: It is polar coordinates: angel = 46, x coordinate = 2, y coordinate = 13. Convert to real number 13.1529
+613: It is complex number: real part = 13, imaginary part = 1. Convert to real number 13.0384
+614: It is fraction: Numerator = 37, Denominator = 3. Convert to real number 12.3333
+615: It is complex number: real part = 8, imaginary part = 9. Convert to real number 12.0416
+616: It is complex number: real part = 6, imaginary part = 10. Convert to real number 11.6619
+617: It is complex number: real part = 3, imaginary part = 11. Convert to real number 11.4018
+618: It is fraction: Numerator = 11, Denominator = 1. Convert to real number 11
+619: It is polar coordinates: angel = 27, x coordinate = 9, y coordinate = 6. Convert to real number 10.8167
+620: It is fraction: Numerator = 21, Denominator = 2. Convert to real number 10.5
+621: It is complex number: real part = 3, imaginary part = 10. Convert to real number 10.4403
+622: It is polar coordinates: angel = 13, x coordinate = 5, y coordinate = 9. Convert to real number 10.2956
+623: It is complex number: real part = 2, imaginary part = 10. Convert to real number 10.198
+624: It is complex number: real part = 10, imaginary part = 1. Convert to real number 10.0499
+625: It is complex number: real part = 6, imaginary part = 8. Convert to real number 10
+626: It is fraction: Numerator = 19, Denominator = 2. Convert to real number 9.5
+627: It is complex number: real part = 2, imaginary part = 9. Convert to real number 9.21954
+628: It is complex number: real part = 2, imaginary part = 9. Convert to real number 9.21954
+629: It is fraction: Numerator = 25, Denominator = 3. Convert to real number 8.33333
+630: It is complex number: real part = 2, imaginary part = 8. Convert to real number 8.24621
+631: It is complex number: real part = 8, imaginary part = 2. Convert to real number 8.24621
+632: It is fraction: Numerator = 41, Denominator = 5. Convert to real number 8.2
+633: It is fraction: Numerator = 31, Denominator = 4. Convert to real number 7.75
+634: It is polar coordinates: angel = 22, x coordinate = 7, y coordinate = 3. Convert to real number 7.61577
+635: It is polar coordinates: angel = 37, x coordinate = 4, y coordinate = 6. Convert to real number 7.2111
+636: It is fraction: Numerator = 50, Denominator = 7. Convert to real number 7.14286
+637: It is complex number: real part = 7, imaginary part = 1. Convert to real number 7.07107
+638: It is complex number: real part = 7, imaginary part = 1. Convert to real number 7.07107
+639: It is fraction: Numerator = 49, Denominator = 7. Convert to real number 7
+640: It is fraction: Numerator = 7, Denominator = 1. Convert to real number 7
+641: It is fraction: Numerator = 48, Denominator = 7. Convert to real number 6.85714
+642: It is fraction: Numerator = 47, Denominator = 7. Convert to real number 6.71429
+643: It is polar coordinates: angel = 31, x coordinate = 3, y coordinate = 6. Convert to real number 6.7082
+644: It is fraction: Numerator = 32, Denominator = 5. Convert to real number 6.4
+645: It is fraction: Numerator = 31, Denominator = 5. Convert to real number 6.2
+646: It is fraction: Numerator = 36, Denominator = 6. Convert to real number 6
+647: It is fraction: Numerator = 41, Denominator = 7. Convert to real number 5.85714
+648: It is fraction: Numerator = 46, Denominator = 8. Convert to real number 5.75
+649: It is fraction: Numerator = 42, Denominator = 8. Convert to real number 5.25
+650: It is fraction: Numerator = 26, Denominator = 5. Convert to real number 5.2
+651: It is complex number: real part = 3, imaginary part = 4. Convert to real number 5
+652: It is fraction: Numerator = 20, Denominator = 4. Convert to real number 5
+653: It is polar coordinates: angel = 10, x coordinate = 4, y coordinate = 3. Convert to real number 5
+654: It is fraction: Numerator = 20, Denominator = 4. Convert to real number 5
+655: It is fraction: Numerator = 40, Denominator = 8. Convert to real number 5
+656: It is fraction: Numerator = 49, Denominator = 10. Convert to real number 4.9
+657: It is fraction: Numerator = 34, Denominator = 7. Convert to real number 4.85714
+658: It is fraction: Numerator = 19, Denominator = 4. Convert to real number 4.75
+659: It is fraction: Numerator = 19, Denominator = 4. Convert to real number 4.75
+660: It is fraction: Numerator = 32, Denominator = 7. Convert to real number 4.57143
+661: It is polar coordinates: angel = 12, x coordinate = 2, y coordinate = 4. Convert to real number 4.47214
+662: It is fraction: Numerator = 49, Denominator = 11. Convert to real number 4.45455
+663: It is fraction: Numerator = 35, Denominator = 8. Convert to real number 4.375
+664: It is fraction: Numerator = 35, Denominator = 8. Convert to real number 4.375
+665: It is fraction: Numerator = 17, Denominator = 4. Convert to real number 4.25
+666: It is fraction: Numerator = 34, Denominator = 8. Convert to real number 4.25
+667: It is fraction: Numerator = 33, Denominator = 8. Convert to real number 4.125
+668: It is fraction: Numerator = 32, Denominator = 8. Convert to real number 4
+669: It is fraction: Numerator = 4, Denominator = 1. Convert to real number 4
+670: It is fraction: Numerator = 35, Denominator = 9. Convert to real number 3.88889
+671: It is fraction: Numerator = 50, Denominator = 13. Convert to real number 3.84615
+672: It is fraction: Numerator = 33, Denominator = 9. Convert to real number 3.66667
+673: It is complex number: real part = 2, imaginary part = 3. Convert to real number 3.60555
+674: It is complex number: real part = 2, imaginary part = 3. Convert to real number 3.60555
+675: It is polar coordinates: angel = 16, x coordinate = 3, y coordinate = 2. Convert to real number 3.60555
+676: It is fraction: Numerator = 36, Denominator = 10. Convert to real number 3.6
+677: It is fraction: Numerator = 43, Denominator = 12. Convert to real number 3.58333
+678: It is fraction: Numerator = 7, Denominator = 2. Convert to real number 3.5
+679: It is fraction: Numerator = 7, Denominator = 2. Convert to real number 3.5
+680: It is fraction: Numerator = 38, Denominator = 11. Convert to real number 3.45455
+681: It is fraction: Numerator = 31, Denominator = 9. Convert to real number 3.44444
+682: It is fraction: Numerator = 17, Denominator = 5. Convert to real number 3.4
+683: It is fraction: Numerator = 20, Denominator = 6. Convert to real number 3.33333
+684: It is fraction: Numerator = 36, Denominator = 11. Convert to real number 3.27273
+685: It is fraction: Numerator = 26, Denominator = 8. Convert to real number 3.25
+686: It is fraction: Numerator = 42, Denominator = 13. Convert to real number 3.23077
+687: It is fraction: Numerator = 19, Denominator = 6. Convert to real number 3.16667
+688: It is fraction: Numerator = 28, Denominator = 9. Convert to real number 3.11111
+689: It is fraction: Numerator = 37, Denominator = 12. Convert to real number 3.08333
+690: It is fraction: Numerator = 24, Denominator = 8. Convert to real number 3
+691: It is fraction: Numerator = 48, Denominator = 16. Convert to real number 3
+692: It is fraction: Numerator = 27, Denominator = 9. Convert to real number 3
+693: It is fraction: Numerator = 27, Denominator = 9. Convert to real number 3
+694: It is fraction: Numerator = 6, Denominator = 2. Convert to real number 3
+695: It is polar coordinates: angel = 35, x coordinate = 2, y coordinate = 2. Convert to real number 2.82843
+696: It is fraction: Numerator = 31, Denominator = 11. Convert to real number 2.81818
+697: It is fraction: Numerator = 47, Denominator = 17. Convert to real number 2.76471
+698: It is fraction: Numerator = 40, Denominator = 15. Convert to real number 2.66667
+699: It is fraction: Numerator = 40, Denominator = 15. Convert to real number 2.66667
+700: It is fraction: Numerator = 50, Denominator = 19. Convert to real number 2.63158
+701: It is fraction: Numerator = 50, Denominator = 19. Convert to real number 2.63158
+702: It is fraction: Numerator = 41, Denominator = 16. Convert to real number 2.5625
+703: It is fraction: Numerator = 25, Denominator = 10. Convert to real number 2.5
+704: It is fraction: Numerator = 42, Denominator = 17. Convert to real number 2.47059
+705: It is fraction: Numerator = 49, Denominator = 20. Convert to real number 2.45
+706: It is fraction: Numerator = 19, Denominator = 8. Convert to real number 2.375
+707: It is fraction: Numerator = 45, Denominator = 19. Convert to real number 2.36842
+708: It is fraction: Numerator = 14, Denominator = 6. Convert to real number 2.33333
+709: It is fraction: Numerator = 28, Denominator = 12. Convert to real number 2.33333
+710: It is fraction: Numerator = 23, Denominator = 10. Convert to real number 2.3
+711: It is fraction: Numerator = 46, Denominator = 20. Convert to real number 2.3
+712: It is fraction: Numerator = 32, Denominator = 14. Convert to real number 2.28571
+713: It is fraction: Numerator = 16, Denominator = 7. Convert to real number 2.28571
+714: It is fraction: Numerator = 50, Denominator = 22. Convert to real number 2.27273
+715: It is fraction: Numerator = 44, Denominator = 20. Convert to real number 2.2
+716: It is fraction: Numerator = 48, Denominator = 22. Convert to real number 2.18182
+717: It is fraction: Numerator = 26, Denominator = 12. Convert to real number 2.16667
+718: It is fraction: Numerator = 41, Denominator = 19. Convert to real number 2.15789
+719: It is fraction: Numerator = 15, Denominator = 7. Convert to real number 2.14286
+720: It is fraction: Numerator = 49, Denominator = 23. Convert to real number 2.13043
+721: It is fraction: Numerator = 17, Denominator = 8. Convert to real number 2.125
+722: It is fraction: Numerator = 42, Denominator = 20. Convert to real number 2.1
+723: It is fraction: Numerator = 33, Denominator = 16. Convert to real number 2.0625
+724: It is fraction: Numerator = 47, Denominator = 23. Convert to real number 2.04348
+725: It is fraction: Numerator = 26, Denominator = 13. Convert to real number 2
+726: It is fraction: Numerator = 20, Denominator = 10. Convert to real number 2
+727: It is fraction: Numerator = 18, Denominator = 9. Convert to real number 2
+728: It is fraction: Numerator = 46, Denominator = 23. Convert to real number 2
+729: It is fraction: Numerator = 36, Denominator = 19. Convert to real number 1.89474
+730: It is fraction: Numerator = 45, Denominator = 24. Convert to real number 1.875
+731: It is fraction: Numerator = 13, Denominator = 7. Convert to real number 1.85714
+732: It is fraction: Numerator = 37, Denominator = 20. Convert to real number 1.85
+733: It is fraction: Numerator = 9, Denominator = 5. Convert to real number 1.8
+734: It is fraction: Numerator = 48, Denominator = 27. Convert to real number 1.77778
+735: It is fraction: Numerator = 39, Denominator = 22. Convert to real number 1.77273
+736: It is fraction: Numerator = 28, Denominator = 16. Convert to real number 1.75
+737: It is fraction: Numerator = 14, Denominator = 8. Convert to real number 1.75
+738: It is fraction: Numerator = 50, Denominator = 29. Convert to real number 1.72414
+739: It is fraction: Numerator = 12, Denominator = 7. Convert to real number 1.71429
+740: It is fraction: Numerator = 27, Denominator = 16. Convert to real number 1.6875
+741: It is fraction: Numerator = 42, Denominator = 25. Convert to real number 1.68
+742: It is fraction: Numerator = 42, Denominator = 25. Convert to real number 1.68
+743: It is fraction: Numerator = 25, Denominator = 15. Convert to real number 1.66667
+744: It is fraction: Numerator = 35, Denominator = 21. Convert to real number 1.66667
+745: It is fraction: Numerator = 20, Denominator = 12. Convert to real number 1.66667
+746: It is fraction: Numerator = 20, Denominator = 12. Convert to real number 1.66667
+747: It is fraction: Numerator = 13, Denominator = 8. Convert to real number 1.625
+748: It is fraction: Numerator = 43, Denominator = 27. Convert to real number 1.59259
+749: It is fraction: Numerator = 49, Denominator = 31. Convert to real number 1.58065
+750: It is fraction: Numerator = 34, Denominator = 22. Convert to real number 1.54545
+751: It is fraction: Numerator = 49, Denominator = 32. Convert to real number 1.53125
+752: It is fraction: Numerator = 47, Denominator = 31. Convert to real number 1.51613
+753: It is fraction: Numerator = 48, Denominator = 32. Convert to real number 1.5
+754: It is fraction: Numerator = 25, Denominator = 17. Convert to real number 1.47059
+755: It is fraction: Numerator = 38, Denominator = 26. Convert to real number 1.46154
+756: It is fraction: Numerator = 26, Denominator = 18. Convert to real number 1.44444
+757: It is fraction: Numerator = 38, Denominator = 27. Convert to real number 1.40741
+758: It is fraction: Numerator = 49, Denominator = 35. Convert to real number 1.4
+759: It is fraction: Numerator = 42, Denominator = 30. Convert to real number 1.4
+760: It is fraction: Numerator = 39, Denominator = 28. Convert to real number 1.39286
+761: It is fraction: Numerator = 18, Denominator = 13. Convert to real number 1.38462
+762: It is fraction: Numerator = 47, Denominator = 34. Convert to real number 1.38235
+763: It is fraction: Numerator = 40, Denominator = 29. Convert to real number 1.37931
+764: It is fraction: Numerator = 33, Denominator = 24. Convert to real number 1.375
+765: It is fraction: Numerator = 48, Denominator = 35. Convert to real number 1.37143
+766: It is fraction: Numerator = 39, Denominator = 29. Convert to real number 1.34483
+767: It is fraction: Numerator = 43, Denominator = 32. Convert to real number 1.34375
+768: It is fraction: Numerator = 4, Denominator = 3. Convert to real number 1.33333
+769: It is fraction: Numerator = 48, Denominator = 36. Convert to real number 1.33333
+770: It is fraction: Numerator = 40, Denominator = 30. Convert to real number 1.33333
+771: It is fraction: Numerator = 48, Denominator = 36. Convert to real number 1.33333
+772: It is fraction: Numerator = 28, Denominator = 21. Convert to real number 1.33333
+773: It is fraction: Numerator = 50, Denominator = 38. Convert to real number 1.31579
+774: It is fraction: Numerator = 46, Denominator = 35. Convert to real number 1.31429
+775: It is fraction: Numerator = 17, Denominator = 13. Convert to real number 1.30769
+776: It is fraction: Numerator = 48, Denominator = 37. Convert to real number 1.2973
+777: It is fraction: Numerator = 22, Denominator = 17. Convert to real number 1.29412
+778: It is fraction: Numerator = 49, Denominator = 38. Convert to real number 1.28947
+779: It is fraction: Numerator = 46, Denominator = 36. Convert to real number 1.27778
+780: It is fraction: Numerator = 47, Denominator = 37. Convert to real number 1.27027
+781: It is fraction: Numerator = 44, Denominator = 35. Convert to real number 1.25714
+782: It is fraction: Numerator = 45, Denominator = 36. Convert to real number 1.25
+783: It is fraction: Numerator = 50, Denominator = 40. Convert to real number 1.25
+784: It is fraction: Numerator = 10, Denominator = 8. Convert to real number 1.25
+785: It is fraction: Numerator = 36, Denominator = 29. Convert to real number 1.24138
+786: It is fraction: Numerator = 32, Denominator = 26. Convert to real number 1.23077
+787: It is fraction: Numerator = 16, Denominator = 13. Convert to real number 1.23077
+788: It is fraction: Numerator = 34, Denominator = 28. Convert to real number 1.21429
+789: It is fraction: Numerator = 29, Denominator = 24. Convert to real number 1.20833
+790: It is fraction: Numerator = 50, Denominator = 42. Convert to real number 1.19048
+791: It is fraction: Numerator = 25, Denominator = 21. Convert to real number 1.19048
+792: It is fraction: Numerator = 19, Denominator = 16. Convert to real number 1.1875
+793: It is fraction: Numerator = 13, Denominator = 11. Convert to real number 1.18182
+794: It is fraction: Numerator = 46, Denominator = 39. Convert to real number 1.17949
+795: It is fraction: Numerator = 14, Denominator = 12. Convert to real number 1.16667
+796: It is fraction: Numerator = 29, Denominator = 25. Convert to real number 1.16
+797: It is fraction: Numerator = 38, Denominator = 33. Convert to real number 1.15152
+798: It is fraction: Numerator = 38, Denominator = 33. Convert to real number 1.15152
+799: It is fraction: Numerator = 23, Denominator = 20. Convert to real number 1.15
+800: It is fraction: Numerator = 24, Denominator = 21. Convert to real number 1.14286
+801: It is fraction: Numerator = 33, Denominator = 29. Convert to real number 1.13793
+802: It is fraction: Numerator = 9, Denominator = 8. Convert to real number 1.125
+803: It is fraction: Numerator = 43, Denominator = 39. Convert to real number 1.10256
+804: It is fraction: Numerator = 46, Denominator = 42. Convert to real number 1.09524
+805: It is fraction: Numerator = 36, Denominator = 33. Convert to real number 1.09091
+806: It is fraction: Numerator = 15, Denominator = 14. Convert to real number 1.07143
+807: It is fraction: Numerator = 47, Denominator = 44. Convert to real number 1.06818
+808: It is fraction: Numerator = 48, Denominator = 45. Convert to real number 1.06667
+809: It is fraction: Numerator = 17, Denominator = 16. Convert to real number 1.0625
+810: It is fraction: Numerator = 17, Denominator = 16. Convert to real number 1.0625
+811: It is fraction: Numerator = 35, Denominator = 33. Convert to real number 1.06061
+812: It is fraction: Numerator = 38, Denominator = 36. Convert to real number 1.05556
+813: It is fraction: Numerator = 40, Denominator = 38. Convert to real number 1.05263
+814: It is fraction: Numerator = 22, Denominator = 21. Convert to real number 1.04762
+815: It is fraction: Numerator = 47, Denominator = 45. Convert to real number 1.04444
+816: It is fraction: Numerator = 25, Denominator = 24. Convert to real number 1.04167
+817: It is fraction: Numerator = 28, Denominator = 27. Convert to real number 1.03704
+818: It is fraction: Numerator = 30, Denominator = 29. Convert to real number 1.03448
+819: It is fraction: Numerator = 36, Denominator = 35. Convert to real number 1.02857
+820: It is fraction: Numerator = 45, Denominator = 44. Convert to real number 1.02273
+821: It is fraction: Numerator = 50, Denominator = 50. Convert to real number 1
+822: It is fraction: Numerator = 6, Denominator = 6. Convert to real number 1
+823: It is fraction: Numerator = 23, Denominator = 23. Convert to real number 1
+824: It is fraction: Numerator = 33, Denominator = 33. Convert to real number 1
+825: It is fraction: Numerator = 43, Denominator = 43. Convert to real number 1
+826: It is fraction: Numerator = 7, Denominator = 7. Convert to real number 1
+827: It is fraction: Numerator = 5, Denominator = 5. Convert to real number 1
+828: It is fraction: Numerator = 5, Denominator = 5. Convert to real number 1
+829: It is fraction: Numerator = 24, Denominator = 24. Convert to real number 1
+830: It is fraction: Numerator = 36, Denominator = 36. Convert to real number 1
+831: It is fraction: Numerator = 46, Denominator = 47. Convert to real number 0.978723
+832: It is fraction: Numerator = 44, Denominator = 45. Convert to real number 0.977778
+833: It is fraction: Numerator = 43, Denominator = 44. Convert to real number 0.977273
+834: It is fraction: Numerator = 34, Denominator = 35. Convert to real number 0.971429
+835: It is fraction: Numerator = 30, Denominator = 31. Convert to real number 0.967742
+836: It is fraction: Numerator = 44, Denominator = 46. Convert to real number 0.956522
+837: It is fraction: Numerator = 22, Denominator = 23. Convert to real number 0.956522
+838: It is fraction: Numerator = 21, Denominator = 22. Convert to real number 0.954545
+839: It is fraction: Numerator = 36, Denominator = 38. Convert to real number 0.947368
+840: It is fraction: Numerator = 15, Denominator = 16. Convert to real number 0.9375
+841: It is fraction: Numerator = 43, Denominator = 46. Convert to real number 0.934783
+842: It is fraction: Numerator = 38, Denominator = 41. Convert to real number 0.926829
+843: It is fraction: Numerator = 25, Denominator = 27. Convert to real number 0.925926
+844: It is fraction: Numerator = 36, Denominator = 39. Convert to real number 0.923077
+845: It is fraction: Numerator = 36, Denominator = 39. Convert to real number 0.923077
+846: It is fraction: Numerator = 34, Denominator = 37. Convert to real number 0.918919
+847: It is fraction: Numerator = 43, Denominator = 47. Convert to real number 0.914894
+848: It is fraction: Numerator = 43, Denominator = 47. Convert to real number 0.914894
+849: It is fraction: Numerator = 20, Denominator = 22. Convert to real number 0.909091
+850: It is fraction: Numerator = 29, Denominator = 32. Convert to real number 0.90625
+851: It is fraction: Numerator = 9, Denominator = 10. Convert to real number 0.9
+852: It is fraction: Numerator = 35, Denominator = 39. Convert to real number 0.897436
+853: It is fraction: Numerator = 35, Denominator = 39. Convert to real number 0.897436
+854: It is fraction: Numerator = 34, Denominator = 38. Convert to real number 0.894737
+855: It is fraction: Numerator = 16, Denominator = 18. Convert to real number 0.888889
+856: It is fraction: Numerator = 31, Denominator = 35. Convert to real number 0.885714
+857: It is fraction: Numerator = 15, Denominator = 17. Convert to real number 0.882353
+858: It is fraction: Numerator = 29, Denominator = 33. Convert to real number 0.878788
+859: It is fraction: Numerator = 43, Denominator = 49. Convert to real number 0.877551
+860: It is fraction: Numerator = 42, Denominator = 48. Convert to real number 0.875
+861: It is fraction: Numerator = 21, Denominator = 24. Convert to real number 0.875
+862: It is fraction: Numerator = 28, Denominator = 32. Convert to real number 0.875
+863: It is fraction: Numerator = 43, Denominator = 50. Convert to real number 0.86
+864: It is fraction: Numerator = 18, Denominator = 21. Convert to real number 0.857143
+865: It is fraction: Numerator = 36, Denominator = 42. Convert to real number 0.857143
+866: It is fraction: Numerator = 35, Denominator = 41. Convert to real number 0.853659
+867: It is fraction: Numerator = 26, Denominator = 31. Convert to real number 0.83871
+868: It is fraction: Numerator = 10, Denominator = 12. Convert to real number 0.833333
+869: It is fraction: Numerator = 24, Denominator = 29. Convert to real number 0.827586
+870: It is fraction: Numerator = 19, Denominator = 23. Convert to real number 0.826087
+871: It is fraction: Numerator = 27, Denominator = 33. Convert to real number 0.818182
+872: It is fraction: Numerator = 35, Denominator = 43. Convert to real number 0.813953
+873: It is fraction: Numerator = 8, Denominator = 10. Convert to real number 0.8
+874: It is fraction: Numerator = 27, Denominator = 34. Convert to real number 0.794118
+875: It is fraction: Numerator = 30, Denominator = 38. Convert to real number 0.789474
+876: It is fraction: Numerator = 28, Denominator = 36. Convert to real number 0.777778
+877: It is fraction: Numerator = 20, Denominator = 26. Convert to real number 0.769231
+878: It is fraction: Numerator = 36, Denominator = 47. Convert to real number 0.765957
+879: It is fraction: Numerator = 37, Denominator = 49. Convert to real number 0.755102
+880: It is fraction: Numerator = 18, Denominator = 24. Convert to real number 0.75
+881: It is fraction: Numerator = 6, Denominator = 8. Convert to real number 0.75
+882: It is fraction: Numerator = 26, Denominator = 35. Convert to real number 0.742857
+883: It is fraction: Numerator = 20, Denominator = 27. Convert to real number 0.740741
+884: It is fraction: Numerator = 31, Denominator = 42. Convert to real number 0.738095
+885: It is fraction: Numerator = 11, Denominator = 15. Convert to real number 0.733333
+886: It is fraction: Numerator = 11, Denominator = 15. Convert to real number 0.733333
+887: It is fraction: Numerator = 31, Denominator = 43. Convert to real number 0.72093
+888: It is fraction: Numerator = 35, Denominator = 50. Convert to real number 0.7
+889: It is fraction: Numerator = 20, Denominator = 29. Convert to real number 0.689655
+890: It is fraction: Numerator = 11, Denominator = 16. Convert to real number 0.6875
+891: It is fraction: Numerator = 33, Denominator = 48. Convert to real number 0.6875
+892: It is fraction: Numerator = 15, Denominator = 22. Convert to real number 0.681818
+893: It is fraction: Numerator = 27, Denominator = 40. Convert to real number 0.675
+894: It is fraction: Numerator = 6, Denominator = 9. Convert to real number 0.666667
+895: It is fraction: Numerator = 18, Denominator = 27. Convert to real number 0.666667
+896: It is fraction: Numerator = 4, Denominator = 6. Convert to real number 0.666667
+897: It is fraction: Numerator = 2, Denominator = 3. Convert to real number 0.666667
+898: It is fraction: Numerator = 12, Denominator = 18. Convert to real number 0.666667
+899: It is fraction: Numerator = 29, Denominator = 44. Convert to real number 0.659091
+900: It is fraction: Numerator = 23, Denominator = 35. Convert to real number 0.657143
+901: It is fraction: Numerator = 22, Denominator = 34. Convert to real number 0.647059
+902: It is fraction: Numerator = 31, Denominator = 48. Convert to real number 0.645833
+903: It is fraction: Numerator = 30, Denominator = 47. Convert to real number 0.638298
+904: It is fraction: Numerator = 21, Denominator = 33. Convert to real number 0.636364
+905: It is fraction: Numerator = 31, Denominator = 49. Convert to real number 0.632653
+906: It is fraction: Numerator = 29, Denominator = 47. Convert to real number 0.617021
+907: It is fraction: Numerator = 16, Denominator = 26. Convert to real number 0.615385
+908: It is fraction: Numerator = 11, Denominator = 18. Convert to real number 0.611111
+909: It is fraction: Numerator = 22, Denominator = 36. Convert to real number 0.611111
+910: It is fraction: Numerator = 30, Denominator = 50. Convert to real number 0.6
+911: It is fraction: Numerator = 6, Denominator = 10. Convert to real number 0.6
+912: It is fraction: Numerator = 12, Denominator = 20. Convert to real number 0.6
+913: It is fraction: Numerator = 21, Denominator = 36. Convert to real number 0.583333
+914: It is fraction: Numerator = 18, Denominator = 32. Convert to real number 0.5625
+915: It is fraction: Numerator = 14, Denominator = 25. Convert to real number 0.56
+916: It is fraction: Numerator = 20, Denominator = 36. Convert to real number 0.555556
+917: It is fraction: Numerator = 11, Denominator = 20. Convert to real number 0.55
+918: It is fraction: Numerator = 7, Denominator = 13. Convert to real number 0.538462
+919: It is fraction: Numerator = 18, Denominator = 34. Convert to real number 0.529412
+920: It is fraction: Numerator = 19, Denominator = 36. Convert to real number 0.527778
+921: It is fraction: Numerator = 20, Denominator = 38. Convert to real number 0.526316
+922: It is fraction: Numerator = 23, Denominator = 44. Convert to real number 0.522727
+923: It is fraction: Numerator = 20, Denominator = 39. Convert to real number 0.512821
+924: It is fraction: Numerator = 25, Denominator = 49. Convert to real number 0.510204
+925: It is fraction: Numerator = 19, Denominator = 38. Convert to real number 0.5
+926: It is fraction: Numerator = 24, Denominator = 48. Convert to real number 0.5
+927: It is fraction: Numerator = 4, Denominator = 8. Convert to real number 0.5
+928: It is fraction: Numerator = 14, Denominator = 28. Convert to real number 0.5
+929: It is fraction: Numerator = 6, Denominator = 12. Convert to real number 0.5
+930: It is fraction: Numerator = 20, Denominator = 41. Convert to real number 0.487805
+931: It is fraction: Numerator = 11, Denominator = 23. Convert to real number 0.478261
+932: It is fraction: Numerator = 21, Denominator = 44. Convert to real number 0.477273
+933: It is fraction: Numerator = 10, Denominator = 21. Convert to real number 0.47619
+934: It is fraction: Numerator = 22, Denominator = 47. Convert to real number 0.468085
+935: It is fraction: Numerator = 13, Denominator = 28. Convert to real number 0.464286
+936: It is fraction: Numerator = 18, Denominator = 39. Convert to real number 0.461538
+937: It is fraction: Numerator = 11, Denominator = 24. Convert to real number 0.458333
+938: It is fraction: Numerator = 14, Denominator = 31. Convert to real number 0.451613
+939: It is fraction: Numerator = 17, Denominator = 38. Convert to real number 0.447368
+940: It is fraction: Numerator = 16, Denominator = 36. Convert to real number 0.444444
+941: It is fraction: Numerator = 11, Denominator = 25. Convert to real number 0.44
+942: It is fraction: Numerator = 21, Denominator = 48. Convert to real number 0.4375
+943: It is fraction: Numerator = 17, Denominator = 39. Convert to real number 0.435897
+944: It is fraction: Numerator = 20, Denominator = 46. Convert to real number 0.434783
+945: It is fraction: Numerator = 19, Denominator = 44. Convert to real number 0.431818
+946: It is fraction: Numerator = 21, Denominator = 49. Convert to real number 0.428571
+947: It is fraction: Numerator = 18, Denominator = 43. Convert to real number 0.418605
+948: It is fraction: Numerator = 5, Denominator = 12. Convert to real number 0.416667
+949: It is fraction: Numerator = 17, Denominator = 41. Convert to real number 0.414634
+950: It is fraction: Numerator = 12, Denominator = 30. Convert to real number 0.4
+951: It is fraction: Numerator = 15, Denominator = 38. Convert to real number 0.394737
+952: It is fraction: Numerator = 13, Denominator = 33. Convert to real number 0.393939
+953: It is fraction: Numerator = 18, Denominator = 46. Convert to real number 0.391304
+954: It is fraction: Numerator = 16, Denominator = 41. Convert to real number 0.390244
+955: It is fraction: Numerator = 7, Denominator = 18. Convert to real number 0.388889
+956: It is fraction: Numerator = 19, Denominator = 49. Convert to real number 0.387755
+957: It is fraction: Numerator = 19, Denominator = 50. Convert to real number 0.38
+958: It is fraction: Numerator = 13, Denominator = 35. Convert to real number 0.371429
+959: It is fraction: Numerator = 18, Denominator = 50. Convert to real number 0.36
+960: It is fraction: Numerator = 5, Denominator = 14. Convert to real number 0.357143
+961: It is fraction: Numerator = 1, Denominator = 3. Convert to real number 0.333333
+962: It is fraction: Numerator = 10, Denominator = 32. Convert to real number 0.3125
+963: It is fraction: Numerator = 13, Denominator = 42. Convert to real number 0.309524
+964: It is fraction: Numerator = 8, Denominator = 26. Convert to real number 0.307692
+965: It is fraction: Numerator = 14, Denominator = 46. Convert to real number 0.304348
+966: It is fraction: Numerator = 9, Denominator = 32. Convert to real number 0.28125
+967: It is fraction: Numerator = 12, Denominator = 44. Convert to real number 0.272727
+968: It is fraction: Numerator = 5, Denominator = 19. Convert to real number 0.263158
+969: It is fraction: Numerator = 13, Denominator = 50. Convert to real number 0.26
+970: It is fraction: Numerator = 12, Denominator = 47. Convert to real number 0.255319
+971: It is fraction: Numerator = 10, Denominator = 40. Convert to real number 0.25
+972: It is fraction: Numerator = 10, Denominator = 43. Convert to real number 0.232558
+973: It is fraction: Numerator = 9, Denominator = 39. Convert to real number 0.230769
+974: It is fraction: Numerator = 3, Denominator = 13. Convert to real number 0.230769
+975: It is fraction: Numerator = 5, Denominator = 22. Convert to real number 0.227273
+976: It is fraction: Numerator = 8, Denominator = 38. Convert to real number 0.210526
+977: It is fraction: Numerator = 6, Denominator = 29. Convert to real number 0.206897
+978: It is fraction: Numerator = 10, Denominator = 49. Convert to real number 0.204082
+979: It is fraction: Numerator = 3, Denominator = 15. Convert to real number 0.2
+980: It is fraction: Numerator = 8, Denominator = 42. Convert to real number 0.190476
+981: It is fraction: Numerator = 7, Denominator = 40. Convert to real number 0.175
+982: It is fraction: Numerator = 8, Denominator = 47. Convert to real number 0.170213
+983: It is fraction: Numerator = 6, Denominator = 38. Convert to real number 0.157895
+984: It is fraction: Numerator = 5, Denominator = 33. Convert to real number 0.151515
+985: It is fraction: Numerator = 3, Denominator = 20. Convert to real number 0.15
+986: It is fraction: Numerator = 4, Denominator = 31. Convert to real number 0.129032
+987: It is fraction: Numerator = 6, Denominator = 50. Convert to real number 0.12
+988: It is fraction: Numerator = 5, Denominator = 45. Convert to real number 0.111111
+989: It is fraction: Numerator = 4, Denominator = 39. Convert to real number 0.102564
+990: It is fraction: Numerator = 2, Denominator = 20. Convert to real number 0.1
+991: It is fraction: Numerator = 4, Denominator = 40. Convert to real number 0.1
+992: It is fraction: Numerator = 2, Denominator = 21. Convert to real number 0.0952381
+993: It is fraction: Numerator = 2, Denominator = 23. Convert to real number 0.0869565
+994: It is fraction: Numerator = 3, Denominator = 48. Convert to real number 0.0625
+995: It is fraction: Numerator = 3, Denominator = 50. Convert to real number 0.06
+996: It is fraction: Numerator = 2, Denominator = 41. Convert to real number 0.0487805
+997: It is fraction: Numerator = 1, Denominator = 23. Convert to real number 0.0434783
+998: It is fraction: Numerator = 2, Denominator = 49. Convert to real number 0.0408163
+999: It is fraction: Numerator = 1, Denominator = 44. Convert to real number 0.0227273

@@ -1,0 +1,14 @@
+===== FILLED CONTAINER =====
+Container is store 5 numbers:
+It is complex number: real part = 5, imaginary part = 1. Convert to real number 5.0990195135927845
+It is polar coordinates: angel = 2, x coordinate = -1, y coordinate = -5. Convert to real number 5.0990195135927845
+It is fraction: Numerator = 4, Denominator = -5. Convert to real number -0.8
+It is complex number: real part = 0, imaginary part = 0. Convert to real number 0.0
+It is fraction: Numerator = -2, Denominator = 3. Convert to real number -0.6666666666666666
+===== SORTED CONTAINER =====
+Container is store 5 numbers:
+It is complex number: real part = 5, imaginary part = 1. Convert to real number 5.0990195135927845
+It is polar coordinates: angel = 2, x coordinate = -1, y coordinate = -5. Convert to real number 5.0990195135927845
+It is complex number: real part = 0, imaginary part = 0. Convert to real number 0.0
+It is fraction: Numerator = -2, Denominator = 3. Convert to real number -0.6666666666666666
+It is fraction: Numerator = 4, Denominator = -5. Convert to real number -0.8

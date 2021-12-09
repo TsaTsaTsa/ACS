@@ -1,3 +1,0 @@
-/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/build/CMakeFiles/edit_cache.dir
-/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/build/CMakeFiles/rebuild_cache.dir
-/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/build/CMakeFiles/task01.dir

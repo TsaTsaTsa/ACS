@@ -13,20 +13,20 @@ if __name__ == '__main__':
         inputFileName = sys.argv[2]
         outputFileName = sys.argv[3]
 
-         ifile = open(inputFileName)
+        ifile = open(inputFileName)
         strArray = ifile.read().replace("\n", " ").split(" ")
         ifile.close()
 
         container.ReadStrArray(strArray)
-    elif sys.argv[1] == "-r":
+    elif sys.argv[1] == "-n":
         numberOfElements = int(sys.argv[2])
         outputFileName = sys.argv[3]
 
-        container.CreateRandom(numberOfElements)
+        container.ReadRnd(numberOfElements)
     else:
         print("Incorrect command line! You must write:")
         print("    python main -f <inputFileName> <outputFileName>")
-        print("    python main -r <numberOfElements> <outputFileName>")
+        print("    python main -n <numberOfElements> <outputFileName>")
 
     with open(outputFileName, 'w') as output:
         print("===== FILLED CONTAINER =====", file=output)

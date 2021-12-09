@@ -1,7 +1,0 @@
-Sorted container = 
-Container contains 5 elements.
-0: It is complex number: real part = 2, imaginary part = 4. Convert to real number 4.47214
-1: It is complex number: real part = 1, imaginary part = 1. Convert to real number 1.41421
-2: It is fraction: Numerator = 1, Denominator = 1. Convert to real number 1
-3: It is fraction: Numerator = 1, Denominator = 1075970048. Convert to real number 9.29394e-10
-4: It is complex number: real part = 0, imaginary part = 0. Convert to real number 0

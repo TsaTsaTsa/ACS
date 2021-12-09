@@ -1,16 +1,22 @@
 ===== FILLED CONTAINER =====
-Container is store 6 numbers:
-It is polar coordinates: angel = 4, x coordinate = 8, y coordinate = 9. Convert to real number 12.041594578792296
-It is fraction: Numerator = 7, Denominator = 40. Convert to real number 0.175
-It is complex number: real part = 2, imaginary part = 1. Convert to real number 2.23606797749979
-It is fraction: Numerator = 3, Denominator = 2. Convert to real number 1.5
-It is polar coordinates: angel = 52, x coordinate = 8, y coordinate = 4. Convert to real number 8.94427190999916
-It is polar coordinates: angel = 19, x coordinate = 5, y coordinate = 4. Convert to real number 6.4031242374328485
+Container is store 9 numbers:
+It is complex number: real part = 509.27130340202524, imaginary part = 1472.1492817258286. Convert to real number 1557.7486216186073
+It is fraction: Numerator = 252.40503691498438, Denominator = 1244.5232914693365. Convert to real number 0.20281262604332972
+It is polar coordinates: angel = 1066.6300947253721, x coordinate = 1467.9763021524107, y coordinate = 239.8243681966562. Convert to real number 1487.4374444869911
+It is polar coordinates: angel = 1223.6782133792767, x coordinate = 1148.7617602193861, y coordinate = 1788.9223473566187. Convert to real number 2126.0048792545745
+It is fraction: Numerator = 662.1362842921701, Denominator = 262.97754159000743. Convert to real number 2.5178434640797853
+It is fraction: Numerator = 1149.16216823815, Denominator = 42.78429852510271. Convert to real number 26.859436939556346
+It is complex number: real part = 362.8920696476974, imaginary part = 694.4426118244455. Convert to real number 783.543997061267
+It is polar coordinates: angel = 732.5835386078144, x coordinate = 27.263003858289466, y coordinate = 1231.0144900209655. Convert to real number 1231.3163468503758
+It is complex number: real part = 1652.006867300257, imaginary part = 1151.8338184021677. Convert to real number 2013.9135619043154
 ===== SORTED CONTAINER =====
-Container is store 6 numbers:
-It is polar coordinates: angel = 4, x coordinate = 8, y coordinate = 9. Convert to real number 12.041594578792296
-It is polar coordinates: angel = 52, x coordinate = 8, y coordinate = 4. Convert to real number 8.94427190999916
-It is polar coordinates: angel = 19, x coordinate = 5, y coordinate = 4. Convert to real number 6.4031242374328485
-It is complex number: real part = 2, imaginary part = 1. Convert to real number 2.23606797749979
-It is fraction: Numerator = 3, Denominator = 2. Convert to real number 1.5
-It is fraction: Numerator = 7, Denominator = 40. Convert to real number 0.175
+Container is store 9 numbers:
+It is polar coordinates: angel = 1223.6782133792767, x coordinate = 1148.7617602193861, y coordinate = 1788.9223473566187. Convert to real number 2126.0048792545745
+It is complex number: real part = 1652.006867300257, imaginary part = 1151.8338184021677. Convert to real number 2013.9135619043154
+It is complex number: real part = 509.27130340202524, imaginary part = 1472.1492817258286. Convert to real number 1557.7486216186073
+It is polar coordinates: angel = 1066.6300947253721, x coordinate = 1467.9763021524107, y coordinate = 239.8243681966562. Convert to real number 1487.4374444869911
+It is polar coordinates: angel = 732.5835386078144, x coordinate = 27.263003858289466, y coordinate = 1231.0144900209655. Convert to real number 1231.3163468503758
+It is complex number: real part = 362.8920696476974, imaginary part = 694.4426118244455. Convert to real number 783.543997061267
+It is fraction: Numerator = 1149.16216823815, Denominator = 42.78429852510271. Convert to real number 26.859436939556346
+It is fraction: Numerator = 662.1362842921701, Denominator = 262.97754159000743. Convert to real number 2.5178434640797853
+It is fraction: Numerator = 252.40503691498438, Denominator = 1244.5232914693365. Convert to real number 0.20281262604332972

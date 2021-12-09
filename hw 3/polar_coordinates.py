@@ -1,4 +1,6 @@
 import math
+import random
+
 from number import *
 
 
@@ -17,6 +19,10 @@ class PolarNumber(Number):
         i += 3
         return i
 
+    def InRnd(self):
+        self.angle = random.uniform(1, 2000)
+        self.x = random.uniform(1, 2000)
+        self.y = random.uniform(1, 2000)
 
     def Print(self):
         print("It is polar coordinates: angel = ", self.angle, ", x coordinate = ", self.x,
@@ -24,13 +30,13 @@ class PolarNumber(Number):
               ". Convert to real number ", self.ConvertToRealNumber())
         pass
 
-
     def Write(self, ostream):
         ostream.write("It is polar coordinates: angel = {}, x coordinate = {}, y coordinate = {}. Convert to real number {}"
                       .format(self.angle, self.x, self.y, self.ConvertToRealNumber()))
         pass
 
-
     def ConvertToRealNumber(self):
         return math.sqrt(self.x**2 + self.y**2)
         pass
+
+

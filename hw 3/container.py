@@ -1,6 +1,7 @@
 from complex import *
 from fractional import *
 from polar_coordinates import *
+import random
 
 
 class Container:
@@ -41,7 +42,7 @@ class Container:
                 case 3:
                     num = PolarNumber()
 
-            num.CreateRandom()
+            num.InRnd()
             self.store.append(num)
 
     def Print(self, output):

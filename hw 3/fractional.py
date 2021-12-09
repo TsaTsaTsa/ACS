@@ -1,3 +1,5 @@
+import random
+
 from number import *
 
 class Fractional(Number):
@@ -20,6 +22,10 @@ class Fractional(Number):
     def Write(self, ostream):
         ostream.write("It is fraction: Numerator = {}, Denominator = {}. Convert to real number {}".format(self.number, self.denominator, self.ConvertToRealNumber()))
         pass
+
+    def InRnd(self):
+        self.number = random.uniform(1, 2000)
+        self.denominator = random.uniform(1, 2000)
 
     def ConvertToRealNumber(self):
         return self.number / self.denominator

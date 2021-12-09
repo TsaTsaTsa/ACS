@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/complex.h
+rnd.h
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/rnd.h
+fstream
+-
+
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/container.h
+number.h
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/number.h
+
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/fractional.h
+rnd.h
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/rnd.h
+fstream
+-
+
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+ctime
+-
+cstring
+-
+container.h
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/container.h
+
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/number.h
+complex.h
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/complex.h
+fractional.h
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/fractional.h
+polar_coordinates.h
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/polar_coordinates.h
+
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/polar_coordinates.h
+fstream
+-
+rnd.h
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/rnd.h
+
+/home/nigoluiza/Downloads/Telegram Desktop/avs_lena/avs_lena/avs/rnd.h
+cstdlib
+-
+
