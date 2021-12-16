@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/acs_hw5.dir/main.cpp.o CMakeFiles/acs_hw5.dir/alphabet.cpp.o  -o acs_hw5 

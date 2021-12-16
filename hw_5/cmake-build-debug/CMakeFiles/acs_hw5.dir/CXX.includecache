@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Asus/CLionProjects/acs_hw5/alphabet.cpp
+alphabet.h
+/mnt/c/Users/Asus/CLionProjects/acs_hw5/alphabet.h
+
+/mnt/c/Users/Asus/CLionProjects/acs_hw5/alphabet.h
+unordered_map
+-
+
+/mnt/c/Users/Asus/CLionProjects/acs_hw5/main.cpp
+iostream
+-
+queue
+-
+thread
+-
+alphabet.h
+/mnt/c/Users/Asus/CLionProjects/acs_hw5/alphabet.h
+
